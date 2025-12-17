@@ -4040,5 +4040,572 @@ He spared me. He just didn't want me to leech his traffic.`,
 녀석은 우아하게 발톱으로 [계정 삭제]를 눌렀다.
 날 죽이진 않았다. 그냥 자기 조회수 빨아먹는 게 싫었던 거다.`
         }
+    },
+    {
+        id: 'midnight-bus',
+        title: {
+            zh: '午夜巴士',
+            en: 'The Midnight Bus',
+            ja: '真夜中のバス',
+            ko: '심야 버스'
+        },
+        author: {
+            zh: '迷路靈魂',
+            en: 'Lost Soul',
+            ja: '迷える魂',
+            ko: '길 잃은 영혼'
+        },
+        description: {
+            zh: '這輛巴士沒有站牌。它只會停在感到迷茫的人面前。終點站是「你該去的地方」。',
+            en: 'No bus stops. It only stops for the lost. Destination: "Where you need to be."',
+            ja: 'バス停はない。迷っている人の前にだけ停まる。終点は「君が行くべき場所」。',
+            ko: '정류장이 없다. 길을 잃은 사람 앞에만 선다. 종점은 "네가 가야 할 곳".'
+        },
+        tags: ['Fantasy', 'Warm'],
+        content: {
+            zh: `我失業了，失戀了，也被房東趕出來了。
+凌晨兩點，我坐在公園長椅上，不知道該去哪裡。
+這時，一輛破舊的巴士停在我面前。車身上沒有號碼，只寫著「午夜線」。
+門開了，司機戴著墨鏡（晚上戴？），對我點點頭。
+我上了車。
+
+車上只有幾個乘客。
+一個哭泣的新娘，一個抱著吉他的老人，還有一個穿著睡衣的小孩。
+沒人說話。
+巴士穿過城市，穿過我從未見過的街道。窗外的景色變成了流動的星空。
+
+「下一站：勇氣。」司機廣播。
+哭泣的新娘擦乾眼淚，下車了。我看見她下車的地方是一間婚紗店的後門，那是她不敢面對的過去。
+「下一站：和解。」
+抱著吉他的老人下車了，走向一棟老房子。
+「下一站：回家。」
+穿睡衣的小孩跳下車，跑向焦急尋找他的父母。
+
+「你呢？」司機回頭看我，「你想去哪？」
+「我不知道，」我說，「我一無所有。」
+司機笑了：「那就去『開始』吧。」
+車門開了。
+我走下去，發現自己站在一家 24 小時早餐店門口。門上貼著一張紅紙：【誠徵學徒，包吃住】。
+早晨的陽光剛好灑在那張紙上。`,
+            en: `Jobless. Single. Evicted.
+2 AM. Park bench. Nowhere to go.
+An old bus stopped. No number. Sign said "Midnight Line".
+Driver wore sunglasses (at night?). Nodded.
+I got on.
+
+Few passengers.
+Crying bride. Old man with guitar. Kid in pajamas.
+Silence.
+Bus drove through city, then streets I never saw. Windows showed flowing stars.
+
+"Next stop: Courage."
+Bride wiped tears, got off. At back door of wedding shop. To face her past.
+"Next stop: Reconciliation."
+Old man left, walking to an old house.
+"Next stop: Home."
+Kid jumped off, ran to panicked parents.
+
+"You?" Driver asked. "Where to?"
+"I don't know. I have nothing."
+Driver smiled. "Then go to 'Start'."
+Doors opened.
+I stepped out. In front of a 24h diner.
+Sign on door: [Apprentice Wanted. Food & Lodging Included].
+Morning sun hit the sign.`,
+            ja: `失業。失恋。立ち退き。
+午前2時。公園のベンチ。行くあてがない。
+ボロいバスが停まった。番号はなく、「ミッドナイト線」とある。
+運転手はサングラス（夜なのに？）。頷いた。
+乗った。
+
+乗客は数人。
+泣いている花嫁。ギターを抱えた老人。パジャマの子供。
+無言。
+バスは街を抜け、見たことのない道を走る。窓の外は流れる星空。
+
+「次は、勇気。」
+花嫁は涙を拭き、降りた。ウエディングドレス店の裏口だ。彼女が逃げ出した場所。
+「次は、和解。」
+老人が降り、古い家へと歩いていく。
+「次は、家。」
+子供が飛び降り、探している両親の元へ走る。
+
+「君は？」運転手が聞いた。「どこへ？」
+「わからない。何もないんだ。」
+運転手は笑った。「なら、『始まり』へ行こう。」
+ドアが開く。
+降りると、24時間営業の食堂の前だった。
+貼り紙がある：【見習い募集。住み込み可】
+朝陽がその紙を照らしていた。`,
+            ko: `실직. 실연. 퇴거.
+새벽 2시. 공원 벤치. 갈 곳이 없다.
+낡은 버스가 섰다. 번호 없이 "심야 노선"이라 적혀 있다.
+기사는 선글라스(밤에?)를 쓰고 끄덕였다.
+탔다.
+
+승객 몇 명.
+우는 신부. 기타 든 노인. 잠옷 입은 아이.
+침묵.
+버스는 도시를 지나, 본 적 없는 길을 달렸다. 창밖은 별들이 흐르는 강.
+
+"다음 역: 용기."
+신부가 눈물을 닦고 내렸다. 웨딩샵 뒷문이었다. 그녀가 도망친 곳.
+"다음 역: 화해."
+노인이 내려 낡은 집으로 걸어갔다.
+"다음 역: 집."
+아이가 뛰어내려 부모에게 달려갔다.
+
+"당신은?" 기사가 물었다. "어디로?"
+"몰라요. 아무것도 없어요."
+기사가 웃었다. "그럼 '시작'으로 갑시다."
+문이 열렸다.
+내리니 24시간 식당 앞이었다.
+문 앞 전단지: [수습 구함. 숙식 제공].
+아침 햇살이 그 종이를 비추고 있었다.`
+        }
+    },
+    {
+        id: 'color-thief',
+        title: {
+            zh: '盜色人',
+            en: 'The Color Thief',
+            ja: '色泥棒',
+            ko: '색 도둑'
+        },
+        author: {
+            zh: '黑白膠卷',
+            en: 'Monochrome Film',
+            ja: 'モノクロフィルム',
+            ko: '흑백 필름'
+        },
+        description: {
+            zh: '世界正在褪色。有人在偷走夕陽的紅、草地的綠。現在，他瞄準了你的眼睛。',
+            en: 'The world is fading. Someone is stealing the red of sunsets, the green of grass. Now, he wants your eyes.',
+            ja: '世界が色あせている。誰かが夕日の赤を、草の緑を盗んでいる。今、彼は君の目を狙っている。',
+            ko: '세상이 바래고 있다. 누군가 노을의 붉은색, 잔디의 초록색을 훔치고 있다. 이제 그는 네 눈을 노린다.'
+        },
+        tags: ['Fantasy', 'Mystery'],
+        content: {
+            zh: `這不是譬喻。這真的發生了。
+週一，所有的消防車變成了灰色。政府解釋說是油漆氧化，但我知道不是。
+週三，天空變成了慘白色。不再有藍天。人們開始戴有色眼鏡，假裝世界還正常。
+
+我在街角抓住了那個小偷。
+他是個穿著灰色大衣的老頭，手裡拿著一個玻璃瓶。
+瓶子裡裝滿了流動的液體：鮮豔的紅色、深邃的藍色、充滿活力的黃色。
+「為什麼？」我問。
+老頭看著我，他的眼神空洞。「因為這世界配不上這些顏色。」
+他不屑地指著街道，「看看你們。戰爭、污染、謊言。你們把世界弄得灰暗骯髒，卻還霸佔著這麼美的色彩？浪費。」
+
+他舉起瓶子，那是他最後的收藏。
+「我把顏色帶去一個更好的地方。畫布裡，或者夢裡。」
+他看向我的眼睛，貪婪地舔了舔嘴唇。
+「你的瞳孔... 琥珀色。很稀有。」
+他伸出了手。
+我的視線開始模糊，琥珀色正在從我眼中流逝，被吸入那個瓶子。
+在最後一刻，我看到這世界徹底變成了黑白電影。
+除了那個老頭手中，那瓶絢麗得刺眼的液體。`,
+            en: `Not a metaphor. Real.
+Monday, firetrucks turned grey. Gov said "paint oxidation". I knew better.
+Wednesday, sky turned dead white. No more blue. People wore tinted glasses, pretending.
+
+I caught the thief at a corner.
+Old man in grey coat, holding a glass jar.
+Jar filled with swirling liquid: Vivid Red, Deep Blue, Vibrant Yellow.
+"Why?" I asked.
+He looked hollow. "This world doesn't deserve colors."
+He pointed at the street. "Look at you. War, pollution, lies. You make the world grey and dirty, yet claim these beauties? Waste."
+
+He raised the jar.
+"I'm taking them to a better place. A canvas, or a dream."
+He looked at my eyes. Licked his lips.
+"Your irises... Amber. Rare."
+He reached out.
+My vision blurred. Amber flowed from my eyes into his jar.
+Last thing I saw: World turned black and white.
+Except for that jar, shining painfully bright.`,
+            ja: `比喩じゃない。現実だ。
+月曜、消防車が灰色になった。政府はペンキの酸化だと言ったが、嘘だ。
+水曜、空が真っ白になった。青空消滅。人々は色付き眼鏡でごまかした。
+
+街角で泥棒を捕まえた。
+灰色のコートの老人。ガラス瓶を持っていた。
+瓶の中には流動する液体：鮮烈な赤、深い青、元気な黄色。
+「なぜ？」聞いた。
+老人の目は虚ろ。「この世界に色は勿体ない。」
+彼は街を指差した。「見ろ。戦争、汚染、嘘。お前らが世界を薄汚くしておいて、こんな美しい色を持つ資格があるか？」
+
+彼は瓶を掲げた。
+「もっと良い場所へ持っていく。絵画の中か、夢の中へ。」
+彼は私の目を見た。舌なめずりした。
+「君の瞳...琥珀色だ。珍しい。」
+彼が手を伸ばした。
+視界が霞む。琥珀色が流れ出し、瓶へ吸い込まれる。
+最期に見たのは、完全なモノクロになった世界。
+老人の手の中の、目が痛くなるほど鮮やかな瓶を除いて。`,
+            ko: `비유가 아니다. 진짜다.
+월요일, 소방차가 회색이 됐다. 정부는 페인트 산화라했지만 거짓말이다.
+수요일, 하늘이 창백해졌다. 파란 하늘은 끝. 사람들은 선글라스를 끼고 괜찮은 척했다.
+
+길모퉁이에서 도둑을 잡았다.
+회색 코트 노인. 유리병을 들고 있었다.
+병 속엔 흐르는 액체: 선명한 빨강, 깊은 파랑, 생기 넘치는 노랑.
+"왜요?" 물었다.
+노인의 눈은 비어 있었다. "이 세상은 색을 가질 자격이 없어."
+그는 거리를 가리켰다. "봐라. 전쟁, 오염, 거짓말. 세상을 잿빛으로 더럽히면서, 이런 아름다운 색을 독점해? 낭비야."
+
+그는 병을 들었다.
+"더 좋은 곳으로 가져갈 거다. 캔버스 속이나, 꿈속으로."
+그가 내 눈을 봤다. 입맛을 다셨다.
+"네 눈동자... 호박색이군. 희귀해."
+그가 손을 뻗었다.
+시야가 흐려졌다. 호박색이 빠져나가 병으로 빨려 들어갔다.
+마지막으로 본 건, 완전히 흑백영화가 된 세상.
+노인의 손에 들린, 시리도록 찬란한 그 병만 빼고.`
+        }
+    },
+    {
+        id: 'reverse-zoo',
+        title: {
+            zh: '逆向動物園',
+            en: 'The Reverse Zoo',
+            ja: '逆動物園',
+            ko: '역방향 동물원'
+        },
+        author: {
+            zh: '猩猩博士',
+            en: 'Dr. Chimp',
+            ja: 'チンパン博士',
+            ko: '침팬지 박사'
+        },
+        description: {
+            zh: '在這裡，動物自由行走，人類被關在名為「辦公室」的籠子裡展覽。',
+            en: 'Here, animals roam free. Humans are exhibited in cages called "Offices".',
+            ja: 'ここでは動物が自由に歩き、人間が「オフィス」という檻に入れられ展示されている。',
+            ko: '이곳에선 동물이 자유롭고, 인간이 "사무실"이라는 우리에 갇혀 전시된다.'
+        },
+        tags: ['Satire', 'Sci-Fi'],
+        content: {
+            zh: `這是一個受歡迎的週日景點。
+一家獅子帶著小獅子來參觀。
+「看，爸爸，」小獅子指著玻璃窗內，「那就是『社畜』（Corporate Slave）嗎？」
+
+玻璃窗內，是一個格子間辦公室。
+一個穿著襯衫的人類正在瘋狂打字，黑眼圈深得像熊貓（真正的熊貓正在外面吃爆米花看戲）。
+電話響了。人類驚恐地接起，不斷點頭哈腰：「是，老闆。好的，老闆。」
+
+外面的動物遊客們發出驚嘆。
+「真可憐，」長頸鹿說，「他們每天要在這種狹小的空間待 12 小時？」
+「聽說他們是自願的，」大象甩甩鼻子，「為了換取一種叫『薪水』的紙片。」
+「那紙片能吃嗎？」小獅子問。
+「不能，」獅子爸爸解釋，「但能用來買更多不需要的東西，然後把自己困在更高級的籠子裡。」
+
+玻璃窗內的人類突然崩潰了，趴在桌子上哭。
+「哇！」遊客們興奮地拍照。
+導遊（一隻鸚鵡）廣播：「各位運氣真好！看到了稀有的『崩潰瞬間』！請勿拍打玻璃，以免驚嚇人類導致猝死。」
+
+小獅子覺得無聊了：「爸爸，我們走吧。人類好無趣，只會工作和哭。」
+獅子爸爸點點頭：「是啊。記住了孩子，要在草原上奔跑。千萬別進化成這樣。」`,
+            en: `Popular Sunday spot.
+Lion family visiting.
+"Look, Dad," cub pointed at glass. "Is that a 'Corporate Slave'?"
+
+Inside glass: Cubicle office.
+Human in shirt typing frantically. Eye bags darker than Panda's (Real Panda outside eating popcorn watching).
+Phone rang. Human panicked, bowed while sitting: "Yes, Boss. OK, Boss."
+
+Animal tourists gasped.
+"How sad," Giraffe said. "12 hours a day in that small box?"
+"They do it voluntarily," Elephant waved trunk. "For paper called 'Salary'."
+"Can they eat paper?" Cub asked.
+"No," Lion Dad explained. "But they use it to buy useless things, and lock themselves in fancier cages."
+
+Human inside broke down, crying on desk.
+"Wow!" Tourists took photos.
+Guide (Parrot): "Lucky day! Rare 'Breakdown Moment'! Don't tap glass, humans die from stress easily."
+
+Cub got bored. "Dad, let's go. Humans are boring. Just work and cry."
+Lion Dad nodded. "Yes. Remember, son. Run in the savanna. Never evolve into... that."`,
+            ja: `人気の日曜スポット。
+ライオンの家族連れ。
+「パパ見て」子ライオンがガラスを指差す。「あれが『シャチク』？」
+
+ガラスの中：パーティションで区切られたオフィス。
+シャツ着た人間が狂ったようにタイピング。目のクマはパンダ以上（本物のパンダは外でポップコーン食いながら見てる）。
+電話が鳴る。人間は怯え、座ったままお辞儀：「はい、ボス。はい。」
+
+動物客は感嘆。
+「かわいそうに」キリン。「あんな狭い所に1日12時間？」
+「自発的らしいぞ」ゾウ。「『給料』という紙のために」
+「紙は食えるの？」子ライオン。
+「いいや」パパライオン。「だがそれを使って不要な物を買い、より高級な檻に自分を閉じ込めるんだ」
+
+中の人間が崩れ落ち、泣き出した。
+「うわー！」客は激写。
+ガイド（オウム）：「ラッキーですね！レアな『崩壊の瞬間』です！ガラスを叩かないで。彼らはすぐ過労死します」
+
+子ライオンは飽きた。「パパ行こう。人間つまんない。働いて泣くだけ。」
+パパは頷く。「ああ。いいか息子よ。サバンナを走るんだ。絶対にああいう風に進化するなよ。」`,
+            ko: `인기 있는 일요일 명소.
+사자 가족이 구경 왔다.
+"아빠 봐봐," 아기 사자가 유리를 가리켰다. "저게 '사축'이야?"
+
+유리 안: 칸막이 사무실.
+셔츠 입은 인간이 미친 듯이 타자 중. 다크서클이 판다보다 심함 (진짜 판다는 밖에서 팝콘 먹으며 구경 중).
+전화가 울림. 인간이 공포에 질려 굽신거림: "네, 부장님. 알겠습니다."
+
+동물 관광객들 감탄.
+"불쌍해라," 기린이 말했다. "저 좁은 데서 하루 12시간?"
+"자발적이래," 코끼리가 코를 흔들었다. "'월급'이란 종이 때문에."
+"그 종이 먹는 거야?" 아기 사자가 물었다.
+"아니," 아빠 사자 설명. "하지만 그걸로 쓸데없는 걸 사고, 더 비싼 우리에 스스로를 가두지."
+
+안의 인간이 무너져 책상에 엎드려 울었다.
+"와!" 관광객들 사진 찍음.
+가이드(앵무새): "운 좋으시네요! 희귀한 '멘붕 모먼트'입니다! 유리 치지 마세요. 인간은 스트레스로 쉽게 죽습니다."
+
+아기 사자는 지루해졌다. "아빠 가자. 인간 노잼이야. 일하고 울기만 해."
+아빠 사자 끄덕임. "그래. 명심해라 아들아. 초원을 달려야 해. 절대 저렇게 진화하지 마라."`
+        }
+    },
+    {
+        id: 'bottled-silence',
+        title: {
+            zh: '寂靜專賣店',
+            en: 'Store of Silence',
+            ja: '静寂専門店',
+            ko: '침묵 전문점'
+        },
+        author: {
+            zh: '啞劇演員',
+            en: 'Mime Artist',
+            ja: 'マイム役者',
+            ko: '마임 배우'
+        },
+        description: {
+            zh: '我們出售絕對的安靜。瓶裝的「圖書館早晨」、罐裝的「深海海底」。價格昂貴，但值得。',
+            en: 'We sell absolute quiet. Bottled "Library Morning", Canned "Deep Sea". Expensive, but worth it.',
+            ja: '絶対の静寂を売ります。瓶詰めの「図書館の朝」、缶詰の「深海」。高価ですが、価値はあります。',
+            ko: '절대적인 고요를 팝니다. 병에 담긴 "도서관의 아침", 통조림 "심해". 비싸지만 가치 있습니다.'
+        },
+        tags: ['Sci-Fi', 'Healing'],
+        content: {
+            zh: `這城市太吵了。
+汽車聲、施工聲、鄰居的吵架聲、還有腦子裡停不下來的焦慮聲。
+我不惜重金，來到這家傳說中的店。
+
+店裡沒有背景音樂。店員用手語交流。
+貨架上擺滿了精緻的玻璃瓶。
+我買了一瓶頂級的【雪落無聲（極地版）】。
+這花了我三個月的薪水。
+
+回到家，我關上門窗，戴上耳塞（這還不夠），然後小心翼翼地打開瓶蓋。
+一瞬間。
+聲音消失了。
+不僅是外界的噪音，連心跳聲、血液流動的聲音、大腦裡的嗡嗡聲，全部被吸走了。
+這是一種純粹的、厚實的、像絨毯一樣的寂靜。
+我感覺自己漂浮在虛空中。
+壓力釋放了。肌肉鬆弛了。
+我流下了眼淚，但連眼淚滴落的聲音都沒有。
+
+十分鐘後，瓶子裡的「寂靜」揮發完了。
+汽車聲重新湧入。
+但我不再煩躁。因為我記得那十分鐘的寧靜。我知道世界上存在著那樣的安寧。
+我把空瓶子放在床頭。聞一聞瓶口殘留的味道，今晚就能睡個好覺。`,
+            en: `City is too loud.
+Cars, drills, neighbors fighting, anxiety buzzing in brain.
+I paid a fortune to visit this legendary shop.
+
+No BGM inside. Staff use sign language.
+Shelves full of exquisite glass bottles.
+I bought a premium [Snowfall Silence (Polar Edition)].
+Cost me 3 months' salary.
+
+Home. Closed windows. Earplugs (not enough).
+Opened the bottle carefully.
+Instantly.
+Sound vanished.
+Not just outside noise. Heartbeat, blood flow, brain buzz—all gone.
+Pure, thick, velvet-like silence.
+Floating in void.
+Stress released. Muscles melted.
+I cried, but even the tear drop made no sound.
+
+10 minutes later, the "Silence" evaporated.
+Noise rushed back.
+But I wasn't annoyed. I remembered that peace. I know it exists.
+I put the empty bottle by my bed. Sniffing the residue... I can sleep tonight.`,
+            ja: `街はうるさすぎる。
+車、工事、隣人の喧嘩、脳内の不安ノイズ。
+大金を払い、伝説の店へ。
+
+BGMなし。店員は手話。
+棚には美しいガラス瓶。
+最高級の【雪の静寂（極地版）】を買った。
+給料3ヶ月分。
+
+帰宅。窓を閉め、耳栓（まだ足りない）。
+慎重に瓶を開けた。
+瞬間。
+音が消えた。
+外の音だけじゃない。心音、血流音、脳のノイズ...全て吸い取られた。
+純粋で、分厚い、ベルベットのような静寂。
+虚空に浮いている感覚。
+ストレス解放。筋肉が溶ける。
+涙が出たが、滴る音さえしない。
+
+10分後、「静寂」は揮発した。
+騒音が戻った。
+だがイライラしない。あの安らぎを覚えているから。
+空き瓶を枕元に。残り香を嗅げば...今夜は眠れそうだ。`,
+            ko: `도시가 너무 시끄럽다.
+차 소리, 공사 소리, 이웃 싸움, 뇌 속의 불안한 소음.
+거금을 들여 전설의 가게에 왔다.
+
+BGM 없음. 직원들은 수화로 대화.
+선반엔 정교한 유리병들.
+최고급 [눈 내리는 소리 (극지방 에디션)]을 샀다.
+3개월 치 월급.
+
+집. 문 닫고, 귀마개(부족해) 하고.
+조심스레 병을 열었다.
+순간.
+소리가 사라졌다.
+외부 소음뿐 아니라 심장 박동, 혈류 소리, 뇌의 웅웅거림까지 싹 사라졌다.
+순수하고, 두툼하고, 벨벳 같은 고요.
+허공에 뜬 기분.
+스트레스 해방. 근육이 녹아내렸다.
+눈물을 흘렸지만 떨어지는 소리조차 나지 않았다.
+
+10분 후, '고요'가 증발했다.
+소음이 다시 밀려왔다.
+하지만 짜증 나지 않았다. 그 평화를 기억하니까. 그런 안식이 있다는 걸 아니까.
+빈병을 머리맡에 뒀다. 병 입구 냄새만 맡아도... 오늘 밤은 잘 수 있을 것 같다.`
+        }
+    },
+    {
+        id: 'dream-architect',
+        title: {
+            zh: '夢境建築師',
+            en: 'Dream Architect',
+            ja: '夢の建築家',
+            ko: '꿈 건축가'
+        },
+        author: {
+            zh: '睡眠技師',
+            en: 'Sleep Tech',
+            ja: '睡眠技師',
+            ko: '수면 기사'
+        },
+        description: {
+            zh: '「我要一個飛行的城堡，還有會說話的獨角獸。」「預算不足喔，先生。只能給您茅草屋和說話的驢子。」',
+            en: '"I want a flying castle and a talking unicorn." "Budget too low, sir. I can give you a hut and a talking donkey."',
+            ja: '「空飛ぶ城と喋るユニコーンを頼む」「予算不足ですね。藁小屋と喋るロバになります。」',
+            ko: ' "하늘을 나는 성이랑 말하는 유니콘 주세요." "예산 부족입니다 고갱님. 초가집이랑 말하는 당나귀로 해드릴게요."'
+        },
+        tags: ['Fantasy', 'Comedy'],
+        content: {
+            zh: `我是夢境建築師。
+客戶付錢，我在他們的 REM 睡眠期搭建場景。
+
+今晚的客戶是個富二代。
+訂單要求：【英雄救美劇本。我要當超人，救出被怪獸抓走的校花。怪獸要恐怖，場面要浩大。】
+但是，他付的是「基礎套餐」的錢。
+
+開工了。
+夢境開始。
+客戶穿著超人披風出場了（因為預算不夠，披風是用窗簾改的）。
+「怪物在哪裡？」他大喊。
+我嘆了口氣，放出了一隻... 巨大的柯基犬。
+沒錢做哥吉拉模型啊！柯基放大 50 倍也很恐怖吧？
+客戶愣了一下：「這什麼鬼？好可愛... 不對，怪獸呢？」
+柯基怪獸：「汪！（我是怪獸！）」
+
+「校花呢？」客戶繼續問。
+我指了指塔頂。
+那不是校花，那是食堂大媽。但我給她加了個「美女濾鏡」，只要不說話就看不出來。
+客戶飛上去，抱起「校花」。
+食堂大媽（濾鏡下）：「同學，多吃點青菜啊。」
+濾鏡瞬間破碎。
+客戶驚醒了。
+
+投訴信馬上就到了。
+我喝了口咖啡，回覆：「親，一分錢一分貨。想做《全面啟動》那種夢？請先儲值 VIP。」`,
+            en: `I am a Dream Architect.
+Clients pay, I build scenes in their REM sleep.
+
+Tonight's client: Rich kid.
+Order: [hero Saves Beauty. I want to be Superman, save crush from Monster. Monster must be scary, scene epic.]
+But he paid for "Basic Package".
+
+Start.
+Client appears in Superman cape (Low budget, so it's a curtain).
+"Where is the monster?" He yells.
+I sigh. Release a... Giant Corgi.
+Can't afford Godzilla model! 50x Corgi is scary too, right?
+Client pauses: "What the hell? Cute... wait, where is the monster?"
+Corgi Monster: "Woof! (I am monster!)"
+
+"Where is the girl?" Client asks.
+I point to the tower.
+Not the crush. It's the Lunch Lady. But I applied "Beauty Filter". Looks fine if silent.
+Client flies up, holds the "girl".
+Lunch Lady (Filtered): "Student, eat more veggies."
+Filter shatters.
+Client wakes up screaming.
+
+Complaint received.
+I sip coffee, reply: "Sir, get what you pay for. Want 'Inception'? Upgrade to VIP."`,
+            ja: `私は夢の建築家。
+依頼を受け、レム睡眠中にセットを組む。
+
+今夜の客：金持ちの息子。
+注文：【ヒーローが美女を救う。俺はスーパーマン、怪獣から学校のアイドルを救う。怪獣は怖く、壮大に。】
+だが、支払いは「ベーシックプラン」だ。
+
+開始。
+客がマント（予算不足でカーテン）で登場。
+「怪獣はどこだ？」
+ため息をつき...巨大コーギーを投入。
+ゴジラの予算はない！50倍のコーギーも怖いだろ？
+客：「なんだこれ？可愛い...いや、怪獣は？」
+コーギー：「ワン！（俺は怪獣だ！）」
+
+「アイドルは？」
+塔の上を指す。
+アイドルではない。食堂のおばちゃんだ。だが「美女フィルター」をかけた。喋らなければバレない。
+客が飛び、抱き上げる。
+おばちゃん（フィルター）： 「野菜もっと食べなさいよ」
+フィルター崩壊。
+客、覚醒。
+
+クレームが来た。
+コーヒーを啜り返信：「お値段通りです。『インセプション』をご希望なら、VIP課金を。」`,
+            ko: `나는 꿈 건축가다.
+고객이 돈을 내면 램수면 중에 세트를 지어준다.
+
+오늘 고객: 부잣집 도련님.
+주문: [영웅이 미녀 구출. 내가 슈퍼맨 돼서 짝사랑녀를 괴수에게서 구함. 괴수는 무섭게, 스케일 크게.]
+근데 '기본 요금제' 냈다.
+
+시작.
+고객이 망토(예산 없어서 커튼임) 입고 등장.
+"괴수 어디 있냐?"
+한숨 쉬고... 거대 웰시코기를 풀었다.
+고질라 모델링 비싸다고! 50배 코기면 무섭겠지?
+고객: "뭐야 이거? 귀여워... 아니, 괴수는?"
+코기: "멍! (내가 괴수다!)"
+
+"그녀는?"
+탑 위를 가리켰다.
+짝사랑녀 아님. 급식실 아주머니임. 근데 '미녀 필터' 씌움. 말 안 하면 모름.
+고객이 날아가서 안아 올림.
+아주머니(필터): "학생, 시금치 좀 먹어."
+필터 와장창.
+고객 깸.
+
+컴플레인 들어옴.
+커피 마시며 답장: "고갱님, 싼 게 비지떡이죠. '인셉션' 찍고 싶으시면 VIP 결제하세요."`
+        }
     }
 ];
