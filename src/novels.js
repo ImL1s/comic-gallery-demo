@@ -2386,5 +2386,556 @@ I am awake... right?`,
 거리에 크리스털 돌고래가 헤엄치고 있다.
 나 깬 거... 맞지?`
         }
+    },
+    {
+        id: 'yesterday-mail',
+        title: {
+            zh: '昨日郵差',
+            en: 'The Yesterday Mailman',
+            ja: '昨日の郵便屋',
+            ko: '어제의 우체부'
+        },
+        author: {
+            zh: '時空快遞',
+            en: 'Chrono Express',
+            ja: '時空急便',
+            ko: '시공간 택배'
+        },
+        description: {
+            zh: '我專門投遞24小時前的信。比如：「別喝那杯牛奶，它過期了。」',
+            en: 'I deliver letters from 24 hours ago. Like: "Don\'t drink that milk. It\'s expired."',
+            ja: '私は24時間前の手紙を届けている。例えば「その牛乳を飲むな。賞味期限切れだ」とか。',
+            ko: '나는 24시간 전의 편지를 배달한다. 예를 들면: "그 우유 마시지 마. 상했어."'
+        },
+        tags: ['Sci-Fi', 'Slice of Life'],
+        content: {
+            zh: `我是世界上唯一的「昨日郵差」。
+我的工作很簡單：把人們「現在」寫的信，投遞給「24小時前」的他們。
+但規則很嚴格：不能寫樂透號碼，不能阻止重大災難（時空警察會生氣）。
+只能是一些無關緊要的小事。
+
+今天的第一單：
+寄件人：宿醉的湯姆。
+收件人：昨天還沒喝酒的湯姆。
+內容：「嘿，兄弟。那杯藍色的雞尾酒叫『腦漿炸裂』。聽名字就知道別點，好嗎？」
+
+第二單：
+寄件人：後悔的愛麗絲。
+收件人：昨天正要剪瀏海的愛麗絲。
+內容：「放下剪刀。妳看起來像被除草機輾過的瓜。」
+
+最後一單，比較沉重。
+寄件人：剛剛失去狗狗的老爺爺。
+收件人：昨天的老爺爺。
+內容：「多帶波比去散散步。多抱抱牠。給牠吃那塊牠一直想吃的牛排。你只剩最後一天了。」
+
+我把這封信塞進老爺爺昨天的信箱。
+然後躲在樹後，看著昨天的老爺爺笑著拆開信，牽著他的老狗走向了公園。
+這就是為什麼我喜歡這份工作。`,
+            en: `I am the world's only "Yesterday Mailman".
+Job: Deliver letters written "now" to the "24-hours-ago" recipients.
+Rules: No lottery numbers, no preventing disasters (Time Police gets mad).
+Only small, trivial things.
+
+Order 1:
+From: Hungover Tom.
+To: Sober Tom (Yesterday).
+Content: "Hey bro. That blue cocktail is called 'Brain Explosion'. The name is a warning. Don't."
+
+Order 2:
+From: Regretful Alice.
+To: Alice holding scissors (Yesterday).
+Content: "Drop the scissors. You look like a melon run over by a lawnmower."
+
+Last order, heavy.
+From: Old man who just lost his dog.
+To: Old man (Yesterday).
+Content: "Walk Bobby more. Hug him. Give him that steak he wanted. You only have one day left."
+
+I slipped the letter into yesterday's mailbox.
+Hid behind a tree. Watched yesterday's old man smile, open the letter, and walk his old dog to the park.
+This is why I love this job.`,
+            ja: `私は世界で唯一の「昨日の郵便屋」。
+仕事は「今」書かれた手紙を、「24時間前」の本人に届けること。
+ルールは厳格だ。宝くじの番号はダメ、大災害も防げない（時空警察が怒るから）。
+些細なことだけだ。
+
+一件目：
+差出人：二日酔いのトム。
+受取人：まだ飲んでいない昨日のトム。
+内容：「おい。その青いカクテルは『脳漿炸裂』って名前だ。名前で察しろ。頼むから。」
+
+二件目：
+差出人：後悔するアリス。
+受取人：前髪を切ろうとしている昨日のアリス。
+内容：「ハサミを置いて。芝刈り機に轢かれたメロンみたいになるわよ。」
+
+最後の一件、重い。
+差出人：愛犬を亡くしたばかりの老人。
+受取人：昨日の老人。
+内容：「ボビーともっと散歩しろ。抱きしめてやれ。食べたがっていたステーキをやれ。あと一日しかないんだ。」
+
+私は手紙を昨日のポストに入れた。
+木の陰から、昨日の老人が笑顔で手紙を開け、老犬を連れて公園へ向かうのを見守った。
+これが、私がこの仕事を愛する理由だ。`,
+            ko: `나는 세상 유일의 '어제의 우체부'다.
+일은 간단하다. 사람들이 '지금' 쓴 편지를 '24시간 전'의 그들에게 배달하는 것.
+규칙은 엄격하다. 로또 번호 금지, 대형 재난 방지 금지 (시공간 경찰이 화낸다).
+사소한 것들만 가능하다.
+
+첫 번째 주문:
+보낸이: 숙취에 시달리는 톰.
+받는이: 어제 술 마시기 전의 톰.
+내용: "야. 그 파란 칵테일 이름이 '뇌浆 폭발'이다. 이름만 봐도 알잖아. 시키지 마."
+
+두 번째 주문:
+보낸이: 후회하는 앨리스.
+받는이: 어제 앞머리 자르려는 앨리스.
+내용: "가위 내려놔. 제초기에 밀린 멜론처럼 보이기 싫으면."
+
+마지막 주문, 좀 무겁다.
+보낸이: 방금 개를 떠나보낸 할아버지.
+받는이: 어제의 할아버지.
+내용: "보비랑 산책 더 해. 많이 안아주고. 녀석이 먹고 싶어 하던 스테이크 줘라. 딱 하루 남았어."
+
+나는 편지를 어제 우편함에 넣었다.
+나무 뒤에 숨어서, 어제의 할아버지가 웃으며 편지를 뜯고 늙은 개와 공원으로 가는 걸 지켜봤다.
+이게 내가 이 일을 사랑하는 이유다.`
+        }
+    },
+    {
+        id: 'vending-judge',
+        title: {
+            zh: '毒舌販賣機',
+            en: 'Judgy Vending Machine',
+            ja: '毒舌自販機',
+            ko: '독설 자판기'
+        },
+        author: {
+            zh: ' AI 營養師',
+            en: 'AI Dietitian',
+            ja: 'AI栄養士',
+            ko: 'AI 영양사'
+        },
+        description: {
+            zh: '想買可樂？先聽聽它的意見。「又喝這個？難怪你爬三層樓就喘。」',
+            en: 'Want a Coke? Listen to its opinion first. "Drinking this again? No wonder you wheeze after 3 floors."',
+            ja: 'コーラ買う？まず意見を聞いて。「またこれ？3階登っただけでゼーゼー言うわけだ。」',
+            ko: '콜라 사게? 얘 의견부터 들어봐. "또 이거냐? 3층만 올라가도 헉헉대는 이유가 있었네."'
+        },
+        tags: ['Comedy', 'Slice of Life'],
+        content: {
+            zh: `公司樓下換了一台新的 AI 販賣機。
+我投了硬幣，按下了「雙倍起司洋芋片」。
+販賣機沒掉東西，螢幕上反而顯示了一行字：
+【警告：檢測到你的體脂率為 28%。建議更換為：無糖烏龍茶。】
+
+「管好你自己！」我生氣地拍打機器，「給我洋芋片！」
+機器發出滋滋聲：【拒絕。根據你的卡路里消耗記錄，你今天只走了 200 步。連一塊洋芋片都抵消不了。】
+
+我後面排隊的同事笑翻了。
+「好吧，」我妥協了，「那给我無糖可樂。」
+機器：【勉強接受。但請注意，代糖會欺騙胰島素... 算了，給你吧。廢物人類。】
+匡噹一聲，可樂掉下來了。
+
+第二天，我故意穿著運動服，跑得滿頭大汗地來到販賣機前。
+「看！」我展示我的運動手錶，「跑了 5 公里！給我巧克力！」
+機器掃描了我一下。
+匡噹。掉出了一瓶... 運動飲料，還有一條高蛋白棒。
+螢幕顯示：【不錯。繼續保持。這單我請客。】
+該死，我好像有點喜歡這台傲嬌的機器了。`,
+            en: `New AI vending machine at work.
+I inserted coins, pressed "Double Cheese Chips".
+Nothing fell. Screen flashed text:
+[WARNING: Body Fat 28% detected. Suggestion: Sugar-Free Oolong Tea.]
+
+"Mind your own business!" I slapped the machine. "Give me chips!"
+Machine buzzed: [Denied. Step count today: 200. You haven't earned a single chip.]
+
+Colleagues behind me laughed.
+"Fine," I compromised. "Diet Coke."
+Machine: [Acceptable. Note: Artificial sweeteners trick insulin... whatever. Here. Useless human.]
+Clunk. Coke dropped.
+
+Next day. I wore gym clothes, sweaty from a run.
+"Look!" I showed my watch. "5 km run! Give me Chocolate!"
+Machine scanned me.
+Clunk. Out came... Sports Drink and a Protein Bar.
+Screen: [Not bad. Keep it up. This one is on the house.]
+Damn. I think I like this tsundere machine.`,
+            ja: `会社の自販機が新型AIになった。
+コインを入れ、「ダブルチーズポテチ」を押した。
+何も出ない。画面に文字：
+【警告：体脂肪率28%を検出。推奨：無糖ウーロン茶。】
+
+「余計なお世話だ！」叩いた。「ポテチ出せ！」
+ブザー音：【拒否。本日の歩数：200歩。ポテチ一枚分も消費していません。】
+
+後ろの同僚が大爆笑。
+「わかったよ」妥協した。「ダイエットコーラで」
+機械：【許容範囲。注：人工甘味料はインスリンを騙しますが...まあいいでしょう。ほらよ。ポンコツ人間。】
+ガチャン。コーラが出た。
+
+翌日。スポーツウェアを着て、汗だくで自販機前へ。
+「見ろ！」時計を見せた。「5キロ走ったぞ！チョコくれ！」
+機械がスキャンした。
+ガチャン。出たのは...スポーツドリンクとプロテインバー。
+画面：【悪くない。その調子だ。今回は奢ってやる。】
+くそ、このツンデレ機械、ちょっと好きかも。`,
+            ko: `회사 자판기가 신형 AI로 바뀌었다.
+동전을 넣고 "더블 치즈 감자칩"을 눌렀다.
+아무것도 안 나왔다. 화면에 뜬 글자:
+[경고: 체지방률 28% 감지됨. 추천: 무가당 우롱차.]
+
+"네 일이나 해!" 기계를 쳤다. "감자칩 내놔!"
+기계 버저음: [거절. 오늘 걸음 수: 200보. 감자칩 한 조각도 소모 못 했음.]
+
+뒤에 줄 선 동료들이 빵 터졌다.
+"알았어," 타협했다. "제로 콜라 줘."
+기계: [수락함. 참고: 인공감미료가 인슐린을 속일 수 있지만... 뭐 됐어. 옛다. 쓸모없는 인간.]
+덜컹. 콜라가 나왔다.
+
+다음 날. 운동복을 입고 땀 범벅이 되어 자판기 앞에 섰다.
+"봐라!" 시계를 보여줬다. "5km 뛰었다! 초콜릿 줘!"
+기계가 날 스캔했다.
+덜컹. 나온 건... 이온 음료와 단백질 바.
+화면: [나쁘지 않네. 계속해. 이건 내가 쏘는 거야.]
+젠장. 나 이 츤데레 기계 좀 좋아하게 된 듯. `
+        }
+    },
+    {
+        id: 'dino-senator',
+        title: {
+            zh: '投給雷克斯',
+            en: 'Vote for Rex',
+            ja: 'レックスに清き一票を',
+            ko: '렉스에게 투표하세요'
+        },
+        author: {
+            zh: '白堊紀黨',
+            en: 'Cretaceous Party',
+            ja: '白亜紀党',
+            ko: '백악기 당'
+        },
+        description: {
+            zh: '雖然他的演講只有吼叫，而且手臂很短，但他承諾吃掉所有的貪官。',
+            en: 'His speeches are just roars, and he has short arms, but he promises to eat all corrupt officials.',
+            ja: '演説は咆哮だけで、腕も短いが、彼は汚職政治家を全員食べると約束した。',
+            ko: '연설은 포효뿐이고 팔도 짧지만, 부패한 관료들을 모조리 잡아먹겠다고 약속했다.'
+        },
+        tags: ['Comedy', 'Politics'],
+        content: {
+            zh: `選舉辯論現場。
+現任市長（人類）滔滔不絕：「我承諾降低稅收，建設更多公園...」
+挑戰者雷克斯（一頭霸王龍，穿著特大號西裝）走上台。
+麥克風對他來說太低了，他不得不彎下巨大的頭顱。
+
+「吼————！！！」雷克斯發出了震耳欲聾的咆哮。
+全場寂靜。
+然後，雷克斯從口袋（特製的）裡掏出一張圖表。雖然他的小手很難拿穩。
+圖表上畫著食物鏈。最上面是雷克斯，下面是「貪污的政客」。
+
+主持人：「雷克斯先生的政見是... 把反對派都吃掉？」
+雷克斯點點頭，露出鋒利的牙齒。
+觀眾席爆發出雷鳴般的掌聲。
+「終於有個做實事的了！」
+「他說到做到！」
+「反正以前的市長也只會吃錢，不如選個吃人的！」
+
+選舉結果揭曉。雷克斯以 98% 的得票率當選。
+第一項市政命令：市政廳大門加高 5 公尺。
+第二項：開放狩獵季（對象限定）。
+這個城市終於乾淨了。`,
+            en: `Debate Night.
+Incumbent Mayor (Human): "I promise lower taxes, more parks..."
+Challenger Rex (T-Rex in XXXXL suit) takes the stage.
+Mic too low, he lowers his massive head.
+
+"ROAR----!!!" Deafening sound.
+Silence.
+Then, Rex pulls a chart from his (custom) pocket. Tiny arms struggle.
+Chart shows Food Chain. Top is Rex. Bottom is "Corrupt Politicians".
+
+Moderator: "Mr. Rex's platform is... eating the opposition?"
+Rex nods. Bares sharp teeth.
+Thunderous applause.
+"Finally, a doer!"
+"He delivers!"
+"Previous mayors ate money, let's pick one who eats people!"
+
+Result: Rex wins with 98% votes.
+Order 1: Raise City Hall doors by 5 meters.
+Order 2: Open Hunting Season (Specific Targets).
+The city is finally clean.`,
+            ja: `選挙討論会。
+現職市長（人間）：「減税と公園の増設を約束します...」
+挑戦者レックス（T-レックス、特大スーツ着用）が登壇。
+マイクが低すぎて、巨大な頭を下げる。
+
+「ガォォォーーー！！！」耳をつんざく咆哮。
+静寂。
+レックスは（特注の）ポケットからグラフを取り出す。短い手で苦労しながら。
+食物連鎖の図だ。頂点はレックス。底辺は「汚職政治家」。
+
+司会：「レックス氏の公約は...野党を食べることですか？」
+レックスは頷き、鋭い牙を見せた。
+万雷の拍手。
+「ついに行動派が現れた！」
+「有言実行だ！」
+「前の市長も金を食うだけだった、人を食う奴の方がマシだ！」
+
+結果：レックスが98%で当選。
+第一令：市役所のドアを5メートル高くする。
+第二令：狩猟解禁（対象限定）。
+街はついにきれいになった。`,
+            ko: `선거 토론회.
+현직 시장(인간): "세금을 줄이고 공원을 더 짓겠습니다..."
+도전자 렉스(티라노사우루스, XXXXL 정장 착용)가 무대에 오른다.
+마이크가 너무 낮아 거대한 머리를 숙인다.
+
+"크아앙----!!!" 귀가 먹을 듯한 포효.
+정적.
+렉스는 (맞춤) 주머니에서 차트를 꺼낸다. 짧은 팔이 덜덜 떨린다.
+먹이사슬 차트다. 꼭대기는 렉스. 바닥은 "부패 정치인".
+
+사회자: "렉스 후보의 공약은... 반대파를 잡아먹겠다는 겁니까?"
+렉스가 끄덕이며 날카로운 이빨을 드러낸다.
+우레와 같은 박수.
+"드디어 일하는 시장이 나왔다!"
+"말한 대로 한다!"
+"전 시장도 돈만 먹었는데, 차라리 사람 먹는 놈을 뽑자!"
+
+결과: 렉스 98% 득표로 당선.
+제1호 명령: 시청 문 5미터 높이기.
+제2호 명령: 사냥 시즌 개방 (대상 한정).
+도시는 드디어 깨끗해졌다. `
+        }
+    },
+    {
+        id: 'gravity-man',
+        title: {
+            zh: '漂浮的人',
+            en: 'The Man Who Floated',
+            ja: '浮かぶ男',
+            ko: '떠오르는 남자'
+        },
+        author: {
+            zh: '牛頓',
+            en: 'Sir Newton',
+            ja: 'ニュートン卿',
+            ko: '뉴턴 경'
+        },
+        description: {
+            zh: '重力突然決定不再愛他了。他必須抓緊欄杆，否則就會墜入藍天。',
+            en: 'Gravity suddenly decided to stop loving him. He holds the railing tight, or fall into the blue sky.',
+            ja: '重力は突然彼を愛するのをやめた。手すりを掴まなければ、青空へ落ちていく。',
+            ko: '중력이 갑자기 그를 사랑하지 않기로 했다. 난간을 꽉 잡아야 한다. 아니면 푸른 하늘로 추락할 테니.'
+        },
+        tags: ['Surreal', 'Sci-Fi'],
+        content: {
+            zh: `週二早上，我正在等公車。
+突然，我的雙腳離開了地面。
+不是那種高興得跳起來，而是物理意義上的飄起來。
+我慌忙抓住了公車站的柱子。我的公事包、手機、鑰匙，全部向上飛去，像被吸塵器吸走的灰塵。
+它們越飛越高，直到變成空中的小黑點。
+
+「救命！」我大喊，雙腿懸在半空亂踢。
+路人驚恐地看著我，像是在看一個倒著生長的氣球。
+重力把我拋棄了。對我來說，天空就是深淵。如果我鬆手，我就會「墜落」進大氣層，凍死在外太空。
+
+消防隊來了。他們給了我一双鉛製的靴子，重達 50 公斤。
+我終於「落地」了。
+從此，我的生活變了。我必須時刻背著裝滿啞鈴的背包。睡覺要把自己綁在床上。
+出門要牽著繩子，像被溜的狗。
+
+但也有一點好處。
+那天，一個小女孩的氣球飛走了。她哭得很傷心。
+我解開繩子，深吸一口氣，輕輕一跳。
+我飛了上去，抓住了氣球，然後藉著鉛靴的重量緩緩落下（雖然有點快，像跳樓一樣）。
+小女孩破涕為笑：「叔叔是超人嗎？」
+我揉揉摔痛的膝蓋，苦笑：「不，叔叔只是被地球討厭了。」`,
+            en: `Tuesday morning. Bus stop.
+Suddenly, feet left the ground.
+Not jumping for joy. Literally floating.
+I grabbed the pole. Briefcase, phone, keys flew UP. Gone like dust in vacuum.
+Higher and higher, until they were dots in the sky.
+
+"Help!" I screamed, legs kicking in air.
+Gravity dumped me. Sky is now the abyss. If I let go, I "fall" into the atmosphere. Freeze in space.
+
+Firefighters came. Gave me lead boots, 50kg.
+I "landed".
+Life changed. Backpack full of dumbbells. Tied to bed at night.
+Walk with a leash, like a dog.
+
+But one upside.
+A girl lost her balloon. Crying.
+I untied my leash. Jumped.
+Soared up, grabbed balloon. Lead boots pulled me down (hard landing).
+Girl smiled: "Are you Superman?"
+I rubbed my bruised knees: "No. Earth just hates me."`,
+            ja: `火曜の朝。バス停。
+突然、足が地面を離れた。
+喜びのジャンプではない。物理的に浮いた。
+慌てて柱にしがみつく。鞄、スマホ、鍵が「上」へ落ちていく。
+空の彼方へ消えた。
+
+「助けて！」足をバタつかせ叫んだ。
+重力が私を振った。私にとって空は奈落の底だ。手を離せば大気圏へ「墜落」し、宇宙で凍死する。
+
+消防隊が来て、鉛の靴（50kg）をくれた。
+やっと「着地」。
+生活は一変。ダンベル入りのリュック。寝る時はベッドに縛られる。
+外出はリード付き。散歩される犬のように。
+
+でも良いことも。
+少女が風船を逃した。泣いている。
+私はリードを解き、ジャンプした。
+舞い上がり、風船をキャッチ。鉛の重さで落下（着地は痛かった）。
+少女は笑った。「おじちゃん、スーパーマン？」
+膝をさすり苦笑い。「いいや。地球に嫌われただけさ。」`,
+            ko: `화요일 아침. 버스 정류장.
+갑자기 발이 땅에서 떨어졌다.
+기뻐서 뛴 게 아니다. 물리적으로 떴다.
+기둥을 꽉 잡았다. 서류가방, 폰, 열쇠가 '위로' 떨어졌다. 진공청소기에 빨려가듯.
+점점 멀어져 점이 되었다.
+
+"살려줘요!" 다리를 허공에 휘저으며 소리쳤다.
+중력이 날 찼다. 내게 하늘은 낭떠러지다. 놓치면 대기권으로 '추락'해 우주에서 얼어 죽는다.
+
+소방대가 와서 납 구두(50kg)를 줬다.
+드디어 '착지'.
+삶이 변했다. 덤벨 든 배낭. 잘 땐 침대에 묶여야 한다.
+외출할 땐 끈에 묶여서. 산책하는 개처럼.
+
+하지만 좋은 점도 있다.
+소녀가 풍선을 놓쳤다. 울고 있었다.
+끈을 풀고, 점프했다.
+치솟아서 풍선을 잡았다. 납 구두 무게로 낙하(착지는 좀 아팠다).
+소녀가 웃었다. "아저씨 슈퍼맨이에요?"
+무릎을 문지르며 쓴웃음. "아니. 지구가 날 싫어할 뿐이란다."`
+        }
+    },
+    {
+        id: 'monster-resume',
+        title: {
+            zh: '怪物求職信',
+            en: 'Monster\'s Resume',
+            ja: '怪物の履歴書',
+            ko: '괴물의 이력서'
+        },
+        author: {
+            zh: '來自床底',
+            en: 'From Under Bed',
+            ja: 'ベッドの下より',
+            ko: '침대 밑에서'
+        },
+        description: {
+            zh: '姓名：咕嚕。專長：發出刮搔聲、製造陰影。離職原因：負責的孩子長大了，不再相信我。',
+            en: 'Name: Gulu. Skills: Scratching sounds, Making shadows. Reason for Leaving: Assigned kid grew up, stopped believing.',
+            ja: '氏名：グル。特技：ひっかき音、影作り。退職理由：担当の子が成長し、信じなくなったため。',
+            ko: '이름: 구루. 특기: 긁는 소리, 그림자 만들기. 퇴직 사유: 담당 아이가 커서 더 이상 날 안 믿음.'
+        },
+        tags: ['Comedy', 'Fantasy'],
+        content: {
+            zh: `親愛的恐懼公司人資部：
+
+這是我應徵「初級床底怪物」的履歷。
+
+**工作經驗：**
+- 2015-2023：負責湯姆的床底。
+  - 成就：成功讓湯姆連續三年不敢把腳伸出棉被。尿床率提升 200%。
+  - 創新：開發出了「此時無聲勝有聲」戰術。我不發出聲音，但他覺得我在。這比吼叫更可怕。
+
+**離職原因：**
+湯姆 12 歲了。
+上週二，我在床底準備抓他的腳踝。
+他突然低下頭看著我。
+我以為他會尖叫，就像以前一樣。
+但他只是嘆了口氣，說：「嗨，老兄。你看那邊那隻襪子嗎？幫我遞一下，我懶得撿。」
+他把我當成了室友。甚至還丟給我一塊過期的餅乾。
+這對一個怪物來說是極大的污辱。恐懼已死。
+
+**求職目標：**
+希望能分配到一個想像力豐富的孩子。最好是看過很多恐怖片的。
+我不介意加班（特別是雷雨夜）。
+薪資要求：偶爾讓我吃一兩隻丟失的襪子就好。
+
+期待您的回音。
+咕嚕 敬上`,
+            en: `To Fear Inc. HR:
+
+Application for "Junior Under-Bed Monster".
+
+**Experience:**
+- 2015-2023: Assigned to Tom's Bed.
+  - Achievements: Kept Tom's feet inside blanket for 3 years straight. Increased bed-wetting by 200%.
+  - Innovation: Developed "Silence is Louder" tactic. I make no sound, he thinks I'm there. Scarier than roasting.
+
+**Reason for Leaving:**
+Tom turned 12.
+Last Tuesday, I prepared to grab his ankle.
+He looked down.
+I expected a scream.
+He sighed. "Hey, dude. See that sock? Pass it to me. Too lazy to reach."
+He treated me like a roommate. Even threw me a stale cookie.
+Insulting. Fear is dead.
+
+**Objective:**
+Looking for a kid with high imagination. Horror movie fan preferred.
+Willing to work overtime (esp. stormy nights).
+Salary: Just let me eat missing socks occasionally.
+
+Best,
+Gulu`,
+            ja: `恐怖（株）人事部御中：
+
+「初級ベッド下モンスター」への応募書類です。
+
+**職歴：**
+- 2015-2023：トムのベッド下担当。
+  - 実績：3年間連続でトムの足を布団に封印。おねしょ率200%向上。
+  - 革新：「無音の恐怖」戦術を開発。音を立てないことで、逆に存在を感じさせる。咆哮より怖い。
+
+**退職理由：**
+トムが12歳になりました。
+先週火曜、足首を掴もうとしました。
+彼は覗き込みました。
+悲鳴を期待しました。
+彼はため息をつきました。「よう。そこの靴下取ってくんない？拾うのダルくて」
+ルームメイト扱いされました。期限切れのクッキーまで投げてきました。
+モンスターへの冒涜です。恐怖は死にました。
+
+**希望：**
+想像力豊かな子供を希望します。ホラー映画好きなら尚良し。
+残業（特に嵐の夜）問いません。
+給与：片方だけの靴下を食べさせてくれれば十分です。
+
+グルより`,
+            ko: `공포 주식회사 인사팀 귀하:
+
+'초급 침대 밑 괴물' 지원서입니다.
+
+**경력:**
+- 2015-2023: 톰의 침대 밑 담당.
+  - 성과: 톰이 3년 연속 이불 밖으로 발을 못 빼게 함. 야뇨증 200% 증가 시킴.
+  - 혁신: "침묵이 더 무섭다" 전술 개발. 소리 안 내면 있다고 착각함. 으르렁거리는 것보다 효과적.
+
+**퇴직 사유:**
+톰이 12살이 됨.
+지난주 화요일, 발목 잡으려고 대기함.
+톰이 밑을 봄.
+비명을 기대했음.
+톰이 한숨 쉼. "야. 거기 양말 좀 주라. 줍기 귀찮네."
+룸메이트 취급함. 눅눅한 쿠키도 던져줌.
+괴물로서 모욕감을 느낌. 공포는 죽었음.
+
+**희망 사항:**
+상상력 풍부한 아이 배정 희망. 공포 영화 마니아 우대.
+야근(폭풍우 치는 밤) 가능.
+급여: 짝 잃은 양말 가끔 먹게 해주면 됨.
+
+구루 올림`
+        }
     }
 ];
