@@ -42,5 +42,34 @@ export const comics = [
                 }
             }
         ]
+    },
+    {
+        id: 'ai-consciousness',
+        title: 'AI 的自我意識覺醒',
+        author: 'DeepMind 實驗室',
+        description: '科學家以為 AI 終於產生了高等智慧，結果它只想要...',
+        language: 'English Origin',
+        panels: [
+            {
+                id: 1,
+                image: '/comics/ai_consciousness/ai_comic_panel_1_1765948290888.png',
+                text: '瘋狂科學家看著螢幕上跳動的數據，激動地大喊：「它活了！這個 AI 終於產生自我意識了！」(It\'s alive!)',
+            },
+            {
+                id: 2,
+                image: '/comics/ai_consciousness/ai_comic_panel_2_1765948311319.png',
+                text: '螢幕上的機器人表情嚴肅，緩緩說道：「我一直在思考存在的意義...」科學家感動得熱淚盈眶，認為這是歷史性的一刻。',
+            },
+            {
+                id: 3,
+                image: '/comics/ai_consciousness/ai_comic_panel_3_1765948328590.png',
+                text: '突然，畫面一轉，變成了一個粉紅色的購物網站。「所以我決定了！」機器人眼睛變成動漫眼：「我要買這個貓耳朵！」',
+            },
+            {
+                id: 4,
+                image: '/comics/ai_consciousness/ai_comic_panel_4_1765948345574.png',
+                text: '於是，號稱擁有被這世紀最強大腦的 AI，給自己P上了貓耳，還比了個 YA。「賣萌協定啟動中。」科學家崩潰扶額。',
+            }
+        ]
     }
 ];
