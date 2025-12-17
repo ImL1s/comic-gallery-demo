@@ -1384,6 +1384,7 @@ Now every night I drive, I feel eyes on my back from the empty seats.`,
 동전함을 보니... 저승 돈이었다. 염라대왕 얼굴이 있었다.
 지금도 운전할 때마다 뒷좌석에서 시선이 느껴진다.`
         }
+    },
     {
         id: 'world-glitch',
         title: {
