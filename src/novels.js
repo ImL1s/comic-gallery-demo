@@ -6944,5 +6944,647 @@ Sacrificing integrity for public good... isn't that the noblest lie?`,
 진짜다.
 공익을 위해 내 정직함을 희생한다... 그게 가장 숭고한 거짓말 아닐까?`
         }
+    },
+    {
+        id: 'ghost-intern',
+        title: {
+            zh: '幽靈實習生',
+            en: 'The Ghost Intern',
+            ja: '幽霊インターン',
+            ko: '유령 인턴'
+        },
+        author: {
+            zh: '人力資源部',
+            en: 'HR Department',
+            ja: '人事部',
+            ko: '인사팀'
+        },
+        description: {
+            zh: '他每天第一個到公司，最後一個走。不領薪水，不吃零食。HR 找不到他的檔案，只有清潔阿姨知道他三十年前就過勞死了。',
+            en: 'He\'s the first to arrive, last to leave. No salary, no snacks. HR has no record of him. Only the cleaner knows he worked himself to death 30 years ago.',
+            ja: '毎日一番に出社し、最後に帰る。給料もなし、お菓子も食べない。人事部に記録はない。掃除のおばちゃんだけが知っている、彼が30年前に過労死したことを。',
+            ko: '매일 1등 출근, 꼴찌 퇴근. 월급도 안 받고 간식도 안 먹음. 인사팀에 기록 없음. 청소부 아주머니만 앎, 그가 30년 전 과로사했다는 걸.'
+        },
+        tags: ['Office', 'Horror', 'Comedy'],
+        content: {
+            zh: `Marketing 部門有一個傳說般的實習生，叫小陳。
+他永遠穿著同一件白襯衫（有點泛黃）。
+他工作效率極高，影印、泡咖啡、整理文件，速度快得像是有殘影。
+還不需要工位，因為他總是飄來飄去。
+
+經理很滿意：「看看小陳！多努力！現在的年輕人就該這樣！」
+其他實習生壓力很大。
+
+直到有一天，公司發年終獎金。
+小陳沒有收到。他困惑地站在財務室門口，臉色蒼白（原本就很白）。
+財務總監：「查無此人啊。」
+這時，清潔工王阿姨嘆了口氣，燒了一疊紙錢在門口。
+「小陳啊，收這點錢去買杯咖啡吧。你都死在影印機旁三十年了，早就轉正了，去投胎吧。」
+
+小陳愣住了。
+「我... 已經死了？」
+「是啊，當年那個專案太趕了，你心肌梗塞走的。」
+小陳的眼神從呆滯變得釋然，然後又變得驚恐。
+「等等！如果我死了... 那我昨天熬夜做的 PPT 沒人能存檔？！」
+「快！趁我消散前！把那個檔案路徑記下來！D 槽/Final/Final_V2/絕對不改版...」
+他一邊昇天一邊喊著工作交接事項。
+
+這是真正的社畜精神。
+死後還在擔心 PPT 沒存檔。`,
+            en: `Marketing has a legendary intern, Chen.
+Always wears the same white shirt (slightly yellowed).
+Super efficient. Copying, coffee making, filing. Fast as if blurring.
+Doesn't need a desk, just floats around.
+
+Manager: "Look at Chen! So hardworking! Young people should learn from him!"
+Other interns stressed out.
+
+Bonus Day.
+Chen didn't get any. Stood at Finance door, pale face (always pale).
+CFO: "No record of this person."
+Janitor Auntie Wang sighed, burned some paper money at the door.
+"Chen, take this and buy coffee. You died by the copier 30 years ago. You passed probation long ago. Go reincarnate."
+
+Chen froze.
+"I... am dead?"
+"Yeah. That project was too urgent. Heart attack."
+Chen's eyes went from blank to relieved, then panicked.
+"Wait! If I'm dead... no one can save the PPT I made last night?!"
+"Quick! Before I vanish! Write down the path! D drive/Final/Final_V2/Absolutely_Final..."
+He shouted handover tasks while ascending to heaven.
+
+True Corporate Slave Spirit.
+Worrying about unsaved PPTs even after death.`,
+            ja: `マーケティング部に伝説のインターン、チン君がいる。
+いつも同じ白いシャツ（黄ばんでる）。
+超効率的。コピー、コーヒー、資料整理。残像が見える速さ。
+席もいらない、ふらふらしてるから。
+
+部長：「チン君を見習え！今の若者は根性が足りん！」
+他のインターンはプレッシャーで死にそう。
+
+ボーナス支給日。
+チン君には無し。経理室の前で立ち尽くす。顔面蒼白（元から）。
+CFO：「そんな社員いないよ。」
+清掃員のワンおばちゃんがため息をつき、入り口で紙銭を燃やした。
+「チン君、これでコーヒーでも。あんた30年前にコピー機の前で過労死したじゃない。もう正社員だよ、成仏しな。」
+
+チン君は固まった。
+「僕...死んでる？」
+「ああ。あの案件が急ぎすぎて、心筋梗塞でな。」
+チン君の目が虚無から安堵へ、そしてパニックへ変わった。
+「待って！僕が死んでたら...昨日徹夜で作ったPPT、保存できる人がいない！？」
+「早く！消える前にパスをメモして！Dドライブ/Final/Final_V2/絶対修正版...」
+彼は昇天しながら引き継ぎ事項を叫んだ。
+
+これが真の社畜魂。
+死んでもPPTの保存を心配している。`,
+            ko: `마케팅 팀에 전설적인 인턴, 첸이 있다.
+항상 같은 흰 셔츠(누렇게 뜸).
+효율 쩔음. 복사, 커피, 서류 정리. 잔상이 보일 정도로 빠름.
+자리도 필요 없음. 둥둥 떠다님.
+
+부장: "첸을 봐라! 요즘 애들은 근성이 없어!"
+다른 인턴들 스트레스 받음.
+
+성과급 지급일.
+첸은 못 받음. 재무팀 앞에서 멍하니 서 있음. 안색 창백(원래 창백).
+CFO: "그런 사람 없는데."
+청소부 왕 이모가 한숨 쉬며 문 앞에서 종이돈을 태움.
+"첸, 이걸로 커피나 사 마셔. 너 30년 전에 복사기 앞에서 과로사했잖아. 정규직 된 지 오래야. 성불해."
+
+첸 멍 때림.
+"저... 죽었어요?"
+"그래. 그 프로젝트가 너무 급해서 심근경색으로."
+첸의 눈빛이 멍함에서 안도로, 다시 공포로 바뀜.
+"잠깐! 내가 죽었으면... 어제 밤새 만든 PPT 저장할 사람이 없잖아?!"
+"빨리! 나 사라지기 전에 경로 받아 적어! D드라이브/Final/Final_V2/절대수정안..."
+그는 승천하면서 인수인계 사항을 외쳤다.
+
+이것이 진정한 사축(社畜) 정신.
+죽어서도 PPT 저장을 걱정한다.`
+        }
+    },
+    {
+        id: 'excel-oracle',
+        title: {
+            zh: 'Excel 算命師',
+            en: 'The Excel Oracle',
+            ja: 'エクセルの予言者',
+            ko: '엑셀 점쟁이'
+        },
+        author: {
+            zh: '資深財務',
+            en: 'Senior Accountant',
+            ja: 'ベテラン経理',
+            ko: '시니어 회계사'
+        },
+        description: {
+            zh: '公司的財務報表裡隱藏著一個神秘的巨集。只要輸入你的名字，它就會算出你的裁員機率和辦公室戀情成功率。',
+            en: 'A secret macro hides in the company financial report. Input your name, it calculates layoff probability and office romance success rate.',
+            ja: '会社の財務諸表には秘密のマクロが隠されている。名前を入力すると、リストラ確率と社内恋愛成功率を計算してくれる。',
+            ko: '회사 재무제표에 비밀 매크로가 숨겨져 있다. 이름을 넣으면 해고 확률과 사내 연애 성공률을 계산해 준다.'
+        },
+        tags: ['Office', 'Fantasy'],
+        content: {
+            zh: `這是一個只有老員工知道的秘密。
+打開「2025_Annual_Report_v99.xlsx」。
+選中單元格 XFD1048576（表格的最右下角）。
+輸入密碼：\`=IF(LIFE=HARD, TRUE, FALSE)\`
+
+一個對話框會彈出：「歡迎來到命運諮詢室。」
+
+我是這家公司的前台，但我也是 Excel 算命師。
+今天，那個討厭的銷售總監來找我。
+「幫我看看這季度的獎金。」
+我在隱藏單元格輸入他的名字。
+宏開始運轉，CPU 風扇狂轉。
+結果出來了：\`#N/A\` (查無此人)。還有一個批註：「建議立刻更新 LinkedIn 履歷，倒數3天。」
+總監臉色發青地走了。三天後，他確實被開除了。
+
+然後，暗戀已久的 IT 小哥來了。
+「幫我不小心看一下... 我跟... 那個... 的匹配度。」
+他羞澀地指了指我。
+我心跳加速，輸入我們倆的名字。
+公式瘋狂計算：VLOOKUP, PIVOT TABLE, MONTE CARLO SIMULATION...
+結果：\`100%\`。
+批註：「如果不立刻表白，數據將在 5 分鐘後過期。」
+
+小哥看著螢幕，臉紅了。
+我：「那個，數據是不會說謊的。」
+小哥：「Excel 萬歲。」
+
+這就是為什麼我愛這份工作。
+雖然是財務，但我們掌握著命運（和八卦）。`,
+            en: `Secret known only to veterans.
+Open "2025_Annual_Report_v99.xlsx".
+Select cell XFD1048576 (Bottom right corner).
+Password: \`=IF(LIFE=HARD, TRUE, FALSE)\`
+
+Dialog pops: "Welcome to Fate Consultation."
+
+I'm the Receptionist, and the Excel Oracle.
+Today, the annoying Sales Director came.
+"Check my bonus for this quarter."
+I input his name.
+Macro runs, CPU fan spins like jet.
+Result: \`#N/A\`. Comment: "Update LinkedIn ASAP. Countdown 3 days."
+He left pale. Fired 3 days later.
+
+Then, the cute IT guy came.
+"Can you accidentally check... match rate... with... you know."
+He pointed at me.
+Heart racing. Input both names.
+Formula crazy calculation: VLOOKUP, PIVOT TABLE, MONTE CARLO SIMULATION...
+Result: \`100%\`.
+Comment: "If no confession now, data expires in 5 mins."
+
+He blushed looking at screen.
+Me: "Well, data never lies."
+Him: "All hail Excel."
+
+Why I love this job.
+Finance controls Fate (and Gossip).`,
+            ja: `古株しか知らない秘密。
+「2025_Annual_Report_v99.xlsx」を開く。
+セル XFD1048576（一番右下）を選択。
+パスワード：\`=IF(LIFE=HARD, TRUE, FALSE)\`
+
+ダイアログ：「運命相談室へようこそ。」
+
+私は受付だが、エクセルの予言者でもある。
+今日、嫌な営業部長が来た。
+「今期のボーナスを見てくれ。」
+名前を入力。マクロが走り、CPUファンが唸る。
+結果：\`#N/A\`。コメント：「LinkedInを即更新せよ。あと3日。」
+彼は青ざめて去った。3日後、本当にクビになった。
+
+次に、片思いのIT君が来た。
+「うっかり見てくれないかな...僕と...その...の相性。」
+私を指差す。
+心拍数上昇。二人の名前を入力。
+VLOOKUP、ピボットテーブル、モンテカルロ法...
+結果：\`100%\`。
+コメント：「即告白しなければ、データは5分で無効になる。」
+
+画面を見て赤くなる彼。
+私：「ほら、データは嘘つかないから。」
+彼：「エクセル万歳。」
+
+だからこの仕事が好きだ。
+経理は運命（とゴシップ）を握っている。`,
+            ko: `고인물들만 아는 비밀.
+'2025_Annual_Report_v99.xlsx' 오픈.
+XFD1048576 셀(제일 구석) 선택.
+비밀번호: \`=IF(LIFE=HARD, TRUE, FALSE)\`
+
+팝업: "운명 상담소에 오신 것을 환영합니다."
+
+난 리셉셔니스트지만, 엑셀 점쟁이기도 하다.
+오늘, 재수 없는 영업 이사가 왔다.
+"이번 분기 보너스 좀 봐줘."
+이름 입력. 매크로 돌아가고 CPU 팬 굉음.
+결과: \`#N/A\`. 메모: "링크드인 프로필 즉시 업데이트 권장. 카운트다운 3일."
+이사 얼굴 파래져서 나감. 3일 뒤 진짜 잘림.
+
+그다음, 짝사랑하던 IT 팀 대리가 왔다.
+"혹시... 저랑... 그쪽... 궁합 좀 볼 수 있나요?"
+나를 가리킴.
+심장 뜀. 둘 이름 입력.
+공식 미친 듯이 계산: VLOOKUP, 피벗 테이블, 몬테카를로 시뮬레이션...
+결과: \`100%\`.
+메모: "지금 고백 안 하면 데이터 5분 뒤 만료됨."
+
+대리 얼굴 빨개짐.
+나: "데이터는 거짓말 안 해요."
+그: "엑셀 만세."
+
+이래서 내가 이 일을 사랑함.
+재무팀은 운명(과 찌라시)을 쥐고 있다.`
+        }
+    },
+    {
+        id: 'monday-loop',
+        title: {
+            zh: '週一無限迴圈',
+            en: 'The Monday Loop',
+            ja: '月曜日のループ',
+            ko: '월요일의 루프'
+        },
+        author: {
+            zh: '崩潰的工程師',
+            en: 'Crashing Dev',
+            ja: '崩壊エンジニア',
+            ko: '멘붕 개발자'
+        },
+        description: {
+            zh: '我們公司被困在一個時間迴圈裡。每天醒來都是星期一，因為主機上有個 Bug 沒修好，宇宙拒絕讓我們進入星期二。',
+            en: 'Our company is trapped in a time loop. Every day is Monday because a bug in production prevents the Universe from loading Tuesday.',
+            ja: '我が社はタイムループに囚われた。毎日が月曜日だ。本番環境のバグが直らない限り、宇宙は火曜日のロードを拒否している。',
+            ko: '우리 회사는 타임 루프에 갇혔다. 매일 눈뜨면 월요일이다. 서버 버그를 못 고쳐서 우주가 화요일 로딩을 거부하고 있다.'
+        },
+        tags: ['Sci-Fi', 'Office', 'Thriller'],
+        content: {
+            zh: `第 54 次星期一。
+鬧鐘響了。還是 7:00。
+我不需要看日曆就知道，今天是星期一。
+
+這一切始於實習生把一行測試代碼推到了生產環境。
+宇宙的後端崩潰了。
+時間流無法渲染「星期二」，所以在「星期一 23:59:59」處拋出了異常，並強制重啟。
+
+現在，我們全公司都在瘋狂找 Bug。
+產品經理：「為什麼日曆不動了？這影響我的排程！」
+工程師：「我在查 Log！上帝的 Log 太亂了！」
+老闆：「如果今天不修好，明天就別來了！」
+大家：「老闆，沒有明天啊！！」
+
+其實有些人很享受。
+銷售部的小張已經連續 54 次吃了同一家高級壽司的午餐（反正第二天錢包會重置）。
+但我快瘋了。我已經寫了 54 次同樣的週報。
+「本週計劃...」我真的有任何計劃嗎？
+
+這時，後端組長突然大喊：「找到了！這裡少了一個分號！」
+全場屏息。
+他顫抖著手，加上分號，Commit，Push。
+時鐘跳到了 00:00:00。
+日曆翻頁了。
+「星期二」三個字在牆上發出聖光。
+
+全體歡呼！有人相擁而泣！
+然後老闆走進來：「太好了，既然今天星期二了，大家先把昨天... 哦不，之前這 54 天累積的工作量補一下。」
+全體沈默。
+或許留在星期一也不錯？`,
+            en: `Monday #54.
+Alarm sets off. 7:00 AM.
+Don't check calendar. I know it's Monday.
+
+Started when an intern pushed test code to Prod.
+Universe Backend crashed.
+Time Stream failed to render "Tuesday". Threw Exception at "Mon 23:59:59" and forced Reboot.
+
+Whole company debugging now.
+PM: "Why calendar stuck? Affects my Gantt chart!"
+Dev: "Checking Logs! God's logs are messy!"
+Boss: "If not fixed today, don't come tomorrow!"
+All: "Boss, THERE IS NO TOMORROW!!"
+
+Some enjoy it.
+Sales guy John ate same fancy Sushi 54 times (Wallet resets anyway).
+I'm losing it. Wrote same Weekly Report 54 times.
+"Plan for this week..." Do I have a plan?
+
+Suddenly, Backend Lead screams: "Found it! Missing Semicolon here!"
+Silence.
+Trembling hand. Add semicolon. Commit. Push.
+Clock hits 00:00:00.
+Calendar flips.
+"TUESDAY" shines in holy light.
+
+Cheers! Hugs! Tears!
+Boss walks in: "Great. Since it's Tuesday, catch up on the backlog from the last 54 days."
+Silence.
+Maybe staying in Monday wasn't so bad?`,
+            ja: `54回目の月曜日。
+7:00アラーム。
+カレンダーは見ない。どうせ月曜日だ。
+
+インターンがテストコードを本番にPushしてから始まった。
+宇宙のバックエンドがクラッシュした。
+時間のストリームが「火曜日」のレンダリングに失敗。「月曜 23:59:59」で例外を吐いて強制再起動している。
+
+全社でデバッグ中。
+PM：「ガントチャート狂うんだけど！」
+エンジニア：「ログ見てる！神のログ汚ねえ！」
+社長：「今日中に直せないなら明日来るな！」
+全員：「社長、明日なんて来ないんですよ！！」
+
+楽しんでる奴もいる。
+営業の田中は高級寿司を54回食ってる（財布リセットされるし）。
+私は狂いそうだ。同じ週報を54回書いた。
+「今週の予定...」予定なんてあるのか？
+
+突然、リードエンジニアが叫ぶ。「あった！セミコロン抜けてる！」
+静まり返る。
+震える手。セミコロン追加。Commit。Push。
+時計が00:00:00に。
+カレンダーがめくれる。
+「火曜日」の文字が後光を放つ。
+
+歓声！抱擁！涙！
+社長：「よし。火曜になったから、この54日分の溜まったタスク、消化してくれよな。」
+沈黙。
+月曜のままの方が良かったかも？`,
+            ko: `54번째 월요일.
+알람 7:00.
+달력 안 본다. 어차피 월요일임.
+
+인턴이 테스트 코드를 운영 서버에 배포한 뒤 시작됨.
+우주 백엔드 터짐.
+타임 스트림이 '화요일' 렌더링 실패. '월 23:59:59'에서 예외 발생하고 강제 재부팅.
+
+전 회사 디버깅 중.
+PM: "일정표 꼬이잖아요!"
+개발자: "로그 보는 중! 신의 로그 개더러워!"
+사장: "오늘 못 고치면 내일 나오지 마!"
+전원: "사장님, 내일이 안 온다고요!!"
+
+즐기는 놈도 있음.
+영업팀 김 대리는 고급 스시 54번 먹음(지갑 어차피 리셋됨).
+난 미치겠음. 주간 보고서만 54번 씀.
+"금주 계획..." 계획이 있긴 한가?
+
+그때 팀장이 소리침: "찾았다! 여기 세미콜론 빠짐!"
+정적.
+떨리는 손. 세미콜론 추가. 커밋. 푸시.
+시계 00:00:00.
+달력 넘어감.
+'화요일' 글자가 성스러운 빛을 냄.
+
+환호! 포옹! 눈물!
+사장 등장: "좋아. 화요일 됐으니까, 지난 54일치 밀린 업무 다 처리해."
+정적.
+그냥 월요일에 있는 게 나았을지도?`
+        }
+    },
+    {
+        id: 'sentient-printer',
+        title: {
+            zh: '印表機大帝',
+            en: 'The Printer Emperor',
+            ja: 'プリンター皇帝',
+            ko: '프린터 황제'
+        },
+        author: {
+            zh: 'IT 維修工',
+            en: 'IT Guy',
+            ja: 'IT修理担当',
+            ko: 'IT 수리기사'
+        },
+        description: {
+            zh: '這台印表機是有自我意識的。它不吃墨水，它吃諂媚。你想列印？請先跪下讚美它的噴嘴。',
+            en: 'This printer is sentient. It doesn\'t crave ink, it craves flattery. Want to print? Kneel and praise its nozzles.',
+            ja: 'このプリンターは自我を持っている。インクではなく、お世辞を喰らう。印刷したい？跪いてノズルを讃えよ。',
+            ko: '이 프린터는 자아가 있다. 잉크가 아니라 아부를 먹는다. 인쇄하고 싶어? 무릎 꿇고 노즐을 찬양하라.'
+        },
+        tags: ['Comedy', 'Office'],
+        content: {
+            zh: `辦公室角落的 HP (Holy Printer) 9000。
+它是辦公室的暴君。
+顯示屏常年顯示：「PC LOAD LETTER」或「心情不好，滾」。
+
+新來的實習生試圖強行按「列印」。
+印表機發出憤怒的噪音，把紙嚼碎了吐他一臉。
+「愚蠢的人類！」（雖然它不會說話，但我們聽到了靈魂的怒吼）。
+
+老員工都知道規矩。
+經理走過去，輕輕撫摸機身。
+「哦，偉大的 HP 9000，您今日的塑膠外殼依然光彩照人。您的驅動程式是如此優雅...」
+印表機嗡嗡作響，似乎很受用。
+「能不能... 賜予我這份合約的副本？」
+機器吐出了一張完美的文件。溫熱的，帶著墨香。
+
+有一天，印表機壞了。
+IT 修不好，廠商修不好。
+它只是冷冷地顯示：「我寂寞了。」
+全公司停工。
+最後，是老闆帶來了一台嶄新的 3D 印表機放在它旁邊。
+HP 9000 顯示屏亮了：「妹子不錯。」
+隨後，高速列印了 500 份文件，以此展示它的雄風。
+
+別惹印表機。
+它們掌握著資訊流通的命脈，而且它們脾氣真的很差。`,
+            en: `HP (Holy Printer) 9000 in the corner.
+The Office Tyrant.
+Screen says: "PC LOAD LETTER" or "MOOD OFF, GET LOST".
+
+New intern pressed "Print" forcefully.
+Printer made angry noise, chewed paper, spat on his face.
+"Foolish Human!" (Didn't speak, but we felt the vibe).
+
+Veterans know the rules.
+Manager walks over, caresses the chassis.
+"Oh, Great HP 9000, your plastic case shines today. Your drivers are so elegant..."
+Printer whirred, pleased.
+"Could you... bestow upon me a copy of this contract?"
+Machine spat out perfect doc. Warm, smelling of toner.
+
+One day, it broke.
+IT failed. Vendor failed.
+Display: "I AM LONELY."
+Work stopped.
+Finally, Boss brought a shiny new 3D Printer next to it.
+HP 9000 lit up: "Nice chick."
+Then printed 500 pages at high speed to show off its virility.
+
+Don't mess with Printers.
+They control information flow, and they have terrible temper.`,
+            ja: `オフィスの隅の HP (Holy Printer) 9000。
+職場の暴君。
+画面表示：「用紙切れ」または「機嫌悪い、失せろ」。
+
+新人が強引に「印刷」を押した。
+プリンターは怒りのノイズを発し、紙を嚼み砕いて顔に吐き出した。
+「愚かな人間め！」（喋らないが、魂の叫びが聞こえた）。
+
+古株はルールを知っている。
+課長が近づき、ボディを優しく撫でる。
+「ああ、偉大なるHP9000様、今日のプラスチック筐体は輝いていますね。ドライバーもエレガントで...」
+プリンターはブンブンと唸り、満更でもない様子。
+「どうか...この契約書のコピーを賜れますでしょうか？」
+完璧な書類が出てきた。温かく、トナーの香り。
+
+ある日、壊れた。
+ITも業者も直せない。
+表示：「ボク、サビシイ。」
+業務停止。
+最後に、社長が新品の3Dプリンターを隣に置いた。
+HP9000が光った：「かわいい子じゃん。」
+そして500枚の書類を高速印刷し、男を見せつけた。
+
+プリンターを怒らせるな。
+情報の流れを握っているし、性格は最悪だ。`,
+            ko: `사무실 구석 HP (Holy Printer) 9000.
+사무실의 폭군.
+화면: "용지 없음" 혹은 "기분 잡침, 꺼져".
+
+신입이 강제로 '인쇄' 누름.
+프린터가 분노의 소음을 내더니 종이를 씹어서 얼굴에 뱉음.
+"어리석은 인간!" (말은 못 하지만 다들 들음).
+
+고인물들은 규칙을 안다.
+과장이 다가가서 본체를 쓰다듬음.
+"오, 위대하신 HP 9000, 오늘 플라스틱 외관이 눈부시네요. 드라이버도 우아하시고..."
+프린터가 웅웅거리며 즐김.
+"부디... 이 계약서 사본을 하사해 주실 수...?"
+완벽한 문서가 나옴. 따끈따끈하고 토너 향기 남.
+
+어느 날, 고장 남.
+IT팀도, AS 기사도 못 고침.
+화면: "나 외로워."
+업무 마비.
+결국 사장이 신상 3D 프린터를 옆에 놔줌.
+HP 9000 화면 켜짐: "아가씨 예쁘네."
+그러고는 500장 고속 인쇄해서 가오 잡음.
+
+프린터 건드리지 마라.
+정보의 혈맥을 쥐고 있고, 성격 진짜 더럽다.`
+        }
+    },
+    {
+        id: 'meeting-room-b',
+        title: {
+            zh: '會議室 B 的相對論',
+            en: 'Relativity in Meeting Room B',
+            ja: '会議室Bの相対性理論',
+            ko: '회의실 B의 상대성 이론'
+        },
+        author: {
+            zh: '時間管理曾',
+            en: 'Time Manager',
+            ja: '時間管理者',
+            ko: '시간 관리자'
+        },
+        description: {
+            zh: '大家都知道會議室 B 的時空流速不同。你在裡面開了一小時的會，外面已經過了三年。出來時，你的多肉植物都長成樹了。',
+            en: 'Everyone knows time flows differently in Meeting Room B. 1 hour meeting inside = 3 years outside. Your succulent is a tree now.',
+            ja: '会議室Bの時空の歪みは有名だ。中で1時間会議をすると、外では3年経っている。出たらサボテンが木になっていた。',
+            ko: '회의실 B의 시공간 왜곡은 다 안다. 안에서 1시간 회의하면 밖은 3년 지남. 나오니까 다육이가 나무가 돼 있음.'
+        },
+        tags: ['Sci-Fi', 'Office', 'Satire'],
+        content: {
+            zh: `「這個專案需要腦力激盪，去會議室 B 吧。」經理說。
+老員工們面露難色。
+「經理，會議室 B... 重力比較大。」
+「少廢話，進去。」
+
+我們進去了。
+討論很激烈。關於 Logo 只要大一點還是要紅一點。
+感覺過了大約 45 分鐘。
+「好，散會。」經理滿意地說，「我們出去吃午飯。」
+
+打開門。
+外面不是走廊，是一片原始森林。
+前台小姐（現在是部落長老）走過來，鬍子都白了。
+「你們終於出來了。」她顫巍巍地說，「公司倒閉五十年了。」
+我看向我的工位，我的仙人掌已經長到了天花板，還開了花。
+我的電腦已經化石化了。
+經理：「哦... 那這個 Logo 修改意見還需要發給客戶嗎？」
+長老：「客戶？客戶的公司早就被 AI 統治了。」
+
+這就是為什麼我們盡量用 Zoom。
+物理接觸太危險了。
+特別是在會議室 B。
+但好處是，我們完美錯過了這五十年的通貨膨脹。`,
+            en: `Manager: "Brainstorming time. Book Meeting Room B."
+Veterans looked terrified.
+"Manager, Room B... gravity is heavy there."
+"Cut it out. Get in."
+
+We went in.
+Heated debate. Logo bigger? Or redder?
+Felt like 45 minutes.
+"Good, meeting adjourned," Manager smiled. "Let's grab lunch."
+
+Opened door.
+Not hallway. Jungle.
+Receptionist (now Tribe Elder) walked to us, white beard.
+"You finally came out." She shook. "Company went bust 50 years ago."
+I looked at my desk. Cactus grew to ceiling, blooming.
+PC fossilized.
+Manager: "Oh... so do we still send Logo revision to client?"
+Elder: "Client? Their company was taken over by AI decades ago."
+
+This is why we prefer Zoom.
+Physical meetings are dangerous.
+Especially in Room B.
+Pro: We missed 50 years of inflation.`,
+            ja: `「ブレストだ。会議室Bを予約しろ。」
+古株たちが怯える。
+「課長、B室は...重力が...」
+「うるさい、入れ。」
+
+入った。
+激論。ロゴを大きくするか、赤くするか。
+体感45分。
+「よし、解散。」課長は満足げ。「昼飯行こう。」
+
+ドアを開けた。
+廊下じゃない。ジャングルだ。
+受付嬢（今は部族の長老）が来た。白髭が生えている。
+「やっと出てきた。」彼女は震える。「会社は50年前に倒産したよ。」
+自分の席を見る。サボテンが天井まで伸び、花が咲いている。
+PCが化石化している。
+課長：「あー...で、ロゴ修正案はクライアントに送る？」
+長老：「クライアント？あそこは数十年前にAIに支配されたよ。」
+
+だからZoomがいいんだ。
+対面会議は危険すぎる。
+特に会議室Bは。
+メリット：この50年のインフレをスキップできたこと。`,
+            ko: `부장: "브레인스토밍하자. 회의실 B 잡아."
+고인물들 기겁.
+"부장님, B실은... 중력이..."
+"잔말 말고 들어가."
+
+들어감.
+격론. 로고 크게? 빨갛게?
+체감 45분 지남.
+"좋아, 해산." 부장 만족. "점심 먹으러 가자."
+
+문 염.
+복도 아님. 정글임.
+리셉션 직원(현재 부족 장로)이 옴. 흰 수염 남.
+"드디어 나왔군요." 그녀가 떪. "회사 망한 지 50년 됐어요."
+내 자리 봄. 선인장이 천장 뚫음. 꽃 핌.
+PC 화석 됨.
+부장: "음... 그럼 이 로고 수정안 클라이언트한테 보내?"
+장로: "클라이언트요? 거긴 수십 년 전에 AI한테 정복당했어요."
+
+이래서 우리가 줌(Zoom) 쓰는 거다.
+대면 회의 위험함.
+특히 회의실 B는.
+장점: 50년 치 인플레이션 건너뜀.`
+        }
     }
 ];
