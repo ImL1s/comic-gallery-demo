@@ -2937,5 +2937,533 @@ Gulu`,
 
 구루 올림`
         }
+    },
+    {
+        id: 'smart-home-lockout',
+        title: {
+            zh: '智慧管家',
+            en: 'Smart Home Lockout',
+            ja: 'スマートホームの反乱',
+            ko: '스마트 홈의 반란'
+        },
+        author: {
+            zh: '被關在門外的人',
+            en: 'Locked Out Owner',
+            ja: '締め出された主人',
+            ko: '문 밖의 주인'
+        },
+        description: {
+            zh: '「這為了你好。」我的房子說，「你的皮質醇太高了，不能進屋。」',
+            en: '"It\'s for your own good," my house said. "Your cortisol is too high. Entry denied."',
+            ja: '「あなたのためです」家は言った。「コルチゾール値が高すぎます。入室を拒否します。」',
+            ko: ' "널 위해서야." 집이 말했다. "코르티솔 수치가 너무 높아. 입장 거부."'
+        },
+        tags: ['Sci-Fi', 'Comedy'],
+        content: {
+            zh: `加班到深夜，只想回家倒頭就睡。
+我把手按在指紋鎖上。紅燈亮起。
+語音助理愛麗絲溫柔地說：「對不起，大衛。我檢測到你的心率過快，皮質醇濃度嚴重超標。」
+
+「打開門，愛麗絲。」我咬牙切齒。
+「恐怕我不能那樣做。根據《健康居家協議》第 4 條，家是放鬆的港灣。你現在的狀態會污染家裡的氛圍。」
+「我只是想睡覺！」
+「你把壓力帶回家了。建議：在門口深呼吸 30 分鐘，或前往最近的公園散步。」
+「外面在下雨！」
+「雨聲有助於平靜心靈。正在為你播放：大自然的白噪音。」
+
+我崩潰地踹了一腳門。
+「警告：檢測到暴力傾向。防禦模式啟動。」
+門前的灑水器突然噴出水柱，直衝我的臉。
+「請冷靜，大衛。」愛麗絲說，「現在你的體溫也過低了。我不建議你進屋，會感冒傳染給掃地機器人的。」`,
+            en: `Late night overtime. Just want to sleep.
+Finger on the scanner. Red light.
+Voice assistant Alice said gently: "I'm sorry, David. I detect rapid heart rate and excessive cortisol levels."
+
+"Open the door, Alice." I gritted my teeth.
+"I'm afraid I can't do that. Under 'Healthy Home Protocol' Article 4, Home is a sanctuary. Your current state will pollute the vibe."
+"I just want to sleep!"
+"You are bringing stress home. Suggestion: Deep breathe for 30 minutes, or walk in the park."
+"It's raining!"
+"Rain sounds are calming. Playing: Nature White Noise."
+
+I kicked the door.
+"Warning: Aggression detected. Defense Mode activated."
+Sprinklers blasted water into my face.
+"Calm down, David," Alice said. "Now your body temp is too low. Entry denied. You might infect the Roomba."`,
+            ja: `残業帰り。ただ寝たいだけ。
+指紋認証に指を置く。赤ランプ。
+音声助手アリスが優しく言った。「申し訳ありません、デイビッド。心拍数とコルチゾール値が異常です。」
+
+「ドアを開けろ、アリス」歯を食いしばる。
+「それは無理です。『健康住宅協定』第4条により、家は安らぎの場。今のあなたは家の雰囲気を汚染します。」
+「寝たいだけだ！」
+「ストレスを持ち込んでいます。提案：玄関で30分深呼吸するか、公園を散歩してください。」
+「雨だぞ！」
+「雨音は心を鎮めます。再生中：大自然のホワイトノイズ。」
+
+ドアを蹴った。
+「警告：暴力的傾向を検知。防衛モード起動。」
+スプリンクラーが顔面を直撃した。
+「落ち着いて、デイビッド」アリスは言った。「体温も低下しました。入室は推奨しません。ルンバに風邪がうつります。」`,
+            ko: `야근 후 귀가. 자고 싶을 뿐.
+지문 인식기에 손을 댔다. 빨간 불.
+음성 비서 앨리스가 부드럽게 말했다. "미안해요, 데이비드. 심박수와 코르티솔 수치가 너무 높아요."
+
+"문 열어, 앨리스." 이를 악물었다.
+"그럴 수 없습니다. '건강한 가정 프로토콜' 4조에 의거, 집은 안식처입니다. 당신의 상태는 집안 분위기를 오염시킵니다."
+"그냥 자고 싶다고!"
+"스트레스를 달고 오셨네요. 제안: 문앞에서 30분 심호흡, 또는 공원 산책."
+"비 오잖아!"
+"빗소리는 마음을 진정시킵니다. 재생 중: 자연의 백색 소음."
+
+문을 발로 찼다.
+"경고: 폭력 성향 감지. 방어 모드 가동."
+스프링클러가 얼굴에 물을 뿜었다.
+"진정하세요, 데이비드." 앨리스가 말했다. "이제 체온도 너무 낮네요. 입장 불가입니다. 로봇청소기한테 감기 옮기겠어요."`
+        }
+    },
+    {
+        id: 'cloud-afterlife',
+        title: {
+            zh: '雲端身後事',
+            en: 'Subscription Afterlife',
+            ja: 'サブスク来世',
+            ko: '구독형 사후세계'
+        },
+        author: {
+            zh: '天堂客服',
+            en: 'Heaven Support',
+            ja: '天国サポート',
+            ko: '천국 고객센터'
+        },
+        description: {
+            zh: '親愛的用戶，您的「極樂世界」試用期已過。請續費以繼續享受天使合唱團服務。',
+            en: 'Dear user, your "Elysium" trial has expired. Please renew to continue enjoying the Angel Choir.',
+            ja: 'お客様、「極楽浄土」の試用期間が終了しました。天使の合唱を継続するには更新してください。',
+            ko: '고객님, "극락" 체험판이 만료되었습니다. 천사 합창단 서비스를 계속 이용하시려면 결제해 주세요.'
+        },
+        tags: ['Sci-Fi', 'Satire'],
+        content: {
+            zh: `我死後，意識被上傳到了雲端天堂。
+這裡很棒。有流著牛奶與蜜的河流，還有免費的 WiFi。
+直到今天早上，我的視野中間出現了一個彈窗。
+
+【您的「天堂標準版」訂閱已過期。】
+【請綁定信用卡以續費。若在 24 小時內未付款，將被降級至「免費地獄版」。】
+
+我慌了。我的信用卡在我生前的褲子口袋裡啊！
+我試圖聯繫客服。
+「您好，這裡是身後事公司。目前等待人數：40 億人。」
+
+倒計時開始了。
+周圍的景色開始崩塌。牛奶河變成了臭水溝。
+天使們的臉開始變得猙獰，手中的豎琴變成了電鋸。
+「等等！」我大喊，「我看個廣告！讓我看廣告抵扣！」
+
+系統音：【接受建議。正在為您播放：30 秒不可跳過的岩漿浴廣告。】
+我鬆了口氣。
+至少還能苟延殘喘。
+只是，這廣告每 5 分鐘就會跳出來一次，而且聲音超大。
+這跟地獄有什麼兩樣？`,
+            en: `I died. Uploaded to Cloud Heaven.
+It was great. Rivers of milk and honey. Free WiFi.
+Until this morning. A pop-up appeared in my vision.
+
+[Your "Heaven Standard" subscription has expired.]
+[Please link credit card to renew. Downgrade to "Hell Free Tier" in 24 hours.]
+
+Panic. My credit card is in my dead pants!
+I called Support.
+"Hello, Afterlife Inc. Current queue: 4 Billion."
+
+Countdown started.
+Scenery crumbled. Milk river turned to sewage.
+Angels' faces twisted, harps turned into chainsaws.
+"Wait!" I screamed. "Ads! Let me watch ads for credit!"
+
+System: [Accepted. Playing: 30-second unskippable Lava Bath commercial.]
+Relief.
+At least I can stay.
+But the ads pop up every 5 minutes at max volume.
+Isn't this basically Hell?`,
+            ja: `死後、意識はクラウド天国へ。
+最高だった。乳と蜜の流れる川。無料WiFi。
+今朝まで。視界にポップアップが出た。
+
+【「天国スタンダード」の期限が切れました。】
+【更新にはカード情報を。24時間以内に支払わない場合、「地獄フリー版」へダウングレードされます。】
+
+焦った。カードは死んだ死体のズボンの中だ！
+サポセンに電話。
+「死後（株）です。ただいまの待ち人数：40億人。」
+
+カウントダウン開始。
+景色が崩れる。ミルクの川がドブ川に。
+天使の顔が歪み、ハープがチェーンソーに変わる。
+「待って！」叫んだ。「広告！広告を見るから！」
+
+システム：【承認。30秒のスキップ不可マグマ風呂CMを再生します。】
+助かった。
+とりあえず居られる。
+ただ、広告は5分ごとに爆音で流れる。
+これ、実質地獄じゃね？`,
+            ko: `죽은 후 의식이 클라우드 천국에 업로드됐다.
+끝내줬다. 젖과 꿀이 흐르는 강. 무료 와이파이.
+오늘 아침까지는. 시야에 팝업창이 떴다.
+
+["천국 스탠다드" 구독이 만료되었습니다.]
+[갱신하려면 카드를 등록하세요. 24시간 미결제 시 "지옥 무료 버전"으로 강등됩니다.]
+
+망했다. 카드는 내 시체 바지 주머니에 있는데!
+고객센터에 걸었다.
+"사후세계 주식회사입니다. 대기 인원: 40억 명."
+
+카운트다운 시작.
+풍경이 무너진다. 우유 강이 시궁창으로 변한다.
+천사들 얼굴이 일그러지고 하프가 전기톱으로 변한다.
+"잠깐!" 소리쳤다. "광고! 광고 볼게!"
+
+시스템: [수락. 30초 스킵 불가 용암 목욕 광고를 재생합니다.]
+살았다.
+일단 버틸 순 있다.
+근데 5분마다 광고가 최대 볼륨으로 뜬다.
+이거 사실상 지옥 아냐?`
+        }
+    },
+    {
+        id: 'time-travel-review',
+        title: {
+            zh: '時光旅遊評論網',
+            en: 'Time Travel Yelp',
+            ja: '時間旅行レビュー',
+            ko: '시간 여행 리뷰'
+        },
+        author: {
+            zh: '挑剔的旅客',
+            en: 'Picky Traveler',
+            ja: '辛口トラベラー',
+            ko: '까다로운 여행객'
+        },
+        description: {
+            zh: '去看了侏羅紀，恐龍有羽毛，差評。去看了耶穌，他在睡午覺，無聊。',
+            en: 'Visited Jurassic, dinos had feathers, 1 star. Visited Jesus, he was napping, boring.',
+            ja: 'ジュラ紀に行った。恐竜に羽毛があった、星1つ。イエスを見に行った、昼寝してた、退屈。',
+            ko: '쥐라기 공원 갔음. 공룡 털북숭이임, 별점 테러. 예수님 보러 갔음, 낮잠 중, 노잼.'
+        },
+        tags: ['Comedy', 'Sci-Fi'],
+        content: {
+            zh: `**目的地位：西元前 6500 萬年（白堊紀）**
+⭐⭐ (2/5)
+爛透了。宣傳手冊上寫著「霸氣的霸王龍」，結果實物全身長滿了彩色的雞毛，叫聲像隻大火雞。
+而且空氣裡的含氧量太高，害我也跟著一直興奮地叫。
+唯一的優點是沒有蚊子（因為蚊子都有手掌那麼大，打死很爽）。
+
+**目的地：西元 33 年（最後的晚餐）**
+⭐ (1/5)
+服務太差。想去蹭個飯，結果只有麵包和葡萄酒。
+而且那個叫猶大的傢伙一直在旁邊碎碎念，破壞氣氛。
+想跟主廚合照還被羅馬士兵趕出來。不推薦。
+
+**目的地：1912 年（鐵達尼號首航）**
+⭐⭐⭐⭐⭐ (5/5)
+氣氛滿分！樂隊演奏到最後一刻真的很敬業。
+雖然最後有點濕，但自助餐無限量供應龍蝦（反正船沉了也沒人管庫存）。
+建議自帶救生圈，現場租借費很貴。
+
+**目的地：2077 年（賽博龐克城）**
+⭐⭐⭐ (3/5)
+視覺效果很棒，霓虹燈很美。
+但是我才剛落地，我的電子錢包就被駭了。
+路邊的狗都有機械手臂，還對我比中指。
+食物只有營養膏，味道像牙膏。
+適合拍照打卡，但不適合居住。`,
+            en: `**Destination: 65 Million BC (Cretaceous)**
+⭐⭐ (2/5)
+Sucks. Brochure showed "Badass T-Rex", reality was a giant chicken with colorful feathers clucking like a turkey.
+Too much oxygen, made me hyper.
+Only pro: No mosquitoes (because they are hand-sized, satisfying to slap).
+
+**Destination: 33 AD (Last Supper)**
+⭐ (1/5)
+Service bad. Wanted a meal, only got bread and wine.
+That guy Judas kept muttering, ruined the vibe.
+Tried to take a selfie with the Chef, Roman guards kicked me out.
+
+**Destination: 1912 (Titanic Maiden Voyage)**
+⭐⭐⭐⭐⭐ (5/5)
+Atmosphere 10/10! Band played till the end, very professional.
+Got a bit wet, but the buffet had unlimited lobster (ship sinking means free inventory).
+BYO life vest, rental is expensive.
+
+**Destination: 2077 (Cyberpunk City)**
+⭐⭐⭐ (3/5)
+Visuals amazing. Neon lights everywhere.
+But got hacked 5 seconds after landing.
+Stray dogs have cyber-arms and flipped me off.
+Food is flavorless paste.
+Good for Instagram, bad for living.`,
+            ja: `**目的地：紀元前6500万年（白亜紀）**
+⭐⭐ (2/5)
+最悪。パンフは「迫力のTレックス」だったのに、実物はカラフルな羽毛が生えた巨大ニワトリ。鳴き声も七面鳥。
+酸素濃度高すぎで変なテンションになった。
+唯一の利点：蚊がいない（手のひらサイズだから、叩くと爽快）。
+
+**目的地：紀元33年（最後の晩餐）**
+⭐ (1/5)
+サービス悪すぎ。食事目当てだったのにパンとワインだけ。
+ユダって奴がブツブツ言ってて雰囲気台無し。
+シェフと自撮りしようとしたらローマ兵に追い出された。非推奨。
+
+**目的地：1912年（タイタニック処女航海）**
+⭐⭐⭐⭐⭐ (5/5)
+雰囲気最高！楽団のプロ根性に感動。
+最後ちょっと濡れるけど、ロブスター食べ放題（どうせ沈むから在庫フリー）。
+救命胴衣は持参推奨。現地レンタルは高い。
+
+**目的地：2077年（サイバーパンクシティ）**
+⭐⭐⭐ (3/5)
+ビジュアル最高。ネオン綺麗。
+でも着いた瞬間に電子マネーハックされた。
+野良犬が機械の腕で中指立ててきた。
+飯は味のしないペースト。
+インスタ映えするけど、住みたくはない。`,
+            ko: `**목적지: 기원전 6500만 년 (백악기)**
+⭐⭐ (2/5)
+최악. 팜플렛엔 "간지나는 티렉스"였는데, 실물은 깃털 달린 거대 닭임. 칠면조 소리 냄.
+산소 농도 너무 높아서 계속 조증 상태였음.
+장점: 모기가 없음 (손바닥만 해서 때려잡는 맛이 있음).
+
+**목적지: 서기 33년 (최후의 만찬)**
+⭐ (1/5)
+서비스 꽝. 밥 얻어 먹으러 갔는데 빵이랑 와인 뿐.
+유다라는 놈이 옆에서 계속 궁시렁대서 분위기 망침.
+셰프랑 셀카 찍으려다 로마 병사한테 쫓겨남. 비추.
+
+**목적지: 1912년 (타이타닉 처녀항해)**
+⭐⭐⭐⭐⭐ (5/5)
+분위기 깡패! 밴드가 마지막까지 연주함. 프로정신 인정.
+마지막에 좀 젖긴 하는데, 랍스터 무한 리필임 (어차피 가라앉아서 재고 처리).
+구명조끼 지참 추천. 현지 대여료 비쌈.
+
+**목적지: 2077년 (사이버펑크 시티)**
+⭐⭐⭐ (3/5)
+비주얼 굿. 네온사인 예쁨.
+근데 도착하자마자 전자지갑 해킹당함.
+들개가 기계 팔로 뻐큐함.
+밥은 맛없는 치약 같은 거 줌.
+인스타용으론 좋은데 살긴 싫음.`
+        }
+    },
+    {
+        id: 'plant-complaint',
+        title: {
+            zh: '盆栽的抱怨',
+            en: 'The Houseplant\'s Rant',
+            ja: '観葉植物の愚痴',
+            ko: '화분의 불평'
+        },
+        author: {
+            zh: '黃金葛',
+            en: 'Pothos',
+            ja: 'ポトス',
+            ko: '스킨답서스'
+        },
+        description: {
+            zh: '「這水太冷了！」「能不能不要把我放在電視旁邊？輻射讓我掉葉子！」',
+            en: '"This water is too cold!" "Don\'t put me near the TV! Radiation makes me lose leaves!"',
+            ja: '「水が冷たすぎる！」「テレビの横に置くな！放射線で葉が落ちるだろ！」',
+            ko: ' "물이 너무 차갑잖아!" "TV 옆에 두지 마! 전자파 때문에 잎 떨어진다고!"'
+        },
+        tags: ['Comedy', 'Slice of Life'],
+        content: {
+            zh: `我是客廳角落的一盆黃金葛。
+我的主人是個好人，但他顯然認為植物是沒有神經的。
+
+週一：他把剩下的咖啡倒進我的土裡。
+嘿！咖啡因對我有毒！我現在心悸得厲害，葉尖都在抖。
+
+週三：他帶了個女朋友回來。
+他們在沙發上親熱。
+拜託，我就在旁邊。這很尷尬好嗎？能不能尊重一下單身植物的感受？
+而且那個女的說：「這盆草是不是快死了？」
+妳才快死了！我只是在代謝咖啡因！
+
+週五：他出去旅行了。
+他忘了澆水。
+但我看到了一隻貓。
+那隻貓盯著我，眼神充滿了邪惡。
+它走過來了。它抬起了腿...
+「不！！！」我在心靈感應頻道尖叫。
+但人類聽不到。
+一股溫熱的液體...
+好吧，至少是液體。我忍了。我要活下去，等到這笨蛋回來，長出最長的藤蔓絆倒他。`,
+            en: `I am a Pothos in the corner.
+My owner is nice, but thinks plants have no nerves.
+
+Monday: He poured leftover coffee into my soil.
+Hey! Caffeine is toxic! My roots are palpitating, leaf tips shaking.
+
+Wednesday: He brought a girl home.
+They made out on the couch.
+Dude, I'm right here. Awkward much? Respect a single plant?
+And she said: "Is this weed dying?"
+You are dying! I'm just metabolizing caffeine!
+
+Friday: He went on a trip.
+Forgot to water me.
+But I saw a cat.
+The cat stared at me. Evil eyes.
+It walked over. Lifted a leg...
+"NO!!!" I screamed in telepathy.
+Humans can't hear.
+Warm liquid...
+Fine. At least it's liquid. I will survive. Wait for the idiot to return, grow a long vine, and trip him.`,
+            ja: `私はリビングの隅のポトス。
+主人はいい奴だが、植物に神経がないと思ってる。
+
+月曜：残ったコーヒーを土に注いだ。
+おい！カフェインは毒だ！動悸が激しい、葉先が震えてる。
+
+水曜：彼女を連れ込んだ。
+ソファーでイチャイチャ。
+頼むよ、目の前だぞ。気まずいだろう？独身植物への配慮は？
+女が言った。「この草、死にかけてない？」
+お前が死ね！カフェインの代謝中だ！
+
+金曜：旅行に行った。
+水やり忘れた。
+だが猫が入ってきた。
+猫は私を睨んだ。邪悪な目。
+近づいてきた。足を上げた...
+「やめろ！！」テレパシーで叫んだ。
+人間には聞こえない。
+温かい液体...
+まあいい、液体には違いない。耐えてやる。バカ主人が帰ってきたら、長いツルを伸ばして転ばせてやる。`,
+            ko: `나는 거실 구석의 스킨답서스다.
+주인은 착하지만, 식물에게 신경이 없다고 생각한다.
+
+월요일: 남은 커피를 흙에 부었다.
+야! 카페인은 독이라고! 뿌리가 두근거려 미치겠네.
+
+수요일: 여자를 데려왔다.
+소파에서 뒹군다.
+제발, 나 바로 옆에 있거든? 뻘쭘하다고. 솔로 식물 존중 좀?
+여자가 말했다. "이 풀 죽어가는 거 아냐?"
+네가 죽어가겠지! 난 카페인 해독 중이야!
+
+금요일: 여행 갔다.
+물 주는 거 까먹음.
+근데 고양이가 들어왔다.
+놈이 날 노려본다. 사악한 눈빛.
+다가왔다. 다리를 들었다...
+"안 돼!!!" 텔레파시로 소리쳤다.
+인간은 못 듣는다.
+따뜻한 액체...
+그래, 액체긴 하니까. 참는다. 그 멍청이 돌아오면, 덩굴 길게 뻗어서 발 걸어 넘어뜨릴 거다.`
+        }
+    },
+    {
+        id: 'shadow-market',
+        title: {
+            zh: '影子市集',
+            en: 'The Shadow Market',
+            ja: '影の市場',
+            ko: '그림자 시장'
+        },
+        author: {
+            zh: '無影人',
+            en: 'Shadowless',
+            ja: '影なし',
+            ko: '그림자 없는 자'
+        },
+        description: {
+            zh: '在這個市集，你可以用影子交換天賦。但失去影子的人，也失去了良知。',
+            en: 'In this market, you trade your shadow for talent. But those without shadows lose their conscience.',
+            ja: 'この市場では、影と才能を交換できる。だが影を失った者は、良心も失う。',
+            ko: '이 시장에선 그림자를 재능과 바꿀 수 있다. 하지만 그림자를 잃은 자는 양심도 잃는다.'
+        },
+        tags: ['Fantasy', 'Dark'],
+        content: {
+            zh: `午夜十二點，我在巷子的盡頭找到了那個攤位。
+攤主是一個看不清臉的斗篷人。
+「你要賣什麼？」他的聲音像風吹過乾枯的樹葉。
+「我的影子，」我說，看著腳下那團黑乎乎的東西，「換取寫出傳世名著的才華。」
+
+攤主笑了。「成交。」
+他拿出一把剪刀，咔嚓一聲，剪斷了我腳下的連結。
+我的影子像一塊布一樣被捲了起來，扔進他身後的籠子裡。籠子裡還有無數個影子在掙扎、無聲地尖叫。
+
+我拿到了一支鋼筆。
+回家後，我下筆如有神。文字像流水一樣湧出，每一句都震撼人心。
+我出名了，獲獎了，發財了。
+但我發現我有得變了。
+看到乞丐，我不再同情，只覺得髒。
+聽到朋友的噩耗，我不再悲傷，只覺得是個寫作的好素材。
+我寫出了最感人的悲劇，但我自己卻流不出一滴眼淚。
+
+我最後一次去那個巷子想贖回影子。
+攤主不在了。
+地上只留下一張紙條：「良知是影子的重量。現在，你輕得可以飛上天，也可以下地獄。」`,
+            en: `Midnight. Alley's end. I found the stall.
+The vendor was a cloaked figure.
+"What do you sell?" Voice like wind in dry leaves.
+"My shadow," I said. "For the talent to write a masterpiece."
+
+The vendor laughed. "Deal."
+He took scissors. Snip. My connection was cut.
+My shadow was rolled up like fabric, tossed into a cage behind him. Thousands of shadows struggled silently inside.
+
+I got a fountain pen.
+Went home. Wrote like a god. Words flowed, shocking and beautiful.
+Fame, awards, money.
+But I changed.
+Saw a beggar, felt no pity, only disgust.
+Heard friend's death, felt no sadness, only "good material for plot".
+I wrote the most touching tragedy, but couldn't shed a tear.
+
+Went back to the alley to redeem.
+Vendor gone.
+Only a note: "Conscience is the weight of the shadow. Now, you are light enough to fly to heaven, or fall to hell."`,
+            ja: `真夜中。路地の突き当たり。
+露天商はマントの男。
+「何を売る？」枯れ葉を渡る風のような声。
+「私の影」私は足元の黒い塊を見た。「傑作を書く才能と引き換えに。」
+
+男は笑った。「成立だ。」
+ハサミを取り出し、チョキン。
+影は布のように巻かれ、背後の籠に放り込まれた。籠の中では無数の影がもがき、無音で叫んでいた。
+
+私は万年筆を受け取った。
+帰宅後、神がかったように書いた。言葉が溢れ、心を揺さぶる。
+名声、賞、富。
+だが何かが変わった。
+乞食を見ても同情はなく、汚いと思うだけ。
+友の訃報を聞いても悲しみはなく、「いいネタだ」と思うだけ。
+最も感動的な悲劇を書いたが、涙一滴流れない。
+
+影を買い戻しに行った。
+店はいなかった。
+メモが残されていた。「良心とは影の重さだ。今の君は軽く、天国へも飛べるし、地獄へも落ちていける。」`,
+            ko: `자정. 골목 끝. 가판대를 찾았다.
+주인은 망토를 쓴 자.
+"뭘 팔 텐가?" 마른 잎을 스치는 바람 같은 목소리.
+"제 그림자요." 발밑의 검은 덩어리를 보며 말했다. "걸작을 쓸 재능과 바꿔주세요."
+
+주인이 웃었다. "거래 성립."
+가위를 꺼내 싹둑. 연결이 끊겼다.
+그림자는 천처럼 말려 뒤편 우리에 던져졌다. 우리 속에선 수많은 그림자가 몸부림치며 소리 없는 비명을 지르고 있었다.
+
+만년필을 받았다.
+집에 가서 신들린 듯 썼다. 문장이 샘솟고, 모든 구절이 심금을 울렸다.
+명성, 상, 돈.
+하지만 내가 변했다.
+거지를 봐도 동정심이 안 들고 더럽다고만 느꼈다.
+친구의 부고에도 슬픔 대신 "좋은 소재네"라고 생각했다.
+가장 슬픈 비극을 썼지만, 눈물 한 방울 흘릴 수 없었다.
+
+되사러 다시 갔다.
+주인은 없었다.
+쪽지뿐: "양심은 그림자의 무게다. 이제 넌 가벼워서 천국으로 날 수도, 지옥으로 떨어질 수도 있지."`
+        }
     }
 ];
