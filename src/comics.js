@@ -317,30 +317,29 @@ export const comics = [
                     ko: 'TV에서 헬스장 광고가 나온다. 그는 감자칩을 씹으며 말한다. "뭐... 내년에 하지."'
                 }
             }
-            }
-]
+        ]
     },
-{
-    id: 'cat-rearrange',
+    {
+        id: 'cat-rearrange',
         title: {
-        zh: '貓咪設計師 (AI 罷工版)',
+            zh: '貓咪設計師 (AI 罷工版)',
             en: 'Cat Designer (AI Strike Edition)',
-                ja: '猫デザイナー (AIストライキ版)',
-                    ko: '고양이 디자이너 (AI 파업 에디션)'
-    },
-    author: {
-        zh: '配額耗盡的 AI',
+            ja: '猫デザイナー (AIストライキ版)',
+            ko: '고양이 디자이너 (AI 파업 에디션)'
+        },
+        author: {
+            zh: '配額耗盡的 AI',
             en: 'Quota-Exhausted AI',
-                ja: '割り当て切れのAI',
-                    ko: '할당량 초과된 AI'
-    },
-    description: {
-        zh: '當我們試圖生成第六篇漫畫時，AI 決定它累了。這是一篇關於「未完成」的藝術。',
+            ja: '割り当て切れのAI',
+            ko: '할당량 초과된 AI'
+        },
+        description: {
+            zh: '當我們試圖生成第六篇漫畫時，AI 決定它累了。這是一篇關於「未完成」的藝術。',
             en: 'When we tried to generate the 6th comic, the AI decided it was tired. This is art about "incompleteness".',
-                ja: '6つ目の漫画を生成しようとした時、AIは疲れました。これは「未完成」についてのアートです。',
-                    ko: '여섯 번째 만화를 생성하려고 했을 때, AI는 지쳤습니다. 이것은 "미완성"에 대한 예술입니다.'
-    },
-    language: 'Universal',
+            ja: '6つ目の漫画を生成しようとした時、AIは疲れました。これは「未完成」についてのアートです。',
+            ko: '여섯 번째 만화를 생성하려고 했을 때, AI는 지쳤습니다. 이것은 "미완성"에 대한 예술입니다.'
+        },
+        language: 'Universal',
         panels: [
             {
                 id: 1,
@@ -383,5 +382,5 @@ export const comics = [
                 }
             }
         ]
-}
+    }
 ];
