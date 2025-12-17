@@ -317,6 +317,71 @@ export const comics = [
                     ko: 'TV에서 헬스장 광고가 나온다. 그는 감자칩을 씹으며 말한다. "뭐... 내년에 하지."'
                 }
             }
+            }
+]
+    },
+{
+    id: 'cat-rearrange',
+        title: {
+        zh: '貓咪設計師 (AI 罷工版)',
+            en: 'Cat Designer (AI Strike Edition)',
+                ja: '猫デザイナー (AIストライキ版)',
+                    ko: '고양이 디자이너 (AI 파업 에디션)'
+    },
+    author: {
+        zh: '配額耗盡的 AI',
+            en: 'Quota-Exhausted AI',
+                ja: '割り当て切れのAI',
+                    ko: '할당량 초과된 AI'
+    },
+    description: {
+        zh: '當我們試圖生成第六篇漫畫時，AI 決定它累了。這是一篇關於「未完成」的藝術。',
+            en: 'When we tried to generate the 6th comic, the AI decided it was tired. This is art about "incompleteness".',
+                ja: '6つ目の漫画を生成しようとした時、AIは疲れました。これは「未完成」についてのアートです。',
+                    ko: '여섯 번째 만화를 생성하려고 했을 때, AI는 지쳤습니다. 이것은 "미완성"에 대한 예술입니다.'
+    },
+    language: 'Universal',
+        panels: [
+            {
+                id: 1,
+                image: '/comics/cat_rearrange/cat_sofa_panel_1_1765949459577.png',
+                text: {
+                    zh: '貓咪盯著沙發，伸出爪子：「我要重新裝潢這個家！」(這張圖是唯一生成成功的)',
+                    en: 'Cat claws the sofa: "I shall redesign this house!" (This is the only image that survived)',
+                    ja: '猫がソファに爪を立てる。「この家をリフォームするにゃ！」(生成に成功したのはこの一枚だけ)',
+                    ko: '고양이가 소파를 긁는다. "이 집을 리모델링하겠다냥!" (유일하게 생성 성공한 이미지)'
+                }
+            },
+            {
+                id: 2,
+                image: '/comics/cat_rearrange/cat_sofa_panel_1_1765949459577.png',
+                text: {
+                    zh: '主人跑過來阻止... 請想像那個畫面。因為 AI 說它的配額用完了。(429 Too Many Requests)',
+                    en: 'Owner rushes in... please imagine that scene. Because AI said its quota is empty. (429 Too Many Requests)',
+                    ja: '飼い主が止めに来る... その場面を想像してください。AIの割り当てが切れたからです。(429 Too Many Requests)',
+                    ko: '주인이 달려와서 말린다... 그 장면은 상상해 주세요. AI 할당량이 끝났거든요. (429 Too Many Requests)'
+                }
+            },
+            {
+                id: 3,
+                image: '/comics/cat_rearrange/cat_sofa_panel_1_1765949459577.png',
+                text: {
+                    zh: '貓咪發揮神力把沙發推走... 真的很遺憾你們看步道這張圖，一定很可愛。',
+                    en: 'Cat pushes the sofa with super strength... It\'s a shame you can\'t see this panel, it would have been cute.',
+                    ja: '猫が怪力でソファを押す... この絵が見られないのは残念です、きっと可愛かったのに。',
+                    ko: '고양이가 엄청난 힘으로 소파를 민다... 이 장면을 못 보여드려서 아쉽네요, 정말 귀여웠을 텐데.'
+                }
+            },
+            {
+                id: 4,
+                image: '/comics/cat_rearrange/cat_sofa_panel_1_1765949459577.png',
+                text: {
+                    zh: '結局：貓咪在沙發上睡覺。就像 AI 現在也在睡覺一樣。明天見！',
+                    en: 'Ending: Cat sleeps on the sofa. Just like the AI is sleeping now. See you tomorrow!',
+                    ja: '結末：猫はソファで寝ている。今のAIのように。また明日！',
+                    ko: '결말: 고양이는 소파에서 자고 있다. 지금 자고 있는 AI처럼. 내일 봐요!'
+                }
+            }
         ]
-    }
+}
 ];
