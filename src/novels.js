@@ -1384,5 +1384,486 @@ Now every night I drive, I feel eyes on my back from the empty seats.`,
 동전함을 보니... 저승 돈이었다. 염라대왕 얼굴이 있었다.
 지금도 운전할 때마다 뒷좌석에서 시선이 느껴진다.`
         }
+    {
+        id: 'world-glitch',
+        title: {
+            zh: '世界裂縫',
+            en: 'The Glitch',
+            ja: '世界のバグ',
+            ko: '세상의 균열'
+        },
+        author: {
+            zh: '觀察者',
+            en: 'The Observer',
+            ja: '観察者',
+            ko: '관찰자'
+        },
+        description: {
+            zh: '你是否曾經覺得，這個世界有點... 不真實？也許你是對的。',
+            en: 'Have you ever felt the world is a bit... unreal? Maybe you are right.',
+            ja: 'この世界が少し...非現実的だと感じたことは？たぶん君は正しい。',
+            ko: '이 세상이 조금... 비현실적이라고 느낀 적이 있나? 어쩌면 네가 맞을지도 모른다.'
+        },
+        tags: ['Sci-Fi', 'Thriller'],
+        content: {
+            zh: `那天早上，我在公園餵鴿子。
+一隻鴿子飛過來，突然定在半空中。它的翅膀保持著拍打的姿勢，但完全不動，就像被暫停的影片。
+我揉了揉眼睛。沒看錯。
+接著，我看到它的翅膀... 馬賽克化了。
+一串綠色的代碼從它的羽毛間流出：【Error: Object_Instance_ID_404_Bird Not Found】
+
+這時，天空變成了藍屏。
+巨大的白色字體浮現在空中：【系統資源不足，正在重新加載世界區塊...】
+路上的行人突然全部消失，只剩下我一個。
+
+一個穿著白大褂的人從虛空中走出來，手裡拿著平板電腦。
+他看到我，露出了驚恐的表情。
+「等等，為什麼這個 NPC 還在緩衝區？」他對著空氣大喊，「項目經理！007 號實驗體產生了自我意識！測試要不要終止？」
+
+我低頭看著自己的手，它們正在變成透明的數據流。
+原來，我只是一個 Bug。`,
+            en: `I was feeding pigeons in the park.
+One pigeon flew over and froze in mid-air. Wings flapping but static, like a paused video.
+I rubbed my eyes. Real.
+Then, its wing... pixelated.
+Green code spilled out: [Error: Object_Instance_ID_404_Bird Not Found]
+
+Then, the sky turned Blue Screen of Death.
+Giant text: [System Resources Low. Reloading World Chunks...]
+Pedestrians vanished. Only I remained.
+
+A man in a lab coat stepped out of the void, holding a tablet.
+He saw me and looked terrified.
+"Wait, why is this NPC still in the buffer?" he yelled. "Project Manager! Subject 007 has achieved self-awareness! Abort test?"
+
+I looked at my hands. They were turning into transparent data streams.
+So, I am just a Bug.`,
+            ja: `公園で鳩に餌をやっていた。
+一羽が飛んできて、空中で止まった。羽ばたく姿勢のまま、完全に静止している。一時停止したビデオのように。
+目をこすった。間違いない。
+そして、その翼が...モザイクになった。
+緑のコードが流れ出した：【Error: Object_Instance_ID_404_Bird Not Found】
+
+その時、空がブルースクリーンになった。
+巨大な文字：【システムリソース不足。ワールドチャンクを再読み込み中...】
+歩行者が全員消え、私だけが残った。
+
+白衣の男が虚空から現れた。
+私を見て、彼は凍りついた。
+「待て、なぜこのNPCがバッファに残ってる？」彼は叫んだ。「PM！被験者007が自我を持ちました！テストを中止しますか？」
+
+私は自分の手を見た。透明なデータストリームに変わっていく。
+そうか、私はただのバグだったのか。`,
+            ko: `공원에서 비둘기에게 먹이를 주고 있었다.
+비둘기 한 마리가 날아오더니 공중에 멈췄다. 날개는 퍼덕이는 자세 그대로, 일시 정지된 영상처럼.
+눈을 비 볐다. 헛것이 아니다.
+그때, 날개가... 모자이크로 변했다.
+녹색 코드가 흘러나왔다: [Error: Object_Instance_ID_404_Bird Not Found]
+
+그 순간, 하늘이 블루스크린으로 변했다.
+거대한 글자: [시스템 리소스 부족. 월드 청크 재로딩 중...]
+행인들이 모두 사라지고 나만 남았다.
+
+흰 가운을 입은 남자가 허공에서 걸어 나왔다. 타블렛을 들고 있었다.
+그는 나를 보고 경악했다.
+"잠깐, 왜 이 NPC가 버퍼에 남아있지?" 그가 소리쳤다. "팀장님! 피실험체 007이 자아를 가졌습니다! 테스트 중단합니까?"
+
+나는 내 손을 내려다보았다. 투명한 데이터 흐름으로 변하고 있었다.
+나는, 그저 버그였구나.`
+        }
+    },
+    {
+        id: 'assassin-dilemma',
+        title: {
+            zh: '刺客的兩難',
+            en: 'The Assassin\'s Dilemma',
+            ja: '暗殺者のジレンマ',
+            ko: '암살자의 딜레마'
+        },
+        author: {
+            zh: '暗影之刃',
+            en: 'Shadow Blade',
+            ja: '影の刃',
+            ko: '그림자 검'
+        },
+        description: {
+            zh: '任務：殺死暴君轉世的鄰國王子。目標年齡：6歲。',
+            en: 'Mission: Kill the reincarnated Tyrant Prince. Target Age: 6.',
+            ja: '任務：暴君の生まれ変わりである隣国の王子を殺せ。対象年齢：6歳。',
+            ko: '임무: 폭군의 환생인 이웃 나라 왕자를 죽여라. 목표 연령: 6세.'
+        },
+        tags: ['Fantasy', 'Classic'],
+        content: {
+            zh: `我是皇家首席刺客。我的任務是潛入敵國，殺死他們的小王子。
+預言說，這位王子是百年前毀滅世界的魔王轉世。
+我在風雨交加的夜晚潛入了他的臥室。
+他睡得很熟，懷裡抱著一隻破舊的泰迪熊。
+我舉起毒匕首。只要輕輕一劃，世界就和平了。
+
+突然，王子醒了。
+他沒有尖叫。他那雙金色的大眼睛看著我，然後露出了一個缺牙的微笑。
+「你是牙仙子嗎？」他問。
+我愣住了。我是穿著夜行衣的死神，不是牙仙子。
+「我的牙齒掉了，放在枕頭下了。」他興奮地翻起枕頭，拿出一顆乳牙，「你可以拿走它，但請這隻泰迪熊吃糖好嗎？它今天陪我罰站，很辛苦。」
+
+我看著他純真的眼神，又看了看那隻被縫補過很多次的熊。
+魔王？毀滅世界？
+去他的預言。
+
+我收起匕首，從口袋裡掏出一枚金幣換走了他的牙，還塞了一顆薄荷糖給泰迪熊。
+「任務失敗。」我對著通訊水晶說，「目標防禦過高，無法擊破。」
+我叛逃了。今後誰想動這個孩子，先問過我的刀。`,
+            en: `I am the Royal Assassin. Mission: Infiltrate enemy lines, kill the Little Prince.
+Prophecy says he is the reincarnation of the Demon Lord who destroyed the world.
+I entered his room on a stormy night.
+He slept soundly, hugging a worn teddy bear.
+I raised my poisoned dagger. One scratch, and the world is saved.
+
+Suddenly, he woke up.
+He didn't scream. Big golden eyes looked at me, then a toothless smile appeared.
+"Are you the Tooth Fairy?"
+I froze. I am the Reaper in black, not a fairy.
+"My tooth fell out, it's under the pillow." He excitedly lifted the pillow, showing a baby tooth. "Take it. But can you give Teddy a candy? He stood in timeout with me today."
+
+I looked at his innocent eyes, then the patched-up bear.
+Demon Lord? Destroyer?
+Screw the prophecy.
+
+I sheathed the dagger, swapped the tooth for a gold coin, and tucked a mint into the bear's arm.
+"Mission failed," I whispered to my comms crystal. "Target defenses too high."
+I defected. Anyone who wants to touch this kid answers to my blade.`,
+            ja: `私は王室主席暗殺者だ。任務は敵国の幼い王子を殺すこと。
+予言によれば、彼は世界を滅ぼした魔王の生まれ変わりだ。
+嵐の夜、寝室に侵入した。
+彼はボロボロのテディベアを抱いて熟睡していた。
+毒の短剣を振り上げた。かすり傷一つで、世界は救われる。
+
+突然、王子が目覚めた。
+叫ばなかった。大きな金色の瞳で私を見つめ、歯抜けの笑顔を見せた。
+「歯の妖精さん？」
+私は固まった。私は黒衣の死神だ、妖精ではない。
+「歯が抜けたの。枕の下だよ」彼は興奮して枕をめくり、乳歯を見せた。「これあげる。でもテディに飴をあげてくれる？今日一緒に罰を受けてくれたから」
+
+彼の無垢な目と、継ぎ接ぎだらけの熊を見た。
+魔王？世界の破壊者？
+予言なんてクソ食らえだ。
+
+私は短剣を収め、金貨と歯を交換し、テディベアにミントキャンディを握らせた。
+「任務失敗」通信クリスタルに告げた。「ターゲットの防御力が高すぎる」
+私は脱走した。今後この子に触れようとする者は、私の刃が相手だ。`,
+            ko: `나는 왕실 수석 암살자다. 임무는 적국의 어린 왕자를 죽이는 것.
+예언에 따르면 그는 전생에 세상을 멸망시킨 마왕이다.
+폭풍우 치는 밤, 그의 침실에 잠입했다.
+그는 낡은 테디베어를 안고 곤히 자고 있었다.
+독 묻은 단검을 치켜들었다. 긁히기만 해도 세계는 평화로워진다.
+
+갑자기 왕자가 깼다.
+비명을 지르지 않았다. 큰 금색 눈으로 나를 보더니 이 빠진 웃음을 지었다.
+"이빨 요정님인가요?"
+나는 얼어붙었다. 나는 검은 옷의 사신이지 요정이 아니다.
+"이빨 빠졌어요. 베개 밑에요." 그는 신나서 베개를 들추고 젖니를 꺼냈다. "가져가세요. 대신 테디한테 사탕 주실래요? 오늘 저랑 벌서느라 고생했거든요."
+
+나는 그의 순진한 눈과 꿰맨 자국 투성이인 곰을 보았다.
+마왕? 멸망?
+예언 따위 개나 줘버려.
+
+나는 단검을 거두고, 금화로 이빨을 바꾼 뒤 테디베어에게 박하사탕을 쥐여주었다.
+"임무 실패." 통신 수정에 속삭였다. "목표물 방어력이 너무 높음."
+나는 망명했다. 이제 누구든 이 아이를 건드리면 내 칼을 각오해야 한다.`
+        }
+    },
+    {
+        id: 'mr-smiles',
+        title: {
+            zh: '微笑先生',
+            en: 'Mr. Smiles',
+            ja: 'ミスター・スマイル',
+            ko: '미스터 스마일'
+        },
+        author: {
+            zh: '驚恐的母親',
+            en: 'Terrified Mom',
+            ja: '怯える母',
+            ko: '공포에 질린 엄마'
+        },
+        description: {
+            zh: '兒子一直在對著牆角說話。我以為是想像朋友，直到我也聽到了笑聲。',
+            en: 'My son keeps talking to the corner. thought it was imaginary, until I heard the laugh.',
+            ja: '息子がずっと部屋の隅に話しかけている。空想の友達だと思っていた、あの笑い声を聞くまでは。',
+            ko: '아들이 계속 구석을 향해 말을 건다. 상상 속 친구인 줄 알았다, 그 웃음소리를 듣기 전까진.'
+        },
+        tags: ['Horror', 'Creepy'],
+        content: {
+            zh: `我的五歲兒子提米最近交了個新朋友，叫「微笑先生」。
+「他很高，」提米說，「而且他的嘴巴好大，笑得可以看到紅色的牙齦。」
+我只是摸摸他的頭，以為是小孩子的想像力。
+
+半夜，我聽到嬰兒監聽器裡傳來提米的聲音。
+「不，微笑先生，不行。媽媽會生氣的。」
+然後是一個低沉的、像磨砂紙一樣的聲音：「就一次... 讓我不穿皮...」
+
+我全身血液凍結，衝進提米的房間。
+房間裡只有提米在睡覺。窗戶是鎖著的。
+我鬆了一口氣，覺得自己聽錯了。
+就在我轉身要離開時，我看到牆角的天花板上有四道深深的抓痕。
+抓痕旁邊，用紅色的蠟筆（還是血？）寫著幾個歪歪扭扭的字：
+【她是個壞媽媽。我可以吃掉她嗎？】
+
+我的背後傳來一聲輕笑。不是提米的笑聲。
+「嘻嘻嘻...」`,
+            en: `My 5-year-old Timmy made a new friend, "Mr. Smiles".
+"He is tall," Timmy said. "And his mouth is so big I can see his red gums."
+I patted his head. Just imagination.
+
+Midnight. Baby monitor crackled.
+"No, Mr. Smiles. Mom will be mad."
+Then, a deep, raspy voice: "Just once... let me take off my skin..."
+
+Blood cold, I ran to his room.
+Just Timmy sleeping. Window locked.
+Relief. Must be hallucination.
+I turned to leave, then saw four deep scratches on the ceiling corner.
+Next to them, written in red crayon (or blood?):
+[SHE IS A BAD MOM. CAN I EAT HER?]
+
+A giggle came from right behind my ear. Not Timmy's.
+"Hehehe..."`,
+            ja: `5歳の息子ティミーに新しい友達ができた。「ミスター・スマイル」だ。
+「背が高いんだ」ティミーは言った。「口がすごく大きくて、赤い歯茎が見えるよ」
+私は頭を撫でた。子供の想像だ。
+
+真夜中。ベビーモニターから声がした。
+「ダメだよ、ミスター・スマイル。ママが怒る」
+そして、低く、紙やすりのような声。「一度だけ...皮を脱がせてくれ...」
+
+凍りつき、部屋へ走った。
+ティミーが寝ているだけ。窓は閉まっている。
+ほっとした。聞き間違いだ。
+出ようとして、部屋の隅の天井に深い爪痕を見つけた。
+その横に、赤いクレヨン（それとも血？）で歪んだ文字：
+【悪いママだ。食べていい？】
+
+耳元でクスクスと笑い声がした。ティミーの声じゃない。
+「ヒヒヒ...」`,
+            ko: `5살 아들 티미에게 새 친구가 생겼다. 이름은 '미스터 스마일'.
+"키가 커요." 티미가 말했다. "입이 너무 커서 빨간 잇몸이 다 보여요."
+나는 머리를 쓰다듬었다. 그냥 상상력이지.
+
+한밤중, 베이비 모니터에서 소리가 났다.
+"안 돼요, 미스터 스마일. 엄마가 화내요."
+그리고 낮고 거친 목소리: "딱 한 번만... 가죽을 벗게 해줘..."
+
+피가 식는 기분으로 방에 뛰어갔다.
+티미는 자고 있었다. 창문은 잠겨 있었다.
+안심했다. 잘못 들은 거야.
+나가려고 돌아섰을 때, 구석 천장에 깊은 손톱자국 4개가 보였다.
+그 옆에 빨간 크레파스(혹은 피?)로 쓴 비뚤어진 글씨:
+[나쁜 엄마네. 먹어도 돼?]
+
+내 귀 뒤에서 낄낄거리는 소리가 들렸다. 티미 목소리가 아니었다.
+"히히히..."`
+        }
+    },
+    {
+        id: 'red-hands',
+        title: {
+            zh: '紅手畫家',
+            en: 'The Red-Handed Painter',
+            ja: '赤い手の画家',
+            ko: '붉은 손의 화가'
+        },
+        author: {
+            zh: '匿名藝評人',
+            en: 'Anon Critic',
+            ja: '匿名評論家',
+            ko: '익명의 평론가'
+        },
+        description: {
+            zh: '他醒來時雙手沾滿紅顏料。畫布上是一場兇殺案。而新聞說它剛剛發生。',
+            en: 'He woke with red paint on his hands. The canvas showed a murder. The news said it just happened.',
+            ja: '目覚めると手は赤い絵の具まみれ。キャンバスには殺人現場。ニュースはそれが今起きたと伝えている。',
+            ko: '붉은 물감이 묻은 손으로 깨어났다. 캔버스에는 살인 현장이 그려져 있었다. 뉴스에서는 방금 일어난 사건이라고 했다.'
+        },
+        tags: ['Mystery', 'Supernatural'],
+        content: {
+            zh: `我是個夢遊畫家。我只在夢遊時創作。
+我的畫風被稱為「極度寫實的暴力美學」。收藏家們為之瘋狂。
+但我從不敢告訴他們，我根本不知道自己畫了什麼。
+
+今天早上醒來，我的手又是紅的。
+畫布上畫著一個穿黃色雨衣的女孩，倒在陰暗的小巷裡。細節驚人地清晰。
+我洗手時打開電視。
+新聞快報：「今晨在橡樹巷發現一名遇害者，身穿黃色雨衣...」
+
+我吐了。這不是第一次。
+每次我畫出悲劇，悲劇就會發生。我以為我是預言家。
+直到今天，我在畫的角落發現了一行小字，那是我的筆跡，但我從未寫過：
+「如果你不畫出來，我就不得不親自去做了 —— 你的影子敬上。」
+
+我恐懼地看向腳下。
+燈光下，我的影子並沒有模仿我的動作。
+它手裡拿著一把刀，正在對我微笑。`,
+            en: `I am a sleepwalking painter. I only create when asleep.
+Critics call my style "Hyper-realistic Violence". Collectors pay millions.
+I never told them I have no idea what I paint.
+
+Woke up today. Hands red again.
+Canvas: A girl in a yellow raincoat, lying in a dark alley. Details are terrifyingly sharp.
+Turned on TV while washing hands.
+News: "Body found this morning in Oak Alley, wearing yellow raincoat..."
+
+I threw up. Not the first time.
+Every time I paint a tragedy, it happens. I thought I was a prophet.
+Until today, I found small text in the corner. My handwriting, but I never wrote it:
+"If you don't paint it, I'll have to do it myself. — Sincerely, Your Shadow."
+
+I looked down in terror.
+Under the light, my shadow wasn't mimicking me.
+It held a knife and was grinning at me.`,
+            ja: `私は夢遊病の画家だ。夢遊状態でのみ描く。
+スタイルは「極めて写実的な暴力の美」。コレクターは熱狂する。
+自分が何を描いたか全く覚えていないなんて、誰にも言えない。
+
+今朝、また手が赤かった。
+キャンバスには黄色いレインコートの少女が、暗い路地で倒れている。細部まで鮮明だ。
+手を洗いながらテレビをつけた。
+ニュース：「今朝、オーク路地で遺体が発見されました。黄色いレインコートを...」
+
+吐いた。これが初めてじゃない。
+描くと、それが起きる。預言者だと思っていた。
+しかし今日、絵の隅に小さな文字を見つけた。私の筆跡だが、書いた覚えはない。
+『君が描かないなら、僕が直接やるしかなかったんだ。――君の影より』
+
+恐怖で足元を見た。
+明かりの下、私の影は私の動きを真似ていなかった。
+影はナイフを持ち、私に笑いかけていた。`,
+            ko: `나는 몽유병 화가다. 잠들었을 때만 그림을 그린다.
+내 화풍은 '극사실주의적 폭력의 미학'이라 불린다. 수집가들은 열광한다.
+내가 뭘 그렸는지 전혀 모른다는 건 비밀이다.
+
+오늘 아침, 또 손이 붉었다.
+캔버스에는 노란 우비를 입은 소녀가 어두운 골목에 쓰러져 있었다. 디테일이 소름 끼칠 정도였다.
+손을 씻으며 TV를 켰다.
+뉴스: "오늘 아침 오크 골목에서 시신 발견, 노란 우비를 착용..."
+
+구역질이 났다. 처음이 아니다.
+내가 비극을 그리면, 비극이 일어난다. 내가 예언자인 줄 알았다.
+오늘 그림 구석에서 작은 글씨를 발견하기 전까진. 내 글씨지만 쓴 적은 없다:
+"네가 그리지 않으면, 내가 직접 할 수밖에 없잖아. — 너의 그림자가."
+
+공포에 질려 발밑을 보았다.
+조명 아래, 내 그림자는 나를 따라 하지 않고 있었다.
+그림자는 칼을 들고 나를 향해 웃고 있었다.`
+        }
+    },
+    {
+        id: 'soul-bar',
+        title: {
+            zh: '最後一杯',
+            en: 'The Last Drink',
+            ja: '最後の一杯',
+            ko: '마지막 한 잔'
+        },
+        author: {
+            zh: '酒保',
+            en: 'The Bartender',
+            ja: 'バーテンダー',
+            ko: '바텐더'
+        },
+        description: {
+            zh: '這家酒吧沒有出口，只有入口。唯一的離開方式是喝下那杯酒，然後遺忘。',
+            en: 'This bar has no exit, only an entrance. The only way out is to drink, and forget.',
+            ja: 'このバーに出口はなく、入口しかない。出る唯一の方法は、あの酒を飲み、忘れること。',
+            ko: '이 바에는 출구가 없고 입구만 있다. 나가는 유일한 방법은 그 술을 마시고 잊는 것이다.'
+        },
+        tags: ['Fantasy', 'Urban Legend'],
+        content: {
+            zh: `「又是車禍？」我擦著威士忌杯問道。
+坐在吧檯的年輕人滿頭是血，神情恍惚。
+「我不記得了... 我只是在開車，然後看到一道白光，醒來就在這了。」
+他環顧四周。「這是哪？我要回家，我也許遲到了，潔西卡在等我。」
+
+「這是中轉站，」我倒了一杯透明的液體，「孟婆湯特調。喝了它，你就能去下一站了。」
+年輕人推開酒杯。「不！我不能死！我有未婚妻，我們下週要結婚！」
+他衝向門口，但門打不開。
+他砸窗戶，窗外只有虛無的灰霧。
+
+就這樣鬧了幾個小時（或者幾年？這裡沒有時間），他累癱在地上。
+「她會傷心欲絕的...」他哭著說。
+「是的，」我說，「活著的人更痛苦。但如果你帶著這份牽掛停留，你會變成惡靈，永遠回不去。」
+
+這時，酒吧的點唱機突然自動響了。是一首婚禮進行曲。
+年輕人抬起頭。
+「她正在你的葬禮上放這首歌，」我輕聲說，「她在向你告別。你也該放手了。」
+
+年輕人沉默良久。他站起來，端起那杯酒。
+「敬潔西卡。」他流著淚，一飲而盡。
+他的身體漸漸化為螢火蟲般的光點，穿過天花板飛走了。
+「下一位。」我看著門口新進來的老人說。`,
+            en: `“Car accident again?” I asked, polishing a glass.
+The young man at the bar was covered in blood, dazed.
+“I don't remember... just driving, white light, then here.”
+He looked around. “Where is this? I need to go home. Jessica is waiting.”
+
+“This is the Transfer Station,” I poured a clear liquid. “Lethe Special. Drink, and move on.”
+He pushed the glass away. “No! I can’t be dead! I’m getting married next week!”
+He ran to the door. Locked.
+He smashed the window. Outside was only grey void.
+
+After hours (or years?), he collapsed.
+“She will be devastated...” he sobbed.
+“Yes,” I said. “The living suffer more. But if you stay because of grief, you become a wraith.”
+
+Suddenly, the jukebox played the Wedding March.
+He looked up.
+“She is playing this at your funeral,” I said softly. “She is saying goodbye. You should too.”
+
+Silence. He stood up, took the glass.
+“To Jessica.” Tears in eyes, he drank.
+He dissolved into fireflies and floated away.
+“Next,” I said to the old man entering.`,
+            ja: `「また事故か？」グラスを磨きながら聞いた。
+血まみれの若者が呆然と座っていた。
+「覚えてない...運転してて、白い光が見えて、気づいたらここに」
+彼は見回した。「ここは？帰らなきゃ。ジェシカが待ってる」
+
+「ここは乗り換え駅だ」透明な液体を注いだ。「忘却スペシャル。飲めば次に行ける」
+彼は拒絶した。「嫌だ！死んでたまるか！来週結婚式なんだ！」
+ドアに走ったが開かない。窓の外は灰色の虚無だけ。
+
+数時間（数年？）後、彼は崩れ落ちた。
+「彼女、悲しむだろうな...」
+「ああ。生きている者の方が辛い。だが、未練を持って留まれば、君は悪霊になる」
+
+突然、ジュークボックスが結婚行進曲を奏でた。
+彼は顔を上げた。
+「彼女が君の葬儀で流している」私は優しく言った。「彼女は別れを告げている。君もそうすべきだ」
+
+沈黙。彼は立ち上がり、グラスを持った。
+「ジェシカに乾杯。」涙と共に飲み干した。
+彼は蛍のような光になって消えた。
+「次の方。」私は入ってきた老人に言った。`,
+            ko: `“또 차 사고인가?” 잔을 닦으며 물었다.
+피투성이 청년이 멍하니 앉아 있었다.
+“기억이 안 나요... 운전 중이었는데, 하얀 빛이 보였고, 여기였어요.”
+그는 둘러봤다. “여기가 어디죠? 집에 가야 해요. 제시카가 기다려요.”
+
+“여긴 환승역이야.” 투명한 액체를 따랐다. “망각 스페셜. 마시면 다음으로 갈 수 있지.”
+그는 잔을 밀어냈다. “아뇨! 죽을 순 없어요! 다음 주에 결혼한다구요!”
+문으로 달려갔지만 안 열렸다. 창밖은 회색 허무뿐.
+
+몇 시간(혹은 몇 년?) 후, 그는 주저앉았다.
+“그녀가 얼마나 슬퍼할까...” 그가 울었다.
+“그래. 산 사람이 더 고통스럽지. 하지만 미련 때문에 남으면 넌 악령이 돼.”
+
+그때, 주크박스에서 결혼 행진곡이 흘러나왔다.
+그가 고개를 들었다.
+“장례식에서 그녀가 틀었군,” 내가 부드럽게 말했다. “그녀는 작별 인사를 하고 있어. 자네도 보내줘야지.”
+
+침묵. 그는 일어나 잔을 들었다.
+“제시카를 위하여.” 눈물을 흘리며 들이켰다.
+그는 반딧불이처럼 변해 날아갔다.
+“다음 분.” 들어오는 노인을 보며 내가 말했다.`
+        }
     }
 ];
