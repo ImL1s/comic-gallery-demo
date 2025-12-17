@@ -22,6 +22,18 @@ export const LanguageSelector = () => {
             >
                 EN
             </button>
+            <button
+                className={i18n.language === 'ja' ? 'active' : ''}
+                onClick={() => changeLanguage('ja')}
+            >
+                日文
+            </button>
+            <button
+                className={i18n.language === 'ko' ? 'active' : ''}
+                onClick={() => changeLanguage('ko')}
+            >
+                韓文
+            </button>
         </div>
     );
 };

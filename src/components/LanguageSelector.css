@@ -5,27 +5,32 @@
     display: flex;
     gap: 0.5rem;
     z-index: 100;
+    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 .language-selector button {
     background: white;
-    border: 1px solid #ccc;
-    padding: 5px 12px;
-    border-radius: 20px;
+    border: 1px solid #e0e0e0;
+    padding: 4px 10px;
+    border-radius: 15px;
     cursor: pointer;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     transition: all 0.2s;
     color: #666;
+    font-weight: 500;
 }
 
 .language-selector button:hover {
-    background: #f0f0f0;
+    background: #f8f9fa;
+    transform: translateY(-1px);
 }
 
 .language-selector button.active {
     background: #2c3e50;
     color: white;
     border-color: #2c3e50;
+    box-shadow: 0 2px 4px rgba(44, 62, 80, 0.2);
 }
 
 @media (max-width: 600px) {
