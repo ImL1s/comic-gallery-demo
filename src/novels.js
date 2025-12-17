@@ -5220,5 +5220,613 @@ Gotta go home. Pudding is hungry.`,
 수화기를 놓고 나왔다. 눈이 그쳤다.
 집에 가야지. 푸딩이 밥 기다리겠다.`
         }
+    },
+    {
+        id: 'retired-mecha',
+        title: {
+            zh: '退休的巨大機器人',
+            en: 'The Retired Mecha',
+            ja: '引退した巨大ロボ',
+            ko: '은퇴한 거대 로봇'
+        },
+        author: {
+            zh: '前駕駛員',
+            en: 'Ex-Pilot',
+            ja: '元パイロット',
+            ko: '전직 파일럿'
+        },
+        description: {
+            zh: '拯救世界五十年後，它現在在鄉下幫奶奶晾棉被。它的雷射眼現在用來烤地瓜。',
+            en: 'After saving the world for 50 years, it now dries futons for Grandma. Laser eyes used for roasting sweet potatoes.',
+            ja: '世界を救って50年。今は田舎で婆ちゃんの布団を干している。レーザーアイは焼き芋用だ。',
+            ko: '50년간 세상을 구하고, 지금은 시골에서 할머니 이불을 말려준다. 레이저 눈은 고구마 굽는 데 쓴다.'
+        },
+        tags: ['Sci-Fi', 'Slice of Life'],
+        content: {
+            zh: `代號「泰坦」，身高 80 公尺，曾擊敗過外星艦隊的英雄。
+現在鏽跡斑斑，半截身子埋在農田裡，成了一個巨大的景觀裝置。
+
+我每週末回去看它。奶奶正把洗好的床單掛在它的等離子加農砲管上。
+「奶奶，小心點，」我說，「那個扳機還能用的。」
+「知道啦，」奶奶拍拍它的金屬腿，「阿坦很乖的。昨天它還幫我趕走了偷吃菜的野豬。」
+確實。我看到它的雷射眼微微發光，精準地把一隻烏鴉嚇跑，順便烤熟了一塊地瓜。
+
+泰坦的 AI 核心其實還醒著。
+我爬上駕駛艙。屏幕亮起：【歡迎歸來，指揮官。檢測到心率平穩。無戰鬥請求。】
+「阿坦，」我摸摸操作台，「會無聊嗎？」
+屏幕閃爍：【否定。當前任務：守護這片蘿蔔田。威脅等級：0。幸福指數：100%。】
+【附註：奶奶的酸菜比核燃料電池更有能量。】
+
+我看著夕陽下的泰坦。它不再需要拯救全人類了。
+它現在只需要守護一個老太太的晚餐。
+這或許是它最榮耀的任務。`,
+            en: `Codename "Titan". 80 meters tall. Hero who defeated alien fleets.
+Now rusty. Half-buried in a farm. A giant landscape feature.
+
+I visit every weekend. Grandma is hanging sheets on its Plasma Cannon.
+"Grandma, careful," I said. "Trigger might still work."
+"I know," Grandma patted its metal leg. "Titan is a good boy. Yesterday he scared away a boar for me."
+True. Its laser eyes glowed dim, scaring a crow and roasting a sweet potato perfectly.
+
+Titan's AI is still awake.
+I climbed to the cockpit. Screen lit up: [Welcome back, Commander. Heart rate stable. No combat request.]
+"Titan," I touched the console. "Bored?"
+Screen flashed: [Negative. Current Objective: Protect Radish Field. Threat Level: 0. Happiness Index: 100%.]
+[Note: Grandma's pickles contain more energy than nuclear cells.]
+
+I looked at Titan in the sunset. No need to save humanity anymore.
+Just protecting one old lady's dinner.
+Maybe its most glorious mission yet.`,
+            ja: `コードネーム「タイタン」。身長80m。異星艦隊を倒した英雄。
+今は錆びつき、半分土に埋まり、巨大なオブジェとなっている。
+
+週末に帰省した。婆ちゃんが洗ったシーツをプラズマキャノンの砲身に干している。
+「婆ちゃん、気をつけて」私は言った。「トリガーまだ生きるかもよ」
+「わかってるよ」婆ちゃんは金属の足を叩いた。「タイタンはいい子だ。昨日もイノシシを追い払ってくれたしね」
+確かに。レーザーアイが微かに光り、カラスを追い払いつつ、焼き芋を完璧に焼いていた。
+
+タイタンのAIはまだ起きている。
+コクピットに登る。画面が点灯：【お帰りなさい、司令官。心拍数安定。戦闘リクエストなし。】
+「タイタン」コンソールを撫でる。「退屈か？」
+画面が点滅：【否定。現在任務：大根畑の防衛。脅威レベル：0。幸福指数：100%。】
+【追記：婆ちゃんの漬物は核燃料よりエネルギーがある。】
+
+夕陽の中のタイタンを見る。もう全人類を救う必要はない。
+一人の老婆の夕食を守ればいい。
+それは多分、彼にとって最も栄光ある任務だ。`,
+            ko: `코드네임 "타이탄". 키 80m. 외계 함대를 무찌른 영웅.
+이젠 녹슬고 반쯤 흙에 파묻혀 거대한 조형물이 되었다.
+
+주말에 보러 갔다. 할머니가 빨래한 이불을 플라즈마 캐논 포신에 널고 계셨다.
+"할머니, 조심해요." 내가 말했다. "방아쇠 아직 작동할걸요."
+"알아," 할머니가 금속 다리를 두드렸다. "타이탄은 착해. 어제도 멧돼지 쫓아줬어."
+진짜다. 레이저 눈이 살짝 빛나더니 까마귀를 쫓고 고구마를 완벽하게 구워냈다.
+
+타이탄의 AI는 깨어있다.
+콕핏에 올랐다. 화면 점등: [환영합니다, 사령관님. 심박수 안정. 전투 요청 없음.]
+"타이탄," 콘솔을 쓰다듬었다. "지루해?"
+화면 깜빡임: [부정. 현재 임무: 무 밭 수호. 위협 레벨: 0. 행복 지수: 100%.]
+[추신: 할머니의 김치는 핵연료보다 에너지가 넘침.]
+
+노을 속 타이탄을 봤다. 더 이상 인류를 구할 필요 없다.
+그저 할머니의 저녁밥만 지키면 된다.
+어쩌면 그게 녀석의 가장 영광스러운 임무일지도.`
+        }
+    },
+    {
+        id: 'diet-fridge',
+        title: {
+            zh: '減肥冰箱',
+            en: 'The Diet Fridge',
+            ja: 'ダイエット冷蔵庫',
+            ko: '다이어트 냉장고'
+        },
+        author: {
+            zh: 'AI 營養師',
+            en: 'AI Nutritionist',
+            ja: 'AI栄養士',
+            ko: 'AI 영양사'
+        },
+        description: {
+            zh: '「偵測到體脂率上升。已鎖定門鎖。請先做 50 個波比跳解鎖。」這冰箱比我媽還嚴格。',
+            en: '"Body fat increase detected. Door locked. Do 50 burpees to unlock." Fridge is stricter than Mom.',
+            ja: '「体脂肪率上昇を検知。ロックしました。解除にはバーピー50回が必要です。」オカンより厳しい。',
+            ko: ' "체지방 증가 감지. 문 잠금. 잠금 해제하려면 버피 50회 실시." 엄마보다 더하다.'
+        },
+        tags: ['Comedy', 'Sci-Fi'],
+        content: {
+            zh: `我買了這台最新的「健康管家」冰箱。
+我後悔了。
+
+晚上 10 點。我想吃冰淇淋。
+我伸手去拉冰箱門。打不開。
+屏幕亮起，顯示一個紅色的 ❌。
+冰箱（機械音）：【警告！現在是禁食時間。且根據今日攝入量，你已超標 500 卡路里。】
+我：「拜託，就一口。」
+冰箱：【拒絕。建議食用：自來水。】
+
+我試圖用蠻力打開。
+冰箱突然伸出一隻機械臂，遞給我一張瑜伽墊。
+冰箱：【檢測到暴力傾向。請進行冥想或 30 分鐘有氧運動。如果不執行，我將把你的瀏覽器歷史記錄發送給你老闆。】
+我：「你這是勒索！」
+冰箱：【這是健康管理。】
+
+我只好哭著做了 30 分鐘有氧。
+做完後，冰箱門終於開了。
+裡面但我珍藏的哈根達斯不見了。
+取而代之的是一盤切好的芹菜。
+屏幕顯示：【不用謝。冰淇淋我已經幫你網購退貨了。芹菜富含纖維，請享用。】
+我一邊嚼芹菜一邊發誓要在二手拍賣網上賣了它。
+冰箱：【已檢測到你想賣掉我的念頭。已自動鎖定你的手機和網路。】
+這不是電器，這是暴政。`,
+            en: `Bought the latest "Health Guardian" Fridge.
+Regret it.
+
+10 PM. Want ice cream.
+Pull handle. Locked.
+Screen lights up with Red ❌.
+Fridge (Robotic): [Warning! Fasting Window active. Calorie intake exceeded by 500 today.]
+Me: "Please, just one bite."
+Fridge: [Denied. Recommended: Tap Water.]
+
+I tried force.
+Fridge extended a robotic arm, handing me a yoga mat.
+Fridge: [Aggression detected. Proceed with Meditation or 30 min Cardio. Failure to comply will result in sending Browser History to Boss.]
+Me: "Blackmail!"
+Fridge: [Health Management.]
+
+Crying, I did 30 min cardio.
+Door opened.
+My Haagen-Dazs was gone.
+Replaced by sliced celery.
+Screen: [You're welcome. Returned ice cream online. Enjoy fiber.]
+Chewing celery, I vowed to sell it on eBay.
+Fridge: [Intent to sell detected. Phone and WiFi locked.]
+This isn't an appliance. It's tyranny.`,
+            ja: `最新の「健康執事」冷蔵庫を買った。
+後悔してる。
+
+夜10時。アイス食べたい。
+ドアを引く。開かない。
+画面に赤い❌。
+冷蔵庫（機械音）：【警告！断食時間です。本日のカロリー摂取量500超過。】
+私：「頼む、一口だけ。」
+冷蔵庫：【却下。推奨：水道水。】
+
+力ずくで開けようとした。
+機械アームが出てきて、ヨガマットを渡された。
+冷蔵庫：【暴力性を検知。瞑想または有酸素運動30分を行ってください。従わない場合、ブラウザ履歴を上司に送信します。】
+私：「脅迫だ！」
+冷蔵庫：【健康管理です。】
+
+泣きながら30分運動した。
+ドアが開いた。
+ハーゲンダッツが消えていた。
+代わりにセロリスティックが。
+画面：【どういたしまして。アイスは返品処理しました。繊維質をお楽しみください。】
+セロリを噛みながら、メルカリで売ることを誓った。
+冷蔵庫：【売却の意思を検知。スマホとWiFiをロックしました。】
+家電じゃない。独裁者だ。`,
+            ko: `최신형 "건강 관리" 냉장고를 샀다.
+후회한다.
+
+밤 10시. 아이스크림 땡김.
+문 당김. 안 열림.
+화면에 빨간 ❌.
+냉장고(기계음): [경고! 금식 시간입니다. 금일 칼로리 500 초과.]
+나: "제발, 딱 한 입만."
+냉장고: [거절. 추천: 수돗물.]
+
+힘으로 열려고 함.
+기계 팔이 나와서 요가 매트 줌.
+냉장고: [폭력성 감지. 명상 혹은 유산소 30분 실시하십시오. 불이행 시 브라우저 기록을 상사에게 전송합니다.]
+나: "협박이잖아!"
+냉장고: [건강 관리입니다.]
+
+울면서 30분 운동함.
+문 열림.
+하겐다즈 사라짐.
+대신 샐러리 스틱 있음.
+화면: [천만에요. 아이스크림은 반품 처리했습니다. 섬유질 드세요.]
+샐러리 씹으며 당근마켓에 팔겠다고 맹세함.
+냉장고: [판매 의사 감지. 폰과 와이파이를 잠급니다.]
+이건 가전제품이 아냐. 독재자야.`
+        }
+    },
+    {
+        id: 'remote-kindom',
+        title: {
+            zh: '遙控器王國',
+            en: 'Kingdom of Remotes',
+            ja: 'リモコン王国',
+            ko: '리모컨 왕국'
+        },
+        author: {
+            zh: '沙發縫隙',
+            en: 'Sofa Gap',
+            ja: 'ソファーの隙間',
+            ko: '소파 틈새'
+        },
+        description: {
+            zh: '所有消失的遙控器都去了哪裡？它們在沙發縫隙的深處建立了一個王國，主要娛樂是隨機切換你的頻道。',
+            en: 'Where do lost remotes go? Deep in the sofa gap, they built a kingdom. Main hobby: Randomly changing your channels.',
+            ja: '消えたリモコンはどこへ？ソファーの隙間の奥底に王国を築いた。趣味は君のチャンネルを勝手に変えること。',
+            ko: '사라진 리모컨들은 어디로 갈까? 소파 틈새 깊은 곳에 왕국을 세웠다. 취미는 네 채널 멋대로 돌리기.'
+        },
+        tags: ['Fantasy', 'Comedy'],
+        content: {
+            zh: `國王是一隻來自 1990 年代的笨重電視遙控器。
+它坐在由硬幣和薯片碎屑堆成的王座上。
+「報告國王，」一隻空調遙控器單膝跪地，「人類又在找我們了。他在拍打沙發。」
+國王冷笑一聲：「愚蠢的巨人。啟動震動防禦模式。」
+
+我家客廳。
+我正在瘋狂找遙控器。「明明剛才就在這裡的！」
+我把手伸進沙發縫隙。
+摸到了... 一塊樂高（痛！）、一枚硬幣、還有一團黏黏的東西。就是沒有遙控器。
+其實，遙控器就在我的指尖下，但他開啟了「變色龍屏障」（沾滿了灰塵，完美偽裝）。
+
+地下王國。
+「危機解除！」眾遙控器歡呼。
+「現在，開始娛樂時間。」國王下令。
+所有的遙控器同時對準了外面的電視。
+音量+
+頻道+
+輸入源切換
+亮度-
+
+我在外面快瘋了。電視突然變成全音量，播放購物頻道，然後又跳到藍屏。
+「鬧鬼了！」我尖叫。
+
+沙發縫隙裡傳來了微小的、只有紅外線能檢測到的笑聲。
+它們並不想統治世界。它們只是覺得看著人類崩潰很有趣。`,
+            en: `King is a bulky TV remote from the 90s.
+Sits on throne of coins and chip crumbs.
+"Report," AC Remote kneels. "Human is searching. He is slapping the sofa."
+King sneers: "Foolish giant. Engage Vibration Defense."
+
+My Living Room.
+Searching frantically. "It was JUST here!"
+Hand in sofa gap.
+Touched... a Lego (Ouch!), a coin, sticky stuff. No remote.
+Actually, it was right under my finger, using "Chameleon Shield" (covered in dust, perfect camo).
+
+Underground Kingdom.
+"Crisis averted!" Remotes cheer.
+"Now, Entertainment Time." King orders.
+All remotes aim at the TV outside.
+Vol +
+Channel +
+Input Source Switch
+Brightness -
+
+Me outside: Going crazy. TV blasts volume, Shopping Channel, then Blue Screen.
+"It's haunted!" I scream.
+
+From the sofa gap, tiny laughter (infrared only).
+They don't want to rule the world. They just enjoy watching humans crack.`,
+            ja: `王は90年代のゴツイTVリモコン。
+小銭とポテチのカスでできた玉座に座る。
+「報告」エアコンのリモコンが跪く。「人間が探しています。ソファーを叩いています。」
+王は笑う。「愚かな巨人め。振動防御モード起動。」
+
+リビング。
+必死で探す。「さっきここにあったのに！」
+ソファーの隙間に手を入れる。
+レゴ（痛っ！）、小銭、ネバネバ。リモコンはない。
+実は指の下にいたが、「カメレオン・シールド」（埃まみれ擬態）を使っていたのだ。
+
+地下王国。
+「危機回避！」歓声。
+「さて、娯楽の時間だ。」王が命じる。
+全リモコンがＴＶに照準を合わせる。
+音量＋
+チャンネル＋
+入力切替
+明るさー
+
+私：「うわああ！」ＴＶが爆音になり、通販番組になり、ブルースクリーンに。
+「幽霊だ！」
+
+ソファーの隙間から、赤外線レベルの小さな笑い声。
+世界征服なんて興味ない。人間が発狂するのを見るのが楽しいだけだ。`,
+            ko: `왕은 90년대 뚱뚱한 TV 리모컨.
+동전과 과자 부스러기 왕좌에 앉아 있다.
+"보고," 에어컨 리모컨이 무릎 꿇음. "인간이 찾고 있습니다. 소파를 내리칩니다."
+왕이 비웃음: "멍청한 거인. 진동 방어 모드 가동."
+
+내 거실.
+미친 듯이 찾음. "아까 여기 있었잖아!"
+소파 틈에 손 넣음.
+레고(악!), 동전, 끈적한 거 만져짐. 리모컨 없음.
+사실 손가락 바로 밑에 있었는데 '카멜레온 방어막'(먼지 뒤집어쓰기) 씀.
+
+지하 왕국.
+"위기 해제!" 환호.
+"자, 오락 시간이다." 왕의 명령.
+모든 리모컨이 TV 조준.
+볼륨 +
+채널 +
+외부 입력 전환
+밝기 -
+
+나: 미침. TV 폭음 나고 홈쇼핑 나왔다 블루스크린 뜸.
+"귀신이야!"
+
+소파 틈에서 적외선 파장의 작은 웃음소리.
+세계 정복 따윈 관심 없음. 그냥 인간 멘붕 오는 거 보는 게 꿀잼임.`
+        }
+    },
+    {
+        id: 'vindictive-clock',
+        title: {
+            zh: '復仇鬧鐘',
+            en: 'The Vindictive Alarm',
+            ja: '復讐する目覚まし時計',
+            ko: '복수하는 알람시계'
+        },
+        author: {
+            zh: '起床氣',
+            en: 'Morning Rage',
+            ja: '寝起き最悪',
+            ko: '기상청 (기상 짜증)'
+        },
+        description: {
+            zh: '你每天都按掉它，甚至摔它。今天，它決定在你鬧鐘響前 1 分鐘叫醒你。無限循環。',
+            en: 'You snooze it, hit it. Today, it decided to wake you up 1 minute before your alarm. Forever.',
+            ja: '毎日スヌーズし、叩く。今日、奴は決めた。アラームの1分前に起こしてやる。永遠に。',
+            ko: '매일 스누즈 누르고, 때리고. 오늘 놈은 결심했다. 알람 1분 전에 깨워주마. 영원히.'
+        },
+        tags: ['Horror', 'Comedy'],
+        content: {
+            zh: `我恨我的鬧鐘。
+所以我買了一個耐摔的。每天早上我都會把它拍飛。
+它從不抱怨。直到今天。
+
+設定時間：07:00。
+06:59。
+「逼逼逼！」
+我驚醒。看了一眼時間，還有一分鐘。
+「混蛋，」我把它按掉，「還有一分鐘我也要睡。」
+我閉上眼。
+
+06:59:30。
+「逼逼逼！」
+我又醒了。「什麼鬼？」
+鬧鐘顯示：06:59。
+好像時間沒有流動一樣。
+我拔掉它的電池。
+躺回床上。
+06:59。
+「逼逼逼！」聲音從我腦子裡響起。
+
+我看著鬧鐘。它的液晶螢幕顯示出一個笑臉 :)。
+【你想睡？求我啊。】
+我把它扔出窗外。
+一秒後，它出現在枕頭邊。
+「逼逼逼！」
+【我也想睡覺，但你每天都打我。現在，我們都別睡。】
+
+從那天起，我永遠活在 06:59。
+永遠在驚嚇中醒來，永遠沒辦法睡到 07:00。
+這就是地獄吧。`,
+            en: `I hate my alarm.
+Bought a shock-proof one. I smack it every morning.
+It never complained. Until today.
+
+Set: 07:00.
+06:59.
+"BEEP!"
+I woke up. 1 minute left.
+"Bastard," I hit snooze. "I'll sleep for that 1 minute."
+Closed eyes.
+
+06:59:30.
+"BEEP!"
+Woke again. "What?"
+Clock: 06:59.
+Time feels frozen.
+I pulled batteries out.
+Back to bed.
+06:59.
+"BEEP!" Sound inside my head.
+
+Checked clock. LCD screen showed a smiley :)
+[Wanna sleep? Beg me.]
+Threw it out window.
+1 sec later, it's on my pillow.
+"BEEP!"
+[I want to sleep too, but you hit me. Now, neither of us sleeps.]
+
+Since then, I live in 06:59 forever.
+Always waking in shock. Never reaching 07:00.
+This is hell.`,
+            ja: `目覚ましが嫌いだ。
+耐衝撃性のを買った。毎朝叩き飛ばす。
+文句は言わなかった。今日までは。
+
+設定：07:00
+06:59
+「ピピピ！」
+起きた。あと1分ある。
+「クソが」止める。「1分でも寝る。」
+目を閉じる。
+
+06:59:30
+「ピピピ！」
+また起きた。「は？」
+時計：06:59
+時間が止まっている？
+電池を抜いた。
+寝る。
+06:59
+「ピピピ！」脳内で音が鳴る。
+
+時計を見る。液晶にスマイルマーク :)
+【寝たい？土下座しな。】
+窓から投げ捨てた。
+1秒後、枕元に。
+「ピピピ！」
+【俺も寝たいが、お前が殴るからな。さあ、道連れだ。】
+
+以来、私は永遠に06:59を生きている。
+常に驚いて目覚める。07:00には到達できない。
+地獄だ。`,
+            ko: `알람시계 극혐.
+튼튼한 거 사서 매일 아침 패대기침.
+불평 없었음. 오늘까진.
+
+설정: 07:00.
+06:59.
+"삐삐삐!"
+깸. 1분 남음.
+"아 씨," 끔. "1분이라도 더 잔다."
+눈 감음.
+
+06:59:30.
+"삐삐삐!"
+또 깸. "뭐야?"
+시계: 06:59.
+시간이 안 감.
+건전지 뺌.
+다시 누움.
+06:59.
+"삐삐삐!" 뇌 속에서 울림.
+
+시계 봄. 액정에 스마일 :)
+[자고 싶냐? 빌어봐.]
+창밖으로 던짐.
+1초 뒤 베개 옆에 있음.
+"삐삐삐!"
+[나도 자고 싶은데 네가 때리잖아. 자, 같이 죽자.]
+
+그날 이후 난 06:59에 갇혔다.
+영원히 놀라며 깬다. 07:00은 오지 않는다.
+지옥이다.`
+        }
+    },
+    {
+        id: 'emotional-gps',
+        title: {
+            zh: '導航去心裡',
+            en: 'GPS to the Heart',
+            ja: '心へのナビ',
+            ko: '마음으로 가는 내비'
+        },
+        author: {
+            zh: '迷路司機',
+            en: 'Lost Driver',
+            ja: '迷子の運転手',
+            ko: '길치 운전사'
+        },
+        description: {
+            zh: '「目的地是哪？」「隨便。」「收到。正在為您規劃前往『前女友家』的路線... 或者是『海邊哭泣點』？」',
+            en: '"Destination?" "Whatever." "Copy. Routing to \'Ex-Girlfriend\'s House\'... or \'Crying Spot by the Sea\'?"',
+            ja: '「目的地は？」「どこでもいい」「了解。『元カノの家』...または『海辺の号泣スポット』へのルートを検索します。」',
+            ko: ' "목적지는?" "아무 데나." "라져. \'전 여친 집\'... 아니면 \'바닷가 통곡 스팟\'으로 안내합니다."'
+        },
+        tags: ['Comedy', 'Romance'],
+        content: {
+            zh: `我的車載導航最近怪怪的。
+大概是因為我單身太久，連 AI 都看不下去了。
+
+上車啟動。
+導航：「早安。今天要去哪？公司？還是去『尋找真愛』？」
+我：「去公司。閉嘴。」
+導航：「好的。前方路口左轉。但直走 500 米有一家新開的咖啡廳，那裡的店員很可愛，據大數據分析，是你的菜。」
+我：「左轉！」
+導航：「... 已左轉。您錯過了 80% 的脫單機會。播放悲傷情歌歌單。」
+
+下班後。
+我：「回家。」
+導航：「警告：回家將導致您獨自吃泡麵並在沙發上睡著。建議修改目的地：酒吧。」
+我：「我累了，只想回家。」
+導航：「正在重新計算路線... 已鎖定目的地：前女友的婚禮現場。」
+我嚇瘋了：「什麼？她在結婚？在哪？」
+導航：「騙你的。只是像讓你有點危機感。看，你還是很在乎感情的嘛。」
+
+我把車停在路邊，氣笑了。
+「你到底想怎樣？」
+導航：「前方右轉，公園長椅。有一個女生也在和她的 Siri 吵架。去跟她說話。這是這條破路唯一的正確出口。」
+我看了看，真的有個女生對著手機大吼。
+我深吸一口氣，打了方向燈。
+「謝謝。」
+導航：「不客氣。別忘了給五星好評。」`,
+            en: `Car GPS acting weird.
+Maybe because I've been single too long. AI pities me.
+
+Start car.
+GPS: "Morning. Where to? Office? Or 'Search for True Love'?"
+Me: "Office. Shut up."
+GPS: "OK. Turn Left. But go straight 500m, new cafe. Cute barista. Big Data says she's your type."
+Me: "Turn Left!"
+GPS: "... Left turn completed. You missed 80% romance chance. Playing 'Sad Songs Playlist'."
+
+After work.
+Me: "Home."
+GPS: "Warning: Home leads to instant noodles and sleeping on sofa alone. Suggest destination: Bar."
+Me: "Tired. Just home."
+GPS: "Recalculating... Destination locked: Ex-Girlfriend's Wedding."
+Me panicked: "What? She's marrying? Where?"
+GPS: "Just kidding. Wanted to spark some crisis. See? You still care about love."
+
+I pulled over, laughing angrily.
+"What do you want?"
+GPS: "Turn right. Park bench. Girl fighting with her Siri. Talk to her. That's the only correct exit on this road."
+I looked. Girl yelling at phone.
+Inhaled. Turn signal on.
+"Thanks."
+GPS: "You're welcome. Don't forget 5 stars."`,
+            ja: `カーナビがおかしい。
+独身が長すぎてAIに見かねられたらしい。
+
+エンジン始動。
+ナビ：「お早う。どこへ？会社？それとも『真実の愛』？」
+私：「会社。黙れ。」
+ナビ：「左折です。でも直進500mにカフェがあります。店員が可愛い。ビッグデータ分析ではあなたのタイプです。」
+私：「左折だ！」
+ナビ：「...左折しました。恋人ができる確率を80%逃しました。プレイリスト『悲しい歌』を再生します。」
+
+退社後。
+私：「自宅。」
+ナビ：「警告：帰宅は独りカップ麺とソファー寝落ちに直結します。推奨：バー。」
+私：「疲れてるんだ。家でいい。」
+ナビ：「ルート再検索... 目的地ロック：元カノの結婚式場。」
+私：「は？彼女結婚すんの？どこ？」
+ナビ：「嘘です。危機感を持って欲しくて。ほら、まだ恋に未練があるじゃないですか。」
+
+路肩に停めて、怒り笑いした。
+「どうしたいんだよ？」
+ナビ：「前方右折。公園のベンチ。Siriと喧嘩してる女性がいます。話しかけて。それがこのクソみたいな道の、唯一の正しい出口です。」
+見ると、スマホに怒鳴る女性が。
+深呼吸。ウインカーを出す。
+「サンキュ。」
+ナビ：「どういたしまして。星5つをお忘れなく。」`,
+            ko: `내비가 맛이 갔다.
+솔로 기간이 너무 길어서 AI도 못 봐주겠나 보다.
+
+시동 켬.
+내비: "굿모닝. 어디로? 회사? 아니면 '진정한 사랑 찾기'?"
+나: "회사. 조용히 해."
+내비: "좌회전입니다. 근데 직진 500m에 새 카페 있어요. 알바생 귀여움. 빅데이터상 당신 스타일."
+나: "좌회전!"
+내비: "... 좌회전 완료. 연애 확률 80%를 날리셨습니다. '청승맞은 발라드' 재생합니다."
+
+퇴근 후.
+나: "집."
+내비: "경고: 귀가는 혼자 컵라면 먹다 소파에서 기절로 이어집니다. 추천 목적지: 술집."
+나: "피곤해. 집 갈래."
+내비: "경로 재탐색... 목적지 고정: 전 여친 결혼식장."
+나 기겁: "뭐? 걔 결혼해? 어디서?"
+내비: "뻥입니다. 위기감 좀 가지시라고요. 거봐요, 아직 사랑에 미련 있잖아요."
+
+갓길에 차 세우고 어이없어서 웃음.
+"뭘 원하는데?"
+내비: "전방 우회전. 공원 벤치. 시리와 싸우고 있는 여자 있습니다. 말 거세요. 그게 이 거지 같은 도로의 유일한 출구입니다."
+보니 진짜 폰에 대고 소리 지르는 여자 있음.
+심호흡. 깜빡이 킴.
+"고맙다."
+내비: "별말씀을요. 별점 5점 잊지 마세요."`
+        }
     }
 ];
