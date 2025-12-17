@@ -6364,5 +6364,585 @@ Only con: Must wear phone on neck lanyard now.`,
 손 너무 깊게 안 넣으면(평행우주로 빨려 갈 수도), 이 바지 신의 아이템임.
 단점: 이제 폰 목걸이 하고 다녀야 함.`
         }
+    },
+    {
+        id: 'vegetarian-wolf',
+        title: {
+            zh: '吃素的大野狼',
+            en: 'The Vegetarian Wolf',
+            ja: 'ベジタリアンの狼',
+            ko: '채식주의자 늑대'
+        },
+        author: {
+            zh: '森林網紅',
+            en: 'Forest Influencer',
+            ja: '森のインフルエンサー',
+            ko: '숲속 인플루언서'
+        },
+        description: {
+            zh: '「我不是想吃小紅帽，我只是想問她籃子裡的有機蔬菜哪裡買的。」大野狼在直播中澄清。',
+            en: '"I didn\'t want to eat Red Riding Hood. I just wanted to ask where she got those organic veggies." Wolf clarified on livestream.',
+            ja: '「赤ずきんを食べたかったんじゃない。バスケットの有機野菜がどこで買えるか聞きたかっただけだ。」狼はライブ配信で釈明した。',
+            ko: ' "빨간 모자를 먹으려는 게 아녔어. 바구니 속 유기농 채소 어디서 샀는지 물으려던 거야." 늑대가 라이브 방송에서 해명했다.'
+        },
+        tags: ['Comedy', 'Fairytale'],
+        content: {
+            zh: `大野狼現在是森林裡著名的健身博主。
+IG 粉絲三百萬。
+他以前的名聲很差（吃奶奶、吹倒房子什麼的），但他公關做得好。
+
+直播中。
+狼：「嗨，狼粉們！今天我們來做『三隻小豬』同款全素沙拉！充滿膳食纖維，讓你吹氣更有力！」
+彈幕刷屏：【狼哥好帥！】、【那是真素肉嗎？】、【小紅帽在後面！】
+
+其實，狼還是很想吃肉。
+每次看到路過的肥羊，他的口水都會流下來。
+但他不能崩人設。而且，素食贊助商給的錢太多了。
+「看！」狼拿起一根胡蘿蔔，眼神兇狠（其實是餓的），「咬碎它！就像咬碎生活的困難！」
+喀嚓！
+粉絲尖叫：【好野性！我也要吃胡蘿蔔！】
+
+下播後。
+狼癱在沙發上，肚子咕咕叫。
+小紅帽（現在是他的經紀人）走過來，遞給他一盤羽衣甘藍。
+「吃吧，大明星。」小紅帽說，「為了你的馬甲線。下週還要拍《VOGUE》森林版封面呢。」
+狼含淚吃草：「為了生活。嗷嗚（小聲）。」`,
+            en: `Big Bad Wolf is now a famous fitness influencer in the forest.
+3M followers on IG.
+Bad reputation before (eating grandmas, blowing houses), but great PR now.
+
+Livestream.
+Wolf: "Hi Wolf Pack! Today we verify the 'Three Little Pigs' Vegan Salad! Full of fiber, makes your Huff and Puff stronger!"
+Comments: [Wolf so hot!] [Is that real soy meat?] [Red Riding Hood in back!]
+
+Truthfully, Wolf craves meat.
+Every time a sheep passes, he drools.
+But he can't break character. And Vegan Sponsors pay too well.
+"Watch!" Wolf grabs a carrot, eyes fierce (actually hungry). "Crush it! Like crushing life's obstacles!"
+Crunch!
+Fans scream: [So wild! I want carrots too!]
+
+Offline.
+Wolf collapses on sofa. Stomach growling.
+Red Riding Hood (now his Agent) walks in, hands him Kale.
+"Eat up, Superstar," she says. "For your abs. Next week is VOGUE Forest cover shoot."
+Wolf eats grass with tears: "For the living. Awooo (whisper)."`,
+            ja: `悪い狼は今や森の有名フィットネス・インフルエンサーだ。
+インスタフォロワー300万人。
+昔の評判は最悪（婆ちゃん食ったり、家を吹き飛ばしたり）だったが、PRが上手くいった。
+
+ライブ配信。
+狼：「やあ、ウルフパック！今日は『三匹の子豚』風ヴィーガンサラダを作るぞ！食物繊維たっぷり、吹き飛ばす力がつくぜ！」
+コメント：【狼さんイケメン！】、【それ大豆ミート？】、【後ろに赤ずきんちゃん！】
+
+実は、狼は肉が食いたくて仕方ない。
+肥えた羊を見るたび、よだれが出る。
+だがキャラは崩せない。ヴィーガンスポンサーの金払いが良すぎるのだ。
+「見ろ！」狼は人参を掴み、凶暴な目つき（空腹なだけ）で。「噛み砕け！人生の困難のように！」
+ボリッ！
+ファン絶叫：【ワイルド！私も人参食べる！】
+
+配信終了。
+狼はソファーに倒れ込む。腹が鳴る。
+赤ずきん（今はマネージャー）がケールを渡す。
+「食べなさい、スター。」彼女は言う。「腹筋のためよ。来週はVOGUE森版の表紙よ。」
+狼は涙目で草を食む。「生活のためだ...ワオーン（小声）。」`,
+            ko: `나쁜 늑대는 이제 숲속 유명 헬스 인플루언서다.
+인스타 팔로워 300만.
+옛날 평판은 최악(할머니 먹고, 집 날리고)이었으나, PR을 잘했다.
+
+라이브 방송.
+늑대: "안녕 울프팩! 오늘은 '아기 돼지 삼형제' 스타일 비건 샐러드 간다! 섬유질 빵빵, 입김이 더 세진다!"
+댓글: [늑대 오빠 핫해요!] [그거 콩고기?] [뒤에 빨간 모자!]
+
+사실 늑대는 고기가 미친 듯이 먹고 싶다.
+양 지나갈 때마다 침 흐름.
+하지만 캐릭터 붕괴 안 됨. 비건 스폰서 돈이 너무 쏠쏠함.
+"봐라!" 늑대가 당근을 쥐고 흉폭한 눈빛(배고픈 거임). "부숴버려! 인생의 시련처럼!"
+아작!
+팬들 비명: [완전 와일드! 나도 당근 먹을래!]
+
+방종 후.
+늑대 소파에 기절. 배에서 소리 남.
+빨간 모자(현 매니저)가 케일 한 접시 줌.
+"드세요, 스타님." 그녀가 말함. "복근 유지하셔야죠. 다음 주 보그 포레스트 표지 촬영이에요."
+늑대는 눈물 젖은 풀을 씹음. "먹고살기 힘들다... 아우우(소근)." `
+        }
+    },
+    {
+        id: 'shoe-hypebeast',
+        title: {
+            zh: '水晶球鞋',
+            en: 'The Glass Sneaker',
+            ja: 'ガラスのスニーカー',
+            ko: '유리 스니커즈'
+        },
+        author: {
+            zh: '潮流教母',
+            en: 'Drop Queen',
+            ja: 'ドロップ・クイーン',
+            ko: '드롭 퀸'
+        },
+        description: {
+            zh: '灰姑娘跑得太快，掉了一隻限量版的「Fairy Godmother x Nike」聯名款球鞋。王子是個球鞋控，誓死要找到這隻鞋的主人。',
+            en: 'Cinderella dropped a limited edition "Fairy Godmother x Nike". Prince, a Hypebeast, swore to find the owner.',
+            ja: 'シンデレラは限定版「フェアリーゴッドマザー x Nike」を落とした。スニーカーヘッズの王子は、持ち主を探すと誓った。',
+            ko: '신데렐라는 한정판 "요정 대모 x 나이키" 콜라보 신발을 떨어뜨렸다. 스니커헤드 왕자는 주인을 찾겠다고 맹세했다.'
+        },
+        tags: ['Fashion', 'Comedy'],
+        content: {
+            zh: `午夜 12 點。
+仙杜瑞拉衝出皇宮舞廳。
+「等等！」王子在後面喊，「妳的 IG 帳號是什麼？」
+仙杜瑞拉沒空理他，這身租來的禮服超時要罰款的。
+她在樓梯上絆了一下，左腳的球鞋飛了出去。
+那是一雙由鑽石和透明氣墊組成的神鞋：「Air Magic 1」。全球限量一雙。
+
+王子撿起那隻鞋，眼神狂熱。
+「天哪... 這做工，這透氣性，這 Swoosh 的弧度...」
+他聞了一下鞋子（有點變態）。「全新的橡膠味。她是我的靈魂伴侶。」
+
+第二天，王子發佈了全國通告。
+「尋找這隻 US 6.5 碼球鞋的主人！能穿進去的人就是王妃！」
+繼母的兩個女兒試圖把腳塞進去。
+「太擠了！」大姐喊。
+「剪掉腳趾也要穿！」二姐拿起了剪刀。
+王子阻止了她們：「住手！你們會弄皺鞋面的！這鞋現在炒賣價多少你們知道嗎？」
+
+最後，仙杜瑞拉來了。
+她穿著寬鬆的帽 T，淡定地伸出腳。
+完美貼合。
+王子激動地跪下：「嫁給我吧。」
+仙杜瑞拉：「其實... 我比較想要另一隻。湊一對我拿去 StockX 賣，夠我買棟別墅了。」
+王子：「... 懂行。我們結婚，這鞋歸妳，城堡鞋櫃歸妳。」
+仙杜瑞拉：「Deal。」
+
+從此，他們過著幸福快樂的日子（一起排隊抽鞋）。`,
+            en: `Midnight.
+Cinderella bolted out.
+"Wait!" Prince yelled. "What's your IG?"
+No time. Rented dress late fee is huge.
+Tripped on stairs. Shoe flew off.
+A god-tier shoe: "Air Magic 1". Diamond and transparent air bubbles. 1 of 1.
+
+Prince picked it up. Eyes wild.
+"Omg... the craft, the breathability, the Swoosh curve..."
+He sniffed it (creepy). "Fresh rubber scent. She is my soulmate."
+
+Next Day. Royal Decree.
+"Seeking owner of this US 6.5 sneaker! She who fits is the Princess!"
+Stepsisters tried to jam feet in.
+"Too tight!" Big Sis yelled.
+"Cut off toes!" Little Sis grabbed scissors.
+Prince stopped them: "Stop! You'll crease the toe box! Do you know the resale value?"
+
+Finally, Cinderella came.
+Wearing oversized hoodie. Casually extended foot.
+Perfect fit.
+Prince knelt: "Marry me."
+Cinderella: "Actually... I just want the other shoe. Completing the pair to sell on StockX buys me a mansion."
+Prince: "... Respect. Marry me, you keep the shoes, and get the Castle Sneaker Closet."
+Cinderella: "Deal."
+
+Happily ever after (Camping for drops together).`,
+            ja: `真夜中。
+シンデレラはダッシュで逃げた。
+「待って！」王子が叫ぶ。「インスタ教えて！」
+無視。レンタルのドレス、延滞金がヤバイ。
+階段でつまづき、左足のスニーカーが飛んだ。
+それはダイヤモンドと透明エアの神靴「Air Magic 1」。世界に一足。
+
+王子は拾い上げた。狂熱的な目。
+「なんてこった...この作り、通気性、スウッシュの角度...」
+匂いを嗅ぐ（変態）。「新品のゴムの香り。彼女こそソウルメイト。」
+
+翌日。お触れ書き。
+「このUS6.5のスニーカーの持ち主を探せ！履けた者が妃だ！」
+継母の姉妹が足をねじ込もうとする。
+「きつい！」
+「指を切ってでも！」ハサミを持つ妹。
+王子は止めた。「やめろ！トゥボックスに履き皺がつく！プレ値いくらだと思ってるんだ！」
+
+ついにシンデレラ登場。
+ダボダボのパーカー。無造作に足を出す。
+完璧なフィット。
+王子は跪いた。「結婚してくれ。」
+シンデレラ：「実は...もう片方が欲しいだけなの。ペアにしてStockXで売れば別荘買えるから。」
+王子：「...ガチ勢か。結婚しよう。靴はやる。城のクローゼットも全部やる。」
+シンデレラ：「成約（Deal）。」
+
+二人は幸せに暮らしたとさ（一緒に抽選に並んで）。`,
+            ko: `자정.
+신데렐라 전력 질주.
+"잠깐!" 왕자가 외침. "인스타 아이디 뭐예요?"
+무시. 렌탈 드레스 연체료 깨짐.
+계단에서 넘어짐. 신발 날아감.
+다이아와 투명 에어가 박힌 신발: "Air Magic 1". 전 세계 1족.
+
+왕자가 주움. 눈 돌아감.
+"오마이갓... 이 만듦새, 통기성, 스우시 각도..."
+냄새 맡음(변태). "새 고무 냄새. 그녀는 내 영혼의 단짝이야."
+
+다음날. 공고.
+"이 US 6.5 사이즈 주인 찾음! 발 들어가면 왕세자비!"
+새언니들이 발 쑤셔 넣음.
+"너무 꽉 끼어!"
+"발가락 잘라서라도!" 가위 드는 동생.
+왕자가 막음: "멈춰! 앞코에 주름 생기잖아! 이거 리셀가 얼만지 알아?"
+
+드디어 신데렐라 등판.
+박시한 후드티. 무심하게 발 내밈.
+퍼펙트 핏.
+왕자 무릎 꿇음: "결혼해 줘요."
+신데렐라: "사실... 나머지 한 짝이 탐나서요. 짝 맞춰서 크림(KREAM)에 팔면 빌라 한 채라."
+왕자: "... 찐이네. 결혼합시다. 신발 갖고, 성 안의 신발장 다 줄게."
+신데렐라: "콜."
+
+그들은 오래오래 행복했다 (같이 드로우 응모하면서).`
+        }
+    },
+    {
+        id: 'insomniac-beauty',
+        title: {
+            zh: '睡不著美人',
+            en: 'Insomniac Beauty',
+            ja: '眠れない森の美女',
+            ko: '잠 못 드는 숲의 미녀'
+        },
+        author: {
+            zh: '深夜 DJ',
+            en: 'Late Night DJ',
+            ja: '深夜DJ',
+            ko: '심야 DJ'
+        },
+        description: {
+            zh: '睡了一百年後，她現在徹底失眠了。於是她開了一個深夜廣播節目，專門陪睡不著的人聊天。',
+            en: 'Locked in 100 years of sleep, now she can\'t sleep at all. Started a late-night radio show for insomniacs.',
+            ja: '100年寝だので、今は完全に不眠症。そこで深夜ラジオを始めた。眠れない人々のために。',
+            ko: '100년 잤더니, 이젠 잠이 아예 안 온다. 그래서 불면증 환자들을 위한 심야 라디오를 시작했다.'
+        },
+        tags: ['Healing', 'Modern'],
+        content: {
+            zh: `「晚安，這裡是 FM 99.9『荊棘之聲』。我是主持人奧蘿拉。」
+慵懶的聲音透過電波傳遍整個王國。
+
+自從被王子吻醒後（順便說一句，未經同意親吻是違法的，王子還在做社區服務），公主就再也睡不著了。
+醫生說這是「百年睡眠反彈症候群」。
+身體覺得它已經睡夠了這辈子的份。
+
+於是，她把紡錘改造成了麥克風。
+凌晨 2 點。
+聽眾來電：「公主，我失戀了，睡不著。」
+奧蘿拉：「親愛的，這算什麼。我錯過了我整個家族三代人的葬禮，醒來時我的國家都變成共和制了。失戀？喝杯熱牛奶吧。」
+聽眾：「... 突然覺得我好多了。」
+奧蘿拉：「下一位。」
+
+凌晨 4 點。
+聽眾：「我是噴火龍。我也睡不著，火氣很大。」
+奧蘿拉：「試試數騎士。跳進來一個，燒死一個... 開玩笑的，試試瑜伽。我有一套『藤蔓伸展法』。」
+
+她的聲音治癒了無數個不眠之夜。
+雖然她自己眼圈很黑，喝著第十杯濃縮咖啡。
+這就是現代童話：公主不需要王子拯救，她只需要一個好的麥克風和一群聽眾。`,
+            en: `God evening. FM 99.9 'Voice of Thorns'. Host Aurora here."
+Lazy voice spreads through the kingdom.
+
+Since the Prince kissed her awake (btw, non-consensual kissing is illegal, Prince is doing community service), Princess can't sleep.
+Doctor: "Century Sleep Rebound Syndrome".
+Body thinks it slept enough for a lifetime.
+
+So she turned the Spindle into a Microphone.
+2 AM.
+Caller: "Princess, heartbroken, can't sleep."
+Aurora: "Honey, that's nothing. I missed funerals for 3 generations of my family. Woke up to a Republic. Heartbreak? Drink warm milk."
+Caller: "... I feel better now."
+Aurora: "Next."
+
+4 AM.
+Caller: "I'm the Dragon. Insomnia too. Heartburn."
+Aurora: "Count Knights. One jumps in, roast him... Joking. Try Yoga. I have a 'Vine Stretch' routine."
+
+Her voice heals countless chaotic nights.
+Though she has dark circles, drinking 10th Espresso.
+Modern Fairytale: Princess doesn't need a Prince. She needs a Mic and an Audience.`,
+            ja: `「こんばんは。FM 99.9『茨の声』。DJのオーロラです。」
+けだるい声が王国に響く。
+
+王子にキスされ目覚めて以来（ちなみに同意なきキスは違法。王子は社会奉仕中）、姫は眠れない。
+医者：「百年睡眠リバウンド症候群」。
+体はもう一生分寝たと判断している。
+
+彼女は紡ぎ車をマイクに改造した。
+深夜2時。
+リスナー：「姫、失恋して眠れません。」
+オーロラ：「甘いわ。私なんて一族三代の葬式を見逃し、起きたら国が共和制になってたのよ。失恋？ホットミルクでも飲みな。」
+リスナー：「...なんか元気出ました。」
+オーロラ：「次の方。」
+
+深夜4時。
+リスナー：「ドラゴンだ。眠れん。胸焼けがする。」
+オーロラ：「騎士を数えなさい。一人飛び込み、一人焼く...冗談よ。ヨガを試しなさい。『茨のストレッチ』を教えるわ。」
+
+彼女の声は数多の不眠の夜を癒す。
+彼女自身は目のクマが酷く、10杯目のエスプレッソを飲んでいるが。
+現代のおとぎ話：姫に王子はいらない。マイクと、聴衆がいればいい。`,
+            ko: ` "안녕? FM 99.9 '가시덤불의 소리'. DJ 오로라야."
+나른한 목소리가 왕국에 퍼진다.
+
+왕자 키스 받고 깬 뒤로(참고로 비동의 키스는 불법임. 왕자 사회봉사 중), 공주는 잠을 못 잔다.
+의사: "백년 수면 요요 현상".
+몸이 평생 잘 거 다 잤다고 판단함.
+
+그래서 물레를 마이크로 개조했다.
+새벽 2시.
+청취자: "공주님, 실연 당해서 잠이 안 와요."
+오로라: "자기, 귀엽네. 난 가족 3대의 장례식도 못 가봤어. 깨니까 나라가 공화국이 됐더라. 실연? 따뜻한 우유나 마셔."
+청취자: "... 갑자기 치유됐어요."
+오로라: "다음."
+
+새벽 4시.
+청취자: "드래곤이다. 불면증이다. 속 쓰리다."
+오로라: "기사를 세어 봐. 한 놈 들어오고, 굽고... 농담이야. 요가 해 봐. '덩굴 스트레칭' 알려줄게."
+
+그녀의 목소리는 수많은 밤을 치유한다.
+정작 본인은 다크서클 턱까지 내려와서 에스프레소 10잔째지만.
+현대 동화: 공주에게 왕자는 필요 없다. 마이크와 청취자만 있으면 된다.`
+        }
+    },
+    {
+        id: 'asmr-mermaid',
+        title: {
+            zh: '人魚的 ASMR',
+            en: 'Mermaid ASMR',
+            ja: '人魚のASMR',
+            ko: '인어의 ASMR'
+        },
+        author: {
+            zh: '深海之聲',
+            en: 'Deep Sea Voice',
+            ja: '深海の声',
+            ko: '심해의 목소리'
+        },
+        description: {
+            zh: '她沒有用聲音換雙腿，而是簽了一份直播合約。現在她是頂流 ASMR 主播，專門嚼海帶和玩泡泡。',
+            en: 'She didn\'t trade her voice for legs. She signed a streaming contract. Now top ASMR artist, chewing kelp and bubbles.',
+            ja: '声を足と交換しなかった。代わりに配信契約を結んだ。今やトップASMR配信者。昆布を噛み、泡で遊ぶ。',
+            ko: '목소리를 다리와 바꾸지 않았다. 대신 방송 계약을 맺었다. 이젠 탑티어 ASMR 유튜버. 다시마 씹고 거품 터뜨린다.'
+        },
+        tags: ['Modern', 'Comedy'],
+        content: {
+            zh: `巫婆：「親愛的，給我妳的聲音，我給妳雙腿。妳可以去見王子。」
+小美人魚：「我看了那个王子的新聞，他是个渣男。我有更好的提案。」
+巫婆：「什麼？」
+小美人魚：「妳给我一套防水的高級錄音設備和高速網路。我跟妳五五分帳。」
+
+現在。
+YouTube 頻道：Ariel_ASMR。訂閱數：1000 萬。
+影片標題：【深海沈浸】咀嚼海葡萄 / 玩弄珍珠 / 輕聲細語 (無人聲)
+畫面裡，她坐在美麗的珊瑚礁上，紫色的貝殼耳機掛在耳朵上。
+「大家晚安，」她輕聲說（聲音還在，哈哈），「今天我們來聽聽深海 3000 米的水流聲。」
+啵、啵、啵。（玩泡泡的聲音，極度解壓）。
+觀眾斗內瘋狂刷屏。
+【太治癒了！】
+【王子是誰？有人魚香嗎？】
+【感謝主播哄睡。】
+
+巫婆是她的經紀人，正在章魚洞裡數錢。
+王子？
+王子曾經開遊艇來試圖搭訕。
+被小美人魚叫鯊魚保鑣趕走了：「抱歉，正在直播，閒人勿近。」
+女人有了事業，就不需要泡沫了。`,
+            en: `Witch: "Dear, give me your voice, get legs. Go meet Prince."
+Little Mermaid: "Read news about Prince. He's trash. I have a better proposal."
+Witch: "What?"
+Mermaid: "Give me waterproof Pro Mic and high-speed WiFi. 50/50 split."
+
+Now.
+YouTube: Ariel_ASMR. Subs: 10M.
+Title: [Deep Sea Immersion] Sea Grape Chewing / Pearl Tapping / Soft Spoken.
+She sits on coral, purple shell headphones on.
+"Good evening," she whispers (Still kept voice, ha), "Today, sounds of 3000m depth currents."
+Pop, pop, pop. (Bubble sounds, tingling).
+Donations flooding.
+[So healing!]
+[Who needs Prince? Mermaid Queen!]
+[Thanks for sleep aid.]
+
+Witch is her Manager, counting money in Octopus cave.
+Prince?
+Prince tried to approach on yacht.
+Mermaid called Shark Security: "Sorry, live streaming. Private property."
+With a career, a woman doesn't need to turn into foam.`,
+            ja: `魔女：「お嬢ちゃん、声をくれれば足をやる。王子に会えるぞ。」
+人魚姫：「王子のニュース見たけど、あれクズ男よ。もっといい提案があるわ。」
+魔女：「なんだ？」
+人魚姫：「防水の高級マイクと高速WiFiを頂戴。売上は折半でどう？」
+
+現在。
+YouTube：Ariel_ASMR。登録者1000万人。
+動画：【深海没入】海ぶどう咀嚼音 / 真珠タッピング / 囁き
+珊瑚に座り、貝殻ヘッドホンをつける。
+「こんばんは」彼女は囁く（声はある、ふふ）。「今日は水深3000メートルの水流音です。」
+ポコ、ポコ。（泡の音、脳がとろける）。
+スパチャが飛び交う。
+【癒される！】
+【王子とか要らねえ！人魚最高！】
+【寝落ち用助かる。】
+
+魔女はマネージャー。タコ部屋で札束を数えている。
+王子？
+クルーザーでナンパしに来た。
+サメの警備員に追い返された。「すいません、配信中なんで。立ち入り禁止です。」
+キャリアがあれば、泡になって消える必要なんてないのだ。`,
+            ko: `마녀: "아가, 목소리를 주면 다리를 주마. 왕자를 만나러 가렴."
+인어공주: "뉴스 봤는데 그 왕자 쓰레기던데요. 더 좋은 제안 있어요."
+마녀: "뭐지?"
+인어공주: "방수 최고급 마이크랑 고속 와이파이 내놔요. 수익 5대5."
+
+현재.
+유튜브: Ariel_ASMR. 구독자 1000만.
+제목: [심해 몰입] 바다포도 씹기 / 진주 탭핑 / 속삭임 (No Talking 아님)
+산호초에 앉아 조개 헤드셋 착용.
+"굿나잇," 그녀가 속삭임(목소리 있음, ㅋㅋ). "오늘은 수심 3000미터 물소리입니다."
+보글, 보글. (거품 소리, 팅글 쩐다).
+도네이션 폭발.
+[극락이다!]
+[왕자 왜 만남? 인어누나가 최곤데.]
+[불면증 치료 감사합니다.]
+
+마녀는 매니저임. 문어 동굴에서 돈 세고 있음.
+왕자?
+요트 타고 헌팅 하러 옴.
+상어 경호원한테 쫓겨남. "죄송합니다, 방송 중이라. 관계자 외 출입 금지."
+여자가 커리어가 있으면, 물거품 될 일 없다.`
+        }
+    },
+    {
+        id: 'pinocchio-politician',
+        title: {
+            zh: '皮諾丘議員',
+            en: 'Senator Pinocchio',
+            ja: 'ピノキオ議員',
+            ko: '피노키오 의원'
+        },
+        author: {
+            zh: '誠實週刊',
+            en: 'Honesty Weekly',
+            ja: '正直週刊',
+            ko: '정직 주간'
+        },
+        description: {
+            zh: '他說謊鼻子會變長。於是他利用這一點成為了最偉大的建築家——用鼻子搭橋。',
+            en: 'His nose grows when he lies. He used this to become the greatest architect - building bridges with his nose.',
+            ja: '嘘をつくと鼻が伸びる。彼はこれを利用し、偉大な建築家になった。鼻で橋を架けるのだ。',
+            ko: '거짓말하면 코가 길어진다. 그는 이걸 이용해 위대한 건축가가 되었다. 코로 다리를 놓는 것이다.'
+        },
+        tags: ['Satire', 'Comedy'],
+        content: {
+            zh: `皮諾丘競選市長。
+口號：「為人民服務，絕對誠實（大部分時間）。」
+
+辯論會上。
+對手：「皮諾丘先生，你承諾會降低稅收嗎？」
+皮諾丘：「當然！我保證稅收會降到零！」
+咻——
+鼻子瞬間變長兩米，差點戳瞎對手的眼睛。
+觀眾：「騙子！」
+皮諾丘淡定地把鼻子折斷，放在一邊：「這是我為跨河大橋準備的木材。大家看，上好的紅木。」
+
+這就是他的策略。
+他瘋狂地說謊。
+「我愛每一個人！」（鼻長 +5 米）
+「明天全世界發免費漢堡！」（鼻長 +10 米）
+「我是世界上最帥的木偶！」（鼻長 +20 米）
+
+然後，他的工程隊把這些長出來的鼻子鋸下來，以此建造了圖書館、孤兒院和跨海大橋。
+木材完全免費，且無限再生。
+城市變得無比繁榮。
+
+記者：「市長，您雖然一直在說謊，但您確實建設了城市。您有什麼感想？」
+皮諾丘摸了摸短短的鼻子：「其實，我心裡很痛苦。」
+（鼻子沒動）。
+這是真話。
+畢竟，要為了公共利益而犧牲自己的誠信，這才是最高尚的謊言吧？`,
+            en: `Pinocchio runs for Mayor.
+Slogan: "Service for People. Absolute Honesty (Mostly)."
+
+Debate.
+Opponent: "Mr. Pinocchio, promise to lower taxes?"
+Pinocchio: "Of course! Zero taxes guaranteed!"
+Whoosh——
+Nose grew 2 meters instantly. Almost poked opponent's eye blinded.
+Crowd: "Liar!"
+Pinocchio calmly snapped the nose off, set aside: "This is timber for the River Bridge. Look, premium Redwood."
+
+This is his strategy.
+Lie gracefully.
+"I love everyone!" (Nose +5m)
+"Free burgers for world tomorrow!" (Nose +10m)
+"I am the handsomest puppet!" (Nose +20m)
+
+His construction team saws off the nose wood. Builds Libraries, Orphanages, Sea Bridges.
+Free timber. Renewable resource.
+City prospered.
+
+Reporter: "Mayor, you lie constantly, but built the city. Thoughts?"
+Pinocchio touched his short nose: "Actually, I suffer inside."
+(Nose didn't move).
+Truth.
+Sacrificing integrity for public good... isn't that the noblest lie?`,
+            ja: `ピノキオが市長選に出馬。
+スローガン：「市民への奉仕。絶対の正直（大体は）。」
+
+討論会。
+対立候補：「ピノキオさん、減税を約束しますか？」
+ピノキオ：「勿論！税金ゼロにします！」
+ヒュン——
+鼻が瞬時に2メートル伸び、相手の目を突きそうになる。
+群衆：「嘘つき！」
+ピノキオは冷静に鼻を折り、横に置いた。「これは川の橋用の材木です。見て、上質なマホガニーだ。」
+
+これが彼の戦略だ。
+狂ったように嘘をつく。
+「人類皆愛してる！」（鼻＋5m）
+「明日全員にハンバーガー無料！」（鼻＋10m）
+「僕は世界一イケメン！」（鼻＋20m）
+
+工務店が伸びた鼻を切り出し、図書館、孤児院、大橋を建設した。
+木材は無料、無限再生可能。
+街は繁栄した。
+
+記者：「市長、嘘ばかりですが、街を建設しましたね。感想は？」
+ピノキオは短い鼻を撫でた。「実は、心苦しいんですよ。」
+（鼻は動かない）。
+本当だ。
+公益のために自分の誠実さを犠牲にする。それこそ最も崇高な嘘ではないか？`,
+            ko: `피노키오 시장 출마.
+슬로건: "국민을 위한 봉사. 절대 정직 (대부분)."
+
+토론회.
+상대: "피노키오 씨, 감세 약속합니까?"
+피노키오: "당연하죠! 세금 0원으로 만듭니다!"
+슈욱——
+코가 순식간에 2미터 자람. 상대 눈 찌를 뻔.
+군중: "사기꾼!"
+피노키오는 침착하게 코를 뚝 부러뜨려 옆에 둠. "이건 강 다리 건설용 목재입니다. 보세요, 최고급 원목이죠."
+
+이게 그의 전략이다.
+미친 듯이 거짓말한다.
+"난 모두를 사랑해!" (코 +5m)
+"내일 전 세계 햄버거 무료!" (코 +10m)
+"난 세계 제일 미남!" (코 +20m)
+
+공사 팀이 자라난 코를 잘라서 도서관, 고아원, 대교를 지음.
+자재비 공짜. 무한 재생 에너지.
+도시는 엄청 번영함.
+
+기자: "시장님, 맨날 거짓말만 하시는데 도시는 발전했네요. 소감?"
+피노키오가 짧은 코를 만짐: "사실, 마음이 괴롭습니다."
+(코 안 움직임).
+진짜다.
+공익을 위해 내 정직함을 희생한다... 그게 가장 숭고한 거짓말 아닐까?`
+        }
     }
 ];
