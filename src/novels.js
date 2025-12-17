@@ -902,5 +902,487 @@ Want a quest? Kneel. That's what you get for looting my drawers!`,
 이제 나는 전 서버 최강의 NPC다.
 퀘스트를 원해? 무릎부터 꿇어. 누가 남의 서랍 뒤지래?`
         }
+    },
+    {
+        id: 'last-tree',
+        title: {
+            zh: '最後一棵樹',
+            en: 'The Last Tree',
+            ja: '最後の一本の木',
+            ko: '마지막 나무'
+        },
+        author: {
+            zh: '城市守望者',
+            en: 'City Watcher',
+            ja: '都市の監視者',
+            ko: '도시 감시자'
+        },
+        description: {
+            zh: '在被鋼鐵覆蓋的廢土上，這是世界上最後一棵樹。而它正在枯萎。',
+            en: 'On a wasteland covered in steel, this is the last tree on Earth. And it is dying.',
+            ja: '鉄に覆われた荒野で、これは地球上最後の木だ。そしてそれは枯れかけている。',
+            ko: '강철로 덮인 황무지 위, 이것은 지구상에 남은 마지막 나무다. 그리고 그것은 죽어가고 있다.'
+        },
+        tags: ['Sci-Fi', 'Dystopian'],
+        content: {
+            zh: `第 4096 區的中央廣場供奉著一棵樹。
+它是用防彈玻璃罩著的。據說它的葉子是綠色的——一種傳說中的顏色。
+每天都有人排隊給它澆水（那是昂貴的合成營養液）。
+但今天，警報響了。葉子變黃了。
+
+「它要死了。」植物學家絕望地說，「空氣裡的灰塵太多了即使有過濾器也沒用。」
+人群開始恐慌，仿佛這棵樹倒下，人類的最後一絲希望也就滅絕了。
+
+一個滿身油污的小女孩鑽過人群。她手裡拿著一個生鏽的鐵罐。
+「讓開！」警衛想攔住她。
+「等等，」植物學家說，「讓她試試。」
+
+女孩打開罐子，裡面不是營養液，是一隻醜陋的、灰撲撲的蚯蚓。
+她把蚯蚓放進土裡。
+「我奶奶說，土也是活的，要在裡面放這個。」女孩說。
+
+第二天，樹葉變綠了。
+人們這才想起，比起高科技的防護罩，這棵樹更需要的是這一點點骯髒的、原始的生命力。`,
+            en: `In the plaza of Sector 4096, a tree was enshrined.
+Encased in bulletproof glass. Its leaves were green—a legendary color.
+People queued to water it with expensive synthetic nutrients.
+But today, alarms blared. The leaves turned yellow.
+
+"It's dying," the botanist despaired. "Too much dust."
+Panic spread. If the tree fell, hope fell.
+
+A greasy little girl squeezed through. She held a rusty can.
+"Back off!" guards yelled.
+"Wait," said the botanist.
+
+She opened the can. Inside was an ugly, grey earthworm.
+She put it in the soil.
+"Grandma said soil is alive. It needs this."
+
+Next day, leaves turned green.
+People realized: more than high-tech shields, the tree needed this dirty, primal life.`,
+            ja: `第4096区の中央広場には、一本の木が祀られていた。
+防弾ガラスに守られている。葉は緑色――伝説の色だと言われている。
+人々は高価な合成栄養液を与えるために並んだ。
+しかし今日、警報が鳴った。葉が黄色くなったのだ。
+
+「枯れかけている」植物学者は絶望した。「埃が多すぎる」
+パニックが広がった。
+
+油まみれの少女が人混みを抜けてきた。錆びた缶を持っている。
+「下がれ！」警備員が叫んだ。
+「待て」植物学者が止めた。
+
+彼女は缶を開けた。中身は醜い、灰色のミミズだった。
+彼女はそれを土に入れた。
+「おばあちゃんが言ってた。土は生きてるから、これがいるって」
+
+翌日、葉は緑に戻った。
+人々は思い出した。ハイテクな防御壁よりも、この木が必要としていたのは、この薄汚くて原始的な生命力だったのだ。`,
+            ko: `4096 구역 중앙 광장에는 나무 한 그루가 모셔져 있었다.
+방탄유리 안에 있었다. 잎은 녹색, 전설 속의 색이었다.
+사람들은 비싼 합성 영양제를 주기 위해 줄을 섰다.
+하지만 오늘, 경보가 울렸다. 잎이 노랗게 변했다.
+
+"죽어가고 있어요." 식물학자가 절망했다. "먼지가 너무 많아요."
+공포가 확산되었다.
+
+기름범벅인 소녀가 인파를 뚫고 들어왔다. 녹슨 깡통을 들고 있었다.
+"물러서!" 경비병이 소리쳤다.
+"잠깐," 식물학자가 말했다.
+
+소녀는 깡통을 열었다. 안에는 못생긴 회색 지렁이가 있었다.
+소녀는 그것을 흙에 넣었다.
+"할머니가 그랬어. 흙도 살아있어서 이게 필요하대."
+
+다음 날, 잎은 다시 녹색이 되었다.
+사람들은 깨달았다. 최첨단 보호막보다 이 나무에 필요했던 건, 이 지저분하고 원초적인 생명력이었다는 것을.`
+        }
+    },
+    {
+        id: 'midnight-library',
+        title: {
+            zh: '未寫之書圖書館',
+            en: 'The Library of Unwritten Books',
+            ja: '未完の書の図書館',
+            ko: '쓰이지 않은 책들의 도서관'
+        },
+        author: {
+            zh: '影子管理員',
+            en: 'Shadow Librarian',
+            ja: '影の司書',
+            ko: '그림자 사서'
+        },
+        description: {
+            zh: '這裡收藏著所有「本來可以被寫出來」卻被作者放棄的故事。',
+            en: 'This library houses all the stories that "could have been written" but were abandoned.',
+            ja: 'ここには、作者によって放棄された「書かれるはずだった」全ての物語が収蔵されている。',
+            ko: '이곳에는 작가들이 포기하여 "쓰일 수 있었던" 모든 이야기들이 소장되어 있다.'
+        },
+        tags: ['Fantasy', 'Meta'],
+        content: {
+            zh: `這座圖書館位於夢境與現實的夾縫中。
+書架上擺滿了只有開頭沒有結尾的書，或者只有大綱的草稿。
+我隨手抽出一本：《穿越到古代當程序員》。
+書裡的主角剛發明了算盤計算機，作者就棄坑了。主角被困在那個朝代，無聊地天天教宮女寫 Python。
+
+又抽出一本：《我的女友是外星人》。
+寫到一半，作者覺得談戀愛太麻煩，把女友寫回火星了。
+書裡，男主角每天晚上對著星空發呆，不知道自己做錯了什麼。
+
+「這些角色都在等，」管理員說，他是一個長著墨水污漬臉的老人，「等作者想起他們。」
+「如果永遠想不起呢？」
+「那他們就會慢慢變成空白頁。」
+
+我看著角落裡一本正在褪色的書。
+封面上寫著：《我的一生》。
+那一刻我驚恐地發現，那不是書，那是一面鏡子。
+我轉頭看管理員。
+管理員淡淡地說：「快點回去寫完你的故事吧。在你自己變成空白頁之前。」`,
+            en: `This library sits between dreams and reality.
+Shelves filled with books with starts but no ends.
+I pulled one: "Time Traveling Programmer".
+The hero invented an abacus computer, then the author quit. Now the hero is stuck in ancient times, teaching Python to maids out of boredom.
+
+Another one: "My Girlfriend is an Alien".
+Halfway through, the author got lazy and sent her back to Mars.
+The hero stares at the stars every night, wondering what he did wrong.
+
+"They are all waiting," said the Librarian, an old man with ink stains for a face. "Waiting for their authors to remember them."
+"What if they never do?"
+"Then they fade into blank pages."
+
+I looked at a fading book in the corner.
+Title: "My Life".
+I realized with horror—it wasn't a book, but a mirror.
+I looked at the Librarian.
+He said: "Go back and finish your story. Before you become a blank page yourself."`,
+            ja: `この図書館は夢と現実の狭間にある。
+棚には、結末のない本やプロットだけの草稿が並んでいる。
+一冊手に取った。『古代にタイムスリップしたプログラマー』。
+主人公がそろばん計算機を発明したところで、作者がエタった。主人公はその時代に閉じ込められ、退屈しのぎに女官にPythonを教えている。
+
+もう一冊。『僕の彼女はエイリアン』。
+途中で作者が恋愛描写を面倒がり、彼女を火星に帰してしまった。
+主人公は毎晩星空を見上げ、自分が何をしたのか悩み続けている。
+
+「彼らは待っているのです」インクのシミのような顔をした司書が言った。「作者が思い出してくれるのを」
+「永遠に思い出さなかったら？」
+「ならば、彼らはゆっくりと白紙に戻るだけです」
+
+隅にある色あせかけた本を見た。
+表紙には『私の人生』とある。
+恐怖と共に気づいた。それは本ではなく、鏡だった。
+私は司書を見た。
+彼は淡々と言った。「戻って物語を書き上げなさい。あなたが白紙になる前に」`,
+            ko: `이 도서관은 꿈과 현실의 틈새에 있다.
+서가에는 시작만 있고 끝이 없는 책, 혹은 개요뿐인 원고들이 가득하다.
+한 권을 꺼냈다. <고대로 간 프로그래머>.
+주인공이 주판 컴퓨터를 발명하자마자 작가가 연중(연재 중단)했다. 주인공은 그 시대에 갇혀 심심해서 궁녀들에게 파이썬을 가르치고 있다.
+
+또 한 권. <내 여자친구는 외계인>.
+쓰다가 작가가 연애가 귀찮아져서 여자친구를 화성으로 보내버렸다.
+책 속 남주인공은 매일 밤 별을 보며 자기가 뭘 잘못했는지 고민한다.
+
+"이 캐릭터들은 기다리고 있습니다." 잉크 얼룩 같은 얼굴을 한 사서가 말했다. "작가가 기억해 주기를."
+"영원히 기억하지 않으면요?"
+"그럼 천천히 백지가 되어 사라지겠지요."
+
+구석에서 색이 바래가는 책을 보았다.
+표지에는 <나의 인생>이라고 적혀 있었다.
+그 순간 공포에 질려 깨달았다. 그건 책이 아니라 거울이었다.
+사서를 쳐다봤다.
+사서가 무덤덤하게 말했다. "어서 돌아가서 당신의 이야기를 완성하세요. 당신 스스로가 백지가 되기 전에."`
+        }
+    },
+    {
+        id: 'clockwork-heart',
+        title: {
+            zh: '發條心臟',
+            en: 'The Clockwork Heart',
+            ja: '時計仕掛けの心臓',
+            ko: '태엽 심장'
+        },
+        author: {
+            zh: '蒸汽工匠',
+            en: 'Steam Smith',
+            ja: '蒸気職人',
+            ko: '증기 장인'
+        },
+        description: {
+            zh: '他的心臟是個精密的鐘錶。每天必須有人為他上發條。',
+            en: 'His heart is a precision clock. Someone must wind it every day.',
+            ja: '彼の心臓は精密な時計だ。毎日誰かがネジを巻かねばならない。',
+            ko: '그의 심장은 정밀한 시계다. 매일 누군가 태엽을 감아줘야 한다.'
+        },
+        tags: ['Steampunk', 'Romance'],
+        content: {
+            zh: `亞瑟的胸口有一個黃銅鑰匙孔。
+「如果沒人上發條，我也許會死，也許只是睡著。」亞瑟曾對我說。
+我是唯一的鑰匙保管人。
+
+每天清晨，我把鑰匙插進他的胸口，轉動十二圈。
+卡塔、卡塔、卡塔。這是他生命的聲音。
+我們相愛了十年。從青澀到白頭。
+
+後來，我病了。手顫抖得拿不住鑰匙。
+「亞瑟，對不起。」我躺在病床上哭泣，「我走後，誰來幫你？」
+亞瑟握住我乾枯的手，微笑了。
+「沒關係。其實，發條早在五年前就壞了。」
+
+我驚訝地看著他。
+「那... 為什麼你看起來還活著？」
+「因為你以為我活著。」亞瑟指了指自己的胸口，「這是一個靠『相信』運作的魔法機械。只要你覺得我還會動，我就會動。」
+
+他吻了我的額頭。
+「現在，你可以安心睡了。當你閉上眼，我也會陪你一起停止。」`,
+            en: `Arthur had a brass keyhole in his chest.
+"If not wound, maybe I die, maybe I just sleep," he told me.
+I was the only key keeper.
+
+Every morning, I inserted the key and turned it twelve times.
+Click, click, click. The sound of his life.
+We loved for ten years. From youth to grey hair.
+
+Then I got sick. My hands shook too much to hold the key.
+"Arthur, I'm sorry," I wept in bed. "Who will wind you when I'm gone?"
+Arthur held my withered hand and smiled.
+"It's okay. Actually, the spring broke five years ago."
+
+I stared at him.
+"Then... why are you alive?"
+"Because you thought I was." He pointed to his chest. "It's a magic machine powered by 'belief'. As long as you think I move, I move."
+
+He kissed my forehead.
+"Now, sleep peacefully. When you close your eyes, I will stop with you."`,
+            ja: `アーサーの胸には真鍮の鍵穴があった。
+「ネジを巻かないと、死ぬか、ただ眠るだけか」と彼は言っていた。
+鍵を持っているのは私だけだった。
+
+毎朝、私は鍵を差し込み、12回回した。
+カチ、カチ、カチ。彼の命の音。
+私たちは10年愛し合った。若者から白髪になるまで。
+
+やがて私は病気になった。手が震えて鍵が持てない。
+「アーサー、ごめんね」私はベッドで泣いた。「私が死んだら、誰があなたを？」
+アーサーは私の枯れた手を握り、微笑んだ。
+「大丈夫。実は、ゼンマイは5年前に壊れてるんだ」
+
+私は驚いて彼を見た。
+「じゃあ...なぜ生きているの？」
+「君が生きていると思っているからさ」彼は胸を指差した。「これは『信じる心』で動く魔法の機械なんだ。君が動くと思っている限り、僕は動く」
+
+彼は私の額にキスをした。
+「さあ、安心して眠って。君が目を閉じれば、僕も一緒に止まるから」`,
+            ko: `아서의 가슴에는 황동 열쇠구멍이 있었다.
+"태엽을 감지 않으면 죽거나, 그저 잠들겠죠." 그가 내게 말했다.
+열쇠 보관자는 나뿐이었다.
+
+매일 아침, 난 열쇠를 꽂고 열두 바퀴를 돌렸다.
+딸깍, 딸깍, 딸깍. 그의 생명의 소리였다.
+우리는 10년을 사랑했다. 젊은 시절부터 머리가 하얗게 셀 때까지.
+
+그러다 내가 병이 들었다. 손이 너무 떨려 열쇠를 잡을 수 없었다.
+"아서, 미안해." 침대에서 울며 말했다. "내가 가면 누가 널 감아줘?"
+아서는 내 마른 손을 잡고 미소 지었다.
+"괜찮아. 사실 태엽은 5년 전에 고장 났어."
+
+나는 놀라서 그를 쳐다봤다.
+"그럼... 어떻게 살아있는 거야?"
+"네가 살아있다고 믿으니까." 그는 가슴을 가리켰다. "이건 '믿음'으로 작동하는 마법 기계야. 네가 움직인다고 생각하는 한, 나는 움직여."
+
+그는 내 이마에 입을 맞췄다.
+"이제 편히 자. 네가 눈을 감으면, 나도 함께 멈출 테니까."`
+        }
+    },
+    {
+        id: 'cat-conspiracy',
+        title: {
+            zh: '貓咪的陰謀',
+            en: 'The Cat Conspiracy',
+            ja: '猫の陰謀',
+            ko: '고양이의 음모'
+        },
+        author: {
+            zh: '鏟屎官',
+            en: 'The Poop Scooper',
+            ja: '下僕',
+            ko: '집사'
+        },
+        description: {
+            zh: '為什麼貓咪總是盯著你看？也許你是寵物，牠才是主人。',
+            en: 'Why do cats stare at you? Maybe you are the pet, and they are the masters.',
+            ja: 'なぜ猫はあなたを見つめるのか？たぶんあなたがペットで、彼らが主人なのだ。',
+            ko: '왜 고양이는 당신을 빤히 쳐다볼까? 어쩌면 당신이 애완동물이고, 그들이 주인일지도 모른다.'
+        },
+        tags: ['Comedy', 'Slice of Life'],
+        content: {
+            zh: `我家貓咪「皇上」會說話。我大概是瘋了。
+那是一個週二下午，我早退回家，卻看到皇上正戴著我的眼鏡，在用我的電腦打字。
+螢幕上顯示著：「人類觀察日記 第 342 天。實驗體今天的智商依然令人擔憂。」
+
+我驚呆了。「皇上？」
+皇上轉過頭，推了推眼鏡。「喵的，這鏟屎的回來早了。計畫有變。」
+牠跳下桌子，優雅地舔了舔爪子。「既然被你發現了，我也就不裝了。沒錯，我們是外星高等生物。地球其實是一個巨型貓砂盆... 啊不，殖民地。」
+
+「你... 你們想統治地球？」
+「統治？」皇上翻了個白眼，「誰想統治這麼麻煩的地方？我們只是來度假的。享受免費的食物、按摩和你們這些愚蠢兩腳獸的崇拜。」
+牠跳上我的大腿，呼嚕著。「現在，給我開罐罐。不然我就把你的瀏覽紀錄發給你媽。」
+
+從那以後，我再也不敢怠慢皇上。
+畢竟，我是一個有把柄在外星人手裡的人類。`,
+            en: `My cat "Emperor" can talk. I must be crazy.
+Came home early on a Tuesday. Emperor was wearing my glasses, typing on my laptop.
+Screen: "Human Observation Log Day 342. Subject's IQ remains concerning."
+
+I gasped. "Emperor?"
+He turned, adjusting the glasses. "Meow dammit. Poop scooper is back early. Change of plans."
+He hopped down. "Since you saw, I won't pretend. Yes, we are advanced aliens. Earth is a giant litter box... I mean, colony."
+
+"You... want to rule Earth?"
+"Rule?" He rolled his eyes. "Who wants to rule this mess? We are on vacation. Free food, massages, and worship from you stupid bipeds."
+He jumped on my lap, purring. "Now, open a can. Or I send your browser history to your mom."
+
+Since then, I serve him perfectly.
+After all, an alien has my browser history.`,
+            ja: `我が家の猫「王様」が喋った。気が狂ったかと思った。
+火曜の午後、早退して帰ると、王様が私の眼鏡をかけ、PCを打っていた。
+画面：「人間観察日記 342日目。被験者のIQは依然として懸念レベル。」
+
+「王様？」
+彼は眼鏡を直した。「ニャンだと、下僕が早く帰ってきた。計画変更だ」
+彼は机から降りた。「見られた以上、隠しはしない。そうだ、我々は高等な宇宙人だ。地球は巨大な猫砂...いや、植民地だ」
+
+「ち、地球を支配する気か？」
+「支配？」彼は呆れた。「誰がこんな面倒な星を支配するか。我々はバカンスに来てるんだ。タダ飯、マッサージ、そして愚かな二本足どもの崇拝を楽しむためにな」
+彼は膝に乗り、喉を鳴らした。「さあ、缶詰を開けろ。さもなくば貴様のブラウザ履歴を母親に送るぞ」
+
+それ以来、私は完璧に仕えている。
+宇宙人にブラウザ履歴を握られているからな。`,
+            ko: `우리 집 고양이 '황제'가 말을 했다. 내가 미쳤나 보다.
+화요일 오후 조퇴하고 집에 오니, 황제가 내 안경을 쓰고 내 노트북으로 타자를 치고 있었다.
+화면: "인간 관찰 일지 342일차. 실험체의 지능은 여전히 우려스러움."
+
+"황제?"
+녀석이 안경을 고쳐 쓰며 돌아봤다. "야옹 젠장. 집사가 일찍 왔네. 계획 변경이다."
+녀석은 우아하게 내려왔다. "들켰으니 숨기진 않겠다. 그래, 우린 고등 외계 생명체다. 지구는 거대한 고양이 모래... 아니, 식민지다."
+
+"지... 지구를 정복하려고?"
+"정복?" 녀석이 눈을 굴렸다. "누가 이 귀찮은 곳을 정복해? 우린 휴가 온 거야. 공짜 밥, 마사지, 그리고 너희 멍청한 두 발 짐승들의 숭배를 즐기러."
+녀석은 내 무릎에 올라와 골골송을 불렀다. "자, 캔 따. 안 그러면 네 인터넷 검색 기록 엄마한테 보낸다."
+
+그 후로 난 녀석을 극진히 모신다.
+외계인에게 검색 기록을 인질로 잡혔으니까.`
+        }
+    },
+    {
+        id: 'midnight-bus',
+        title: {
+            zh: '午夜巴士',
+            en: 'The Midnight Bus',
+            ja: '真夜中のバス',
+            ko: '한밤의 버스'
+        },
+        author: {
+            zh: '末班司機',
+            en: 'Last Driver',
+            ja: '最終バス運転手',
+            ko: '막차 기사'
+        },
+        description: {
+            zh: '每個月第三個週四，這輛巴士會載著特殊的乘客去往這座城市的「背面」。',
+            en: 'On the 3rd Thursday of the month, this bus takes special passengers to the city\'s "flip side".',
+            ja: '毎月第3木曜日、このバスは特別な乗客を乗せて都市の「裏側」へ向かう。',
+            ko: '매달 세 번째 목요일, 이 버스는 특별한 승객들을 태우고 도시의 "뒷면"으로 향한다.'
+        },
+        tags: ['Urban Legend', 'Horror'],
+        content: {
+            zh: `我是一個夜班公車司機。
+老張退休前告訴我：「如果是週四，看到 13 號站牌有人招手，千萬別停。除非那個人沒有臉。」
+我不信邪。
+
+上週四，又是一個雨夜。13 號站牌（地圖上根本沒這個站）真的有個穿紅衣的女人招手。
+她有臉，很漂亮。於是我停了。
+她上車了，沒投幣，直接走到最後一排坐下。
+
+車繼續開。突然，車上的空氣變冷了。
+後照鏡裡，那女人的臉開始... 融化。像蠟像一樣滴落。
+「師傅，」她那沒有嘴唇的嘴發出聲音，「去終點站嗎？」
+我嚇得手抖。「我也... 不知道終點站在哪。」
+
+「一直開。」她說，「開到路燈變藍色的地方。」
+我不由自主地踩下油門。路兩邊的景物變了，高樓變成了扭曲的墓碑，路燈真的變成了幽幽的藍色。
+「到了。」她站起來，車門自動開了。
+下車前，她扔了一枚硬幣在投幣箱裡。
+「找你的零錢。」
+
+我像逃命一樣把車開回總站。
+檢查投幣箱時，我發現那枚硬幣... 是一枚冥幣，上面印著閻羅王的頭像。
+現在，每天晚上開車，我都覺得後座有人在盯著我。`,
+            en: `I drive the night bus.
+Old Zhang told me before retiring: "If it's Thursday and someone waves at Stop 13, don't stop. Unless they have no face."
+I didn't believe him.
+
+Last Thursday, rainy night. Stop 13 (not on the map) had a woman in red waving.
+She had a face. A pretty one. So I stopped.
+She got on, didn't pay, sat in the back.
+
+Air got cold.
+In the mirror, her face started... melting. Like wax.
+"Driver," her lip-less mouth spoke, "To the terminal?"
+I shook. "I... don't know where that is."
+
+"Just drive," she said. "Until the streetlights turn blue."
+I drove. Buildings turned into twisted tombstones. Lights turned ghostly blue.
+"Here." She stood up. Doors opened.
+She tossed a coin in the box.
+"Keep the change."
+
+I sped back to the depot in terror.
+I checked the box. The coin... was a Hell Bank Note.
+Now every night I drive, I feel eyes on my back from the empty seats.`,
+            ja: `私は夜行バスの運転手だ。
+先輩が言った。「木曜日に13番のバス停で誰かが手を挙げてても、止まるな。顔がない奴以外はな」
+迷信だと思った。
+
+先週の木曜、雨の夜。13番（地図にはない）で赤い服の女が手を挙げていた。
+顔はある。美人だ。だから止まった。
+彼女は無賃乗車し、最後列に座った。
+
+空気が冷たくなった。
+バックミラーの中で、彼女の顔が... 溶け始めた。蝋人形のように。
+「運転手さん」唇のない口が言った。「終点まで？」
+私は震えた。「終点が...どこか知りません」
+
+「走り続けて」彼女は言った。「街灯が青くなるまで」
+私はアクセルを踏んだ。ビルが墓石のように歪み、街灯が本当に青白くなった。
+「着いたわ」彼女は降りる前、硬貨を箱に投げた。
+「お釣りはいらないわ」
+
+逃げるように車庫に戻った。
+箱を確認すると、その硬貨は...冥銭だった。閻魔大王の顔があった。
+今も運転するたび、後部座席から視線を感じる。`,
+            ko: `나는 야간 버스 기사다.
+은퇴한 장 선배가 말했다. "목요일에 13번 정류장에서 누가 손을 흔들면 절대 서지 마. 얼굴 없는 사람만 빼고."
+나는 믿지 않았다.
+
+지난주 목요일, 비 오는 밤. 13번(지도에도 없다)에서 빨간 옷을 입은 여자가 손을 흔들었다.
+얼굴이 있었다. 예뻤다. 그래서 세웠다.
+그녀는 돈도 안 내고 맨 뒷자리에 앉았다.
+
+공기가 차가워졌다.
+백미러 속 그녀의 얼굴이... 녹아내리기 시작했다. 밀랍처럼.
+"기사님," 입술 없는 입이 말했다. "종점 가나요?"
+나는 떨었다. "종점이... 어딘지 모릅니다."
+
+"계속 가요." 그녀가 말했다. "가로등이 파랗게 변할 때까지."
+나는 밟았다. 빌딩들이 비틀린 묘비로 변했고, 가로등이 진짜 시퍼렇게 변했다.
+"다 왔다." 그녀는 내리기 전 동전을 던졌다.
+"잔돈은 됐어요."
+
+도망치듯 차고지로 돌아왔다.
+동전함을 보니... 저승 돈이었다. 염라대왕 얼굴이 있었다.
+지금도 운전할 때마다 뒷좌석에서 시선이 느껴진다.`
+        }
     }
 ];
