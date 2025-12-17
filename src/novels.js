@@ -3465,5 +3465,580 @@ Only a note: "Conscience is the weight of the shadow. Now, you are light enough 
 주인은 없었다.
 쪽지뿐: "양심은 그림자의 무게다. 이제 넌 가벼워서 천국으로 날 수도, 지옥으로 떨어질 수도 있지."`
         }
+    },
+    {
+        id: 'unsend-life',
+        title: {
+            zh: '人生撤回鍵',
+            en: 'The Unsend Button',
+            ja: '人生取り消しボタン',
+            ko: '인생 실행 취소'
+        },
+        author: {
+            zh: 'Beta 測試員',
+            en: 'Beta Tester',
+            ja: 'ベータテスター',
+            ko: '베타 테스터'
+        },
+        description: {
+            zh: '這個按鈕可以撤回你人生中最後 5 分鐘的操作。但每用一次，你的記憶就會少一點。',
+            en: 'This button unsends the last 5 minutes of your life. But each use costs a piece of memory.',
+            ja: 'このボタンは人生の最後の5分を取り消せる。だが使うたび、記憶が少し消える。',
+            ko: '이 버튼은 인생의 마지막 5분을 취소할 수 있다. 하지만 쓸 때마다 기억이 조금씩 사라진다.'
+        },
+        tags: ['Sci-Fi', 'Thriller'],
+        content: {
+            zh: `我在暗網買到了這個「人生撤回鍵」。
+只要按一下，時光倒流 5 分鐘。
+第一次，我用它撤回了一句讓女朋友生氣的話。
+第二次，我用它躲過了一次車禍。
+第三次，我用它在拉斯維加斯贏了一百萬。
+
+這簡直是作弊神器。
+除了一個小不點的副作用：每次使用，我會隨機忘記一件事。
+有時候是小學同學的名字，有時候是鑰匙放在哪。
+沒關係，這很划算。
+
+直到今天，我回到家，看到一個陌生的女人坐在我的沙發上，抱著一個孩子。
+「你是誰？」我問。
+女人驚恐地看著我：「老公，你怎麼了？」
+老公？我結婚了？
+我看看手上的戒指。是的，我結婚了。
+但我完全不記得她，也不記得那個孩子。
+
+我瘋狂地看著手中的按鈕。
+如果我按下它，能不能找回記憶？
+還是會... 忘記更多？
+手指懸在按鈕上方，我卻不敢按下去了。`,
+            en: `Bought this "Life Unsend Button" on the dark web.
+Press it, rewind 5 minutes.
+First time, I unsent a rude comment to my girlfriend.
+Second time, dodged a car accident.
+Third time, won a million in Vegas.
+
+It's a cheat code.
+Small side effect: Each use erases a random memory.
+Name of a classmate, location of keys.
+Small price.
+
+Until today. Came home.
+Strange woman on my couch, holding a baby.
+"Who are you?" I asked.
+She looked terrified. "Husband, what's wrong?"
+Husband? I'm married?
+Looked at my ring. Yes.
+But I have zero memory of her, or the kid.
+
+I stared at the button.
+If I press it, does memory return?
+Or do I forget... more?
+Finger hovering, I couldn't press it.`,
+            ja: `ダークウェブで「人生取り消しボタン」を買った。
+押せば5分巻き戻る。
+最初は、彼女を怒らせた一言を取り消した。
+次は、事故を回避した。
+その次は、カジノで大勝ちした。
+
+チートだ。
+小さな副作用：使うたび、ランダムに記憶が消える。
+同級生の名前、鍵の場所。
+安い代償だ。
+
+今日までは。
+帰宅すると、見知らぬ女性が赤ん坊を抱いて座っていた。
+「誰だ？」
+彼女は怯えた。「あなた、どうしたの？」
+あなた？俺、結婚してた？
+指輪を見る。してる。
+だが彼女も子供も、全く記憶にない。
+
+ボタンを見つめる。
+押せば記憶は戻るか？
+それとも...もっと忘れるか？
+指が震え、押すことができない。`,
+            ko: `다크웹에서 '인생 실행 취소 버튼'을 샀다.
+누르면 5분 전으로 돌아간다.
+처음엔 여자친구에게 한 실언을 취소했다.
+두 번째는 차 사고를 피했다.
+세 번째는 카지노에서 잭팟을 터뜨렸다.
+
+치트키다.
+작은 부작용: 쓸 때마다 무작위 기억 하나가 삭제된다.
+동창 이름, 열쇠 둔 곳.
+싼값이다.
+
+오늘까진 그랬다.
+집에 오니 낯선 여자가 아기를 안고 있었다.
+"누구세요?"
+여자가 겁에 질려 말했다. "여보, 왜 그래요?"
+여보? 나 결혼했나?
+반지를 봤다. 꼈다.
+근데 그녀도 아이도 전혀 기억이 없다.
+
+버튼을 노려봤다.
+누르면 기억이 돌아올까?
+아니면... 더 잊게 될까?
+손가락이 허공에서 멈췄다. 누를 수가 없다.`
+        }
+    },
+    {
+        id: 'npc-day-off',
+        title: {
+            zh: 'NPC 的休假日',
+            en: 'NPC\'s Day Off',
+            ja: 'NPCの休日',
+            ko: 'NPC의 휴일'
+        },
+        author: {
+            zh: '村長',
+            en: 'Village Chief',
+            ja: '村長',
+            ko: '촌장'
+        },
+        description: {
+            zh: '伺服器維護中。村民們終於可以停止假裝走來走去，坐下來喝杯咖啡了。',
+            en: 'Server Maintenance. Villagers can finally stop pretending to walk around and sit down for coffee.',
+            ja: 'サーバーメンテ中。村人はようやく歩くフリをやめて、座ってコーヒーが飲める。',
+            ko: '서버 점검 중. 마을 사람들은 드디어 걷는 척을 멈추고 앉아서 커피를 마실 수 있다.'
+        },
+        tags: ['Comedy', 'Game'],
+        content: {
+            zh: `【系統公告：伺服器將進行 24 小時維護。】
+隨著最後一個玩家下線，世界安靜了。
+
+我和鐵匠大叔立刻停止了因為程式設定而必須重複的對話。
+「天啊，我的腰。」鐵匠伸了個懶腰，把那把敲了一萬次的錘子扔在地上，「那個叫『龍傲天』的玩家今天來修了五十次裝備。」
+藥水店的小莉脫下了那套性感的店員服，換上了寬鬆的運動褲。
+「有人一直試圖看我的裙底，」她翻了個白眼，「還好我有防走光圖層。」
+
+魔王城的使者飛來了。
+「今晚魔王大人舉辦火鍋派對，」使者說，「勇者不在，大家都可以來。」
+於是，新手村的村民、森林裡的史萊姆、還有守關的巨龍，都聚在了魔王城。
+我們喝酒、吃肉、吐槽玩家們的愚蠢操作。
+
+「有個玩家試圖用木劍戳我的腳趾，戳了一小時。」巨龍抱怨道，「我都想直接裝死送他裝備了，太尷尬了。」
+大家哄堂大笑。
+
+這時，天空亮起了紅光。
+【維護結束。伺服器開啟。】
+「快回到崗位！」村長大喊。
+一秒鐘後。
+我站在村口，臉上掛著僵硬的微笑。
+「歡迎來到新手村，年輕的冒險者...」
+心裡想著：昨晚的麻辣鍋真好吃。`,
+            en: `[System: Server Maintenance for 24 hours.]
+Last player logged out. Silence.
+
+Blacksmith and I stopped our looped dialogue immediately.
+"My back," Blacksmith stretched, throwing the hammer down. "That player 'DragonSlayer' repaired gear 50 times today."
+Potion Girl Lily changed from her sexy uniform into sweatpants.
+"Someone kept trying to look under my skirt," she rolled eyes. "Thank god for anti-upskirt texture layers."
+
+Messenger from Demon Castle arrived.
+"Dragon Lord is hosting a Hotpot Party. No heroes tonight. Everyone invited."
+So, villagers, slimes, and the boss dragon gathered at the castle.
+Drinking, eating, mocking players.
+
+"One noob poked my toe with a wooden sword for an hour," Dragon complained. "I almost faked death just to give him loot. So awkward."
+Laughter.
+
+Red light in sky.
+[Maintenance Complete. Server Online.]
+"Positions!" Chief yelled.
+One second later.
+I stood at village gate, rigid smile on.
+"Welcome, young adventurer..."
+Thinking: That spicy hotpot was good.`,
+            ja: `【システム：24時間サーバーメンテナンスを開始します。】
+最後のプレイヤーがログアウトし、世界は静寂に。
+
+鍛冶屋と私はループ会話を即座に止めた。
+「腰が...」鍛冶屋は伸びをして、一万回叩いたハンマーを投げ捨てた。「あの『勇者キリト』って奴、今日50回も修理に来やがった」
+ポーション屋のリリーはセクシーな制服を脱ぎ、スウェットに着替えた。
+「スカートの中覗こうとする奴ばっか」彼女は目を回した。「鉄壁スカート機能に感謝よ」
+
+魔王城から使いが来た。
+「今夜は魔王様主催の鍋パです。勇者不在なので全員参加OK。」
+こうして村人、スライム、ボスドラゴンが魔王城に集まった。
+酒を飲み、肉を食い、プレイヤーの愚痴を言う。
+
+「木の剣で一時間も俺のつま先をつついてくる奴がいてさ」ドラゴンが愚痴った。「気まずすぎて、死んだフリしてアイテムやろうかと思ったわ」
+大爆笑。
+
+空が赤く光る。
+【メンテ終了。サーバーオープン。】
+「配置につけ！」村長が叫ぶ。
+一秒後。
+私は村の入り口に立ち、張り付いた笑顔で言う。
+「ようこそ、若き冒険者よ...」
+心の中で：昨日の激辛鍋、うまかったな。`,
+            ko: `[시스템: 24시간 서버 점검을 시작합니다.]
+마지막 유저가 로그아웃하자 세상이 조용해졌다.
+
+나와 대장장이는 반복 대사를 즉시 멈췄다.
+"아이고 허리야." 대장장이가 기지개를 켜며 망치를 던졌다. "저 '지존검사'란 놈, 오늘 수리만 50번 맡기더라."
+물약 상점 릴리는 섹시한 유니폼을 벗고 트레이닝복으로 갈아입었다.
+"어떤 놈이 계속 치마 속 보려고 해서 짜증 났어." 그녀가 눈을 굴렸다. "강철 치마 텍스처라 다행이지."
+
+마왕성에서 전령이 왔다.
+"오늘 밤 마왕님 주최 전골 파티입니다. 용사 없으니 다들 오세요."
+그래서 마을 사람들, 슬라임, 보스 드래곤이 마왕성에 모였다.
+술 마시고 고기 먹으며 유저들을 깠다.
+
+"어떤 뉴비가 나무칼로 내 발가락만 한 시간 찌르더라." 드래곤이 투덜댔다. "너무 민망해서 그냥 죽은 척하고 템 줄 뻔했어."
+폭소.
+
+하늘에 붉은 빛.
+[점검 종료. 서버 오픈.]
+"위치로!" 촌장이 소리쳤다.
+1초 후.
+나는 마을 입구에 서서 딱딱한 미소를 지었다.
+"환영하네, 젊은 모험가여..."
+속마음: 어제 마라탕 진짜 맛있었는데.`
+        }
+    },
+    {
+        id: 'haunted-wifi',
+        title: {
+            zh: '鬧鬼 WiFi',
+            en: 'Haunted WiFi',
+            ja: '幽霊WiFi',
+            ko: '귀신 들린 와이파이'
+        },
+        author: {
+            zh: '網路成癮者',
+            en: 'Net Addict',
+            ja: 'ネット中毒',
+            ko: '인터넷 중독자'
+        },
+        description: {
+            zh: '搬進新公寓後，網速快得不可思議。直到我發現，每個封包裡都夾帶了死者的低語。',
+            en: 'New apartment, insanely fast internet. Until I found whispers of the dead hidden in every packet.',
+            ja: '新居のネットは爆速だった。全てのパケットに死者の囁きが隠されていると知るまでは。',
+            ko: '이사를 왔는데 인터넷이 미친 듯이 빠르다. 모든 패킷에 죽은 자의 속삭임이 섞여 있다는 걸 알기 전까진.'
+        },
+        tags: ['Horror', 'Modern'],
+        content: {
+            zh: `這間公寓的房租便宜得不像話。房東說唯一的缺點是 WiFi 有點怪。
+我不在乎。我是窮學生，便宜就好。
+搬進來後發現，網速簡直是光速。下載 4K 電影只要 1 秒。
+太爽了。
+
+直到深夜，我戴著耳機打遊戲。
+隊友說：「兄弟，你那邊有人在說話嗎？好多人。」
+我愣住了：「沒有啊，我一個人住。」
+「不對，」隊友說，「聽起來像是在哭... 還有求救聲。」
+我背脊發涼。
+
+這時，我的電腦螢幕開始閃爍。
+瀏覽器的網址列自動輸入了一串字：
+【救救我們... 我們被困在路由器裡了...】
+【前任房客把我們的屍體藏在牆壁裡的電纜槽...】
+【信號... 是我們的靈魂波...】
+
+我嚇得跳起來，衝向牆角的路由器。
+它正在發出紅色的光，而且... 很燙，像皮膚一樣燙。
+我想拔掉插頭，但電線突然纏住了我的手腕，用力收緊。
+螢幕上彈出一個視窗：
+【檢測到新設備（你）。正在嘗試上傳靈魂... 進度 1%...】`,
+            en: `Cheap apartment. Landlord said only con is weird WiFi.
+I'm broke. Don't care.
+Moved in. Speed is god-tier. 4K movie in 1 second.
+Awesome.
+
+Late night, gaming with headset.
+Teammate: "Bro, people talking in your background? Many people."
+Me: "No, I live alone."
+Teammate: "Nah. Sounds like crying... and screaming for help."
+Chill down my spine.
+
+PC screen flickered.
+Address bar auto-typed:
+[Help us... Trapped in the router...]
+[Previous tenant hid our bodies in the cable ducts...]
+[The signal... is our soul waves...]
+
+I jumped, ran to the router.
+It glowed red. And... it was hot. Warm like skin.
+Tried to unplug. Cable wrapped around my wrist. Tight.
+Pop-up on screen:
+[New Device Detected (YOU). Uploading Soul... 1%...]`,
+            ja: `格安アパート。大家は「WiFiが変」とだけ言った。
+金がないから気にしない。
+入居。爆速だ。4K映画が1秒で落ちる。
+最高。
+
+深夜、ヘッドセットでゲーム中。
+味方：「おい、後ろで誰か喋ってる？大勢。」
+私：「いや、一人暮らしだ」
+味方：「違う。泣き声だ...助けを求めてる。」
+背筋が凍る。
+
+画面が点滅。
+アドレスバーに勝手に文字が：
+【助けて...ルーターに閉じ込められてる...】
+【前の住人が死体を壁のケーブルダクトに...】
+【信号は...私達の魂の波...】
+
+飛び上がり、ルーターへ走る。
+赤く光っている。そして...熱い。肌のように生温かい。
+プラグを抜こうとした。ケーブルが手首に巻き付き、締まる。
+画面にポップアップ：
+【新デバイスを検出（あなた）。魂をアップロード中... 1%...】`,
+            ko: `초저가 아파트. 집주인은 와이파이가 좀 이상하다고만 했다.
+난 거지라 상관없었다.
+입주해보니 속도가 신이다. 4K 영화 1초 컷.
+개꿀.
+
+심야, 헤드셋 끼고 게임 중.
+팀원: "님, 뒤에 사람 있음? 웅성거리는데."
+나: "아뇨, 혼자 사는데."
+팀원: "아닌데. 우는 소리 같은데... 살려달라고."
+소름이 쫙.
+
+모니터가 깜빡인다.
+주소창에 저절로 글자가 쳐진다:
+[살려줘... 라우터에 갇혔어...]
+[전 세입자가 우리 시체를 벽 속 케이블 관에...]
+[신호는... 우리 영혼의 파장...]
+
+놀라서 라우터로 뛰었다.
+붉게 빛나고 있었다. 그리고... 뜨거웠다. 살갗처럼 미지근했다.
+코드를 뽑으려 했다. 케이블이 손목을 휘감고 조여왔다.
+팝업창:
+[새 장치 감지됨 (너). 영혼 업로드 중... 1%...]`
+        }
+    },
+    {
+        id: 'last-paper-book',
+        title: {
+            zh: '最後的紙本書',
+            en: 'The Last Paper Book',
+            ja: '最後の紙の本',
+            ko: '마지막 종이책'
+        },
+        author: {
+            zh: '考古學家',
+            en: 'Archaeologist',
+            ja: '考古学者',
+            ko: '고고학자'
+        },
+        description: {
+            zh: '2100 年，紙張是違禁品。我撿到了一本古老的書，翻開第一頁，我聞到了「森林」的味道。',
+            en: 'Year 2100. Paper is contraband. I found an ancient book. Opened it, smelled "forest".',
+            ja: '2100年。紙は禁制品だ。古い本を拾った。開くと、「森」の匂いがした。',
+            ko: '2100년. 종이는 금수품이다. 고서를 주웠다. 첫 장을 넘기자 "숲"의 냄새가 났다.'
+        },
+        tags: ['Dystopian', 'Sci-Fi'],
+        content: {
+            zh: `這是數位永生時代。所有資訊都在雲端，直接傳輸到義眼。
+砍伐樹木是死罪。紙張是骯髒的舊時代遺物。
+
+我在廢墟探險時，踢到了一個鐵盒子。
+裡面有一塊奇怪的、白色的長方體。
+由無數薄片組成。
+我的掃描儀顯示：【未知有機物】。
+
+我小心翼翼地掀開其中一片。
+沙沙聲。
+一種奇妙的觸感傳遞到指尖。粗糙，真實，溫暖。
+我低下頭，聞了一下。
+那是... 土壤的味道？陽光的味道？
+我看不懂上面的符號（古代文字），但我看著那些墨迹，感覺大腦裡有一塊沉睡的區域甦醒了。
+
+突然，警報響起。
+無人機發現了我。
+「放下違禁品！」電子音警告，「你正在持有未經審查的物理媒介！」
+
+我抱緊了那本書。
+雲端數據可以被刪除，被篡改。
+但這本書，它是真實存在的。
+「這是我的記憶，」我對著無人機說，「你們刪不掉。」
+我開始奔跑，為了保護世界上最後的真實。`,
+            en: `Era of Digital Immortality. Info streamed to cyber-eyes.
+Cutting trees is unexpected death penalty. Paper is dirty relic.
+
+Exploring ruins, kicked a metal box.
+Inside, a white rectangular block.
+Made of thin slices.
+Scanner: [Unknown Organic Matter].
+
+I flipped a slice.
+*Rustle*.
+Strange sensation on fingertips. Rough, real, warm.
+I smelled it.
+Soil? Sunlight?
+I couldn't read the symbols (ancient text), but looking at the ink, a sleeping part of my brain woke up.
+
+Alarm blared.
+Drones found me.
+"Drop the contraband!" Voice warned. "Possession of unmoderated physical media!"
+
+I hugged the book.
+Cloud data can be deleted, edited.
+But this book exists.
+"This is memory," I said to the drone. "You can't delete it."
+I ran, protecting the last reality.`,
+            ja: `デジタル不死の時代。情報は義眼に直結。
+森林伐採は死刑。紙は汚れた遺物。
+
+廃墟探索中、鉄の箱を見つけた。
+中に白い直方体。
+薄い膜の集まり。
+スキャナー：【未知の有機物】
+
+一枚めくった。
+カサッ。
+指先に走る、粗く、リアルで、温かい感触。
+匂いを嗅ぐ。
+土？太陽？
+文字は読めない。だがインクを見ていると、脳の休眠領域が目覚めた。
+
+警報。
+ドローンだ。
+「禁制品を捨てろ！未検閲の物理メディア所持違反だ！」
+
+私は本を抱きしめた。
+クラウドデータは消せる、改ざんできる。
+だがこれは、ここに在る。
+「これは記憶だ」私は言った。「お前たちには消せない」
+私は走った。最後の真実を守るために。`,
+            ko: `디지털 불멸의 시대. 정보는 의안으로 직송된다.
+벌목은 사형이다. 종이는 더러운 유물이다.
+
+폐허 탐사 중 철 상자를 찾았다.
+안에 흰색 직육면체.
+얇은 겹들의 모임.
+스캐너: [미확인 유기물].
+
+한 장 넘겼다.
+사각.
+손끝에 전해지는 거칠고, 진짜 같고, 따뜻한 감촉.
+냄새를 맡았다.
+흙? 햇살?
+글자는 못 읽는다. 하지만 잉크 자국을 보자 뇌의 잠든 부분이 깨어났다.
+
+경보.
+드론이다.
+"금수품을 버려라! 미검열 물리 매체 소지 죄다!"
+
+나는 책을 끌어안았다.
+클라우드 데이터는 삭제되고 조작된다.
+하지만 이건 실재한다.
+"이건 기억이다." 드론에게 말했다. "너힌 못 지워."
+나는 달렸다. 마지막 진실을 지키기 위해.`
+        }
+    },
+    {
+        id: 'cat-blog',
+        title: {
+            zh: '貓咪的秘密部落格',
+            en: 'The Cat\'s Secret Blog',
+            ja: '猫の秘密ブログ',
+            ko: '고양이의 비밀 블로그'
+        },
+        author: {
+            zh: '毛球大帝',
+            en: 'Emperor Fluff',
+            ja: 'モフモフ帝',
+            ko: '털뭉치 황제'
+        },
+        description: {
+            zh: '不僅僅是照片。他在網路上吐槽你的一切。「奴才今天又買了廉價罐頭，差評。」',
+            en: 'Not just photos. He roasts you online. "Slave bought cheap food again. 1 star."',
+            ja: 'ただの写真じゃない。ネットで君を酷評してる。「下僕がまた安い餌を買った。低評価。」',
+            ko: '사진만이 아니다. 인터넷에서 널 깐다. "집사가 또 싸구려 캔 사옴. 별점 테러."'
+        },
+        tags: ['Comedy', 'Slice of Life'],
+        content: {
+            zh: `我的筆電忘記關了。
+回來時，發現我的貓（布丁）坐在鍵盤上。
+我把牠抱開，正要生氣，卻發現螢幕上開著一個 Blog。
+標題是：【毛球大帝的統治日記】。
+
+最新文章：
+**《關於奴才帶回來的那個新玩具》**
+「愚蠢的人類今天買了一個雷射筆。他以為我不知道那是光？我只是配合他演出。看他像猴子一樣揮舞手臂很有趣。
+評分：3/10。運動量不足。」
+
+上一篇：
+**《廁所大戰》**
+「我在貓砂盆剛拉完，他就鏟走了。他是不是有收集癖？人類真噁心。
+另外，他偷吃我的高級魚乾，還以為我不知道。等他睡著，我要在他枕頭上吐毛球。
+計畫執行時間：凌晨 3 點。」
+
+我顫抖著往下滑，看到了幾千篇文章，記錄了我所有的隱私和蠢事。
+底下還有幾萬個留言，全是用貓語（亂碼）回覆的。
+這時，布丁走過來，冷冷地看了我一眼。
+從喉嚨裡發出一聲：「喵？（你都知道了？）」
+然後牠優雅地伸出爪子，按下了【刪除帳號】鍵。
+牠沒有滅口。牠只是不想讓我蹭牠的流量。`,
+            en: `Left laptop open.
+Came back, cat (Pudding) on keyboard.
+Lifted him. Saw a Blog on screen.
+Title: [Diary of Emperor Fluff].
+
+Latest Post:
+**"The New Toy"**
+"Stupid human bought a laser pointer. Thinks I don't know it's light? I just play along. Funny to watch him wave arms like a monkey.
+Rating: 3/10. Boring."
+
+Previous Post:
+**"Toilet War"**
+"I pooped, he scooped it immediately. Is he a collector? Humans are gross.
+Also, he ate my premium jerky. I saw. Tonight, hairball on his pillow.
+Time: 3 AM."
+
+Reviewing... thousands of posts. All my secrets and stupidity.
+Thousands of comments in Cat Language (gibberish).
+Pudding walked over. Stared coldly.
+"Meow? (You saw?)"
+He gracefully pressed [Delete Account] with a paw.
+He spared me. He just didn't want me to leech his traffic.`,
+            ja: `ノートPCを開きっぱなしにした。
+戻ると猫（プリン）がキーボードに。
+どかすと、ブログが開いていた。
+題名：【モフモフ帝の統治日記】
+
+最新記事：
+**《下僕の新しいおもちゃについて》**
+「愚かな人間がレーザーポインターを買ってきた。光だと知らないとでも？演技してやってるだけだ。猿みたいに腕を振るお前を見るのが面白いからな。
+評価：3/10。運動不足。」
+
+前の記事：
+**《トイレ戦争》**
+「俺がするとすぐ掃除する。収集癖か？気持ち悪い。
+あと、俺の高級ジャーキーを盗み食いしたな。知ってるぞ。寝たら枕に毛玉を吐いてやる。
+実行時刻：午前3時。」
+
+震えながらスクロール。数千の記事。私のプライバシーとバカ話を暴露。
+コメント欄も猫語（意味不明な文字）で埋め尽くされている。
+プリンが来て、冷たく私を見た。
+「ニャ？（バレたか）」
+そして優雅に爪を伸ばし、【アカウント削除】を押した。
+消されはしなかった。ただ彼のPVを稼がせたくないだけのようだ。`,
+            ko: `노트북을 켜두고 나갔다.
+오니 고양이(푸딩)가 키보드 위에 있었다.
+치우니 블로그가 켜져 있었다.
+제목: [털뭉치 황제의 통치 일지].
+
+최신 글:
+**《집사가 사 온 새 장난감에 대하여》**
+"멍청한 인간이 레이저 포인터를 사 왔다. 내가 빛인 줄 모르는 줄 아나? 연기해 주는 거다. 원숭이처럼 팔 흔드는 꼴이 웃겨서.
+평점: 3/10. 노잼."
+
+이전 글:
+**《화장실 전쟁》**
+"내가 싸자마자 퍼갔다. 수집광인가? 역겹다.
+그리고 내 고급 져키 훔쳐먹더라. 다 봤다. 잘 때 베개에 토해놓을 거다.
+실행 시간: 새벽 3시."
+
+떨며 스크롤을 내렸다. 수천 개의 글. 내 사생활과 멍청한 짓이 다 적혀 있었다.
+댓글도 수만 개(고양이 언어라 못 읽음).
+푸딩이 다가와 차갑게 봤다.
+"냐옹? (봤냐?)"
+녀석은 우아하게 발톱으로 [계정 삭제]를 눌렀다.
+날 죽이진 않았다. 그냥 자기 조회수 빨아먹는 게 싫었던 거다.`
+        }
     }
 ];
