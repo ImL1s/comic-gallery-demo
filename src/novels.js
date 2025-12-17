@@ -5828,5 +5828,541 @@ GPS: "You're welcome. Don't forget 5 stars."`,
 "고맙다."
 내비: "별말씀을요. 별점 5점 잊지 마세요."`
         }
+    },
+    {
+        id: 'ant-god',
+        title: {
+            zh: '螞蟻的神',
+            en: 'The Ant God',
+            ja: 'アリの神様',
+            ko: '개미의 신'
+        },
+        author: {
+            zh: '微觀觀察者',
+            en: 'Micro-Observer',
+            ja: 'ミクロ観察者',
+            ko: '미시 관찰자'
+        },
+        description: {
+            zh: '他們崇拜那個從天而降的巨大粉色球體。直到有一天，下一場雨把它溶化了。',
+            en: 'They worshipped the giant pink sphere from the sky. Until rain melted it away.',
+            ja: '彼らは空から落ちてきた巨大なピンクの球体を崇拝した。雨がそれを溶かすまでは。',
+            ko: '그들은 하늘에서 떨어진 거대한 분홍색 구체를 숭배했다. 비가 내려 그게 녹아버리기 전까진.'
+        },
+        tags: ['Philosophy', 'Sci-Fi'],
+        content: {
+            zh: `第七殖民地的螞蟻們發現了一個神蹟。
+一個巨大的、粉红色的、散髮著甜美香氣的球體，突然出現在廣場中央。
+大祭司（一隻老兵蟻）宣佈：「這是天神賜予的聖物！它象徵著永恆的甜蜜和富足！」
+於是以此為中心，螞蟻們建立了宏偉的神廟。每天朝拜，只能輕輕舔舐一口作為聖餐。
+
+這種和平持續了三天。
+直到那場毀滅性的暴雨。
+洪水過後，螞蟻們驚恐地發現，神消失了。只剩下一灘粉紅色的黏液。
+「神拋棄了我們！」
+「神死了！」
+恐慌。暴動。信仰崩塌。
+
+而在幾百公尺的高空（人類視角）。
+一個小男孩哭著對媽媽說：「我的草莓棒棒糖掉在地上了... 被雨淋化了...」
+媽媽摸摸他的頭：「沒關係，可能有些小蟲子吃得很開心呢。」
+
+螞蟻們不知道，他們的「神」只是一顆受潮的糖果。
+但那三天的甜蜜，是真實存在的。`,
+            en: `Colony 7 ants found a Miracle.
+A giant, pink, sweet-smelling sphere appeared in the plaza.
+High Priest (Old Soldier Ant): "A Holy Artifact from the Sky God! Symbol of Eternal Sweetness!"
+They built a temple. Worshipped daily. Only one lick allowed as communion.
+
+Peace lasted 3 days.
+Then came the Great Rain.
+After the flood, ants were horrified. God vanished. Only pink goo remained.
+"God abandoned us!"
+"God is dead!"
+Panic. Riots. Faith collapsed.
+
+Hundreds of meters above (Human View).
+A boy crying to Mom: "My strawberry lollipop fell... rain melted it..."
+Mom patted him: "It's okay. Maybe some bugs enjoyed it."
+
+Ants didn't know their "God" was just wet candy.
+But the sweetness of those 3 days was real.`,
+            ja: `第7コロニーのアリたちは奇跡を発見した。
+巨大で、ピンク色で、甘い香りを放つ球体が広場に現れたのだ。
+大司祭（老兵アリ）は宣言した。「これは天の神からの聖遺物だ！永遠の甘美と豊饒の象徴である！」
+神殿が建てられた。毎日礼拝し、聖餐として一口だけ舐めることが許された。
+
+平和は3日続いた。
+あの大雨が来るまでは。
+洪水のあと、アリたちは戦慄した。神が消えた。ピンクのネバネバだけが残っていた。
+「神に見捨てられた！」
+「神は死んだ！」
+パニック。暴動。信仰の崩壊。
+
+数百メートル上空（人間視点）。
+男の子が母に泣きつく。「僕のイチゴキャンディ落としちゃった...雨で溶けちゃった...」
+母は頭を撫でる。「大丈夫。きっと虫さんたちが美味しく食べたわよ。」
+
+アリたちは知らない。彼らの「神」がただの湿気た飴玉だったことを。
+だが、あの3日間の甘さは、本物だった。`,
+            ko: `제7 식민지의 개미들은 기적을 발견했다.
+거대하고, 분홍색이며, 달콤한 향기가 나는 구체가 광장에 나타난 것이다.
+대사제(노장 개미)가 선언했다: "이것은 천신이 내린 성물이다! 영원한 달콤함과 풍요의 상징이다!"
+그들은 신전을 세웠다. 매일 예배하고, 성찬으로 딱 한 번 핥는 것만 허용되었다.
+
+평화는 3일간 지속됐다.
+그 폭우가 오기 전까진.
+홍수 후, 개미들은 경악했다. 신이 사라졌다. 분홍색 끈적한 액체만 남았다.
+"신이 우릴 버렸다!"
+"신은 죽었다!"
+패닉. 폭동. 신앙 붕괴.
+
+수백 미터 상공(인간 시점).
+한 소년이 엄마에게 운다: "내 딸기 사탕 떨어뜨렸어... 비 맞아서 녹았어..."
+엄마가 머리를 쓰다듬는다: "괜찮아. 아마 어떤 벌레들이 아주 맛있게 먹었을 거야."
+
+개미들은 모른다. 그들의 '신'이 그저 젖은 사탕이었다는 걸.
+하지만 그 3일간의 달콤함만은, 진짜였다.`
+        }
+    },
+    {
+        id: 'planet-realtor',
+        title: {
+            zh: '星球房仲',
+            en: 'The Planet Realtor',
+            ja: '惑星の不動産屋',
+            ko: '행성 부동산 중개인'
+        },
+        author: {
+            zh: '銀河置業',
+            en: 'Galaxy Estates',
+            ja: '銀河不動産',
+            ko: '갤럭시 부동산'
+        },
+        description: {
+            zh: '「這顆藍色星球這幾折？」「五折。前任房客（恐龍）遇到了隕石事故。現任房客（人類）有點吵，在大掃除。」',
+            en: '"Discount on this blue one?" "50% off. Previous tenants (Dinos) had meteor issue. Current ones (Humans) are noisy, remodeling." ',
+            ja: '「この青い星、安いの？」「半額です。前の住人（恐竜）が隕石事故に。今の住人（人間）はうるさいですが、改装中です。」',
+            ko: ' "이 파란 행성 할인돼요?" "반값입니다. 전 세입자(공룡)가 운석 사고를 당해서요. 현 세입자(인간)가 좀 시끄럽긴 한데, 리모델링 중입니다."'
+        },
+        tags: ['Sci-Fi', 'Satire'],
+        content: {
+            zh: `我是銀河系金牌房仲。今天帶一個矽基生命體客戶看房。
+
+「這顆火星怎麼樣？」我熱情介紹，「紅色沙漠風，絕對乾燥，適合喜歡日光浴的客戶。唯一的缺點是早晚溫差大，大概幾百度吧。」
+客戶觸手擺動了一下：「太荒涼了。有沒有熱鬧一點的？」
+
+我嘆了口氣，拿出壓箱寶。「這顆，地球。我們叫它『藍寶石』。70% 的水覆蓋，自帶大氣層防護罩。」
+客戶感興趣了：「看起來不錯。為什麼這麼便宜？」
+我咳了一聲：「嗯... 風水有點問題。上一任也是大戶人家，叫恐龍，住了幾億年，結果一顆隕石下來，全滅門了。凶宅。」
+客戶：「哦... 那現在呢？」
+我：「現在住著一種叫『人類』的小型碳基生物。繁殖快，愛折騰。最近他們在搞什麼『溫室效應』，相當於免費幫您裝了地暖。」
+客戶：「地暖？不錯。那我可以買下來把他們清走嗎？」
+我：「合約規定，坐等他們自己把自己搞滅絕就行，大概再等個幾百年吧。入手即可入住。」
+客戶：「成交。」
+
+我們簽了約。
+地球人還在為房價煩惱，卻不知道整個地球已經被賣掉了。`,
+            en: `I'm a Top Galaxy Realtor. Showing a Silicon-based client around.
+
+"How about Mars?" I pitched. "Red Desert Style. Super dry. Great for sunbathing. Con: Temperature swings a few hundred degrees."
+Client waved tentacles: "Too desolate. Anything livelier?"
+
+I sighed. Pulled out the hidden gem. "This one. Earth. We call it 'The Sapphire'. 70% water, comes with Atmosphere Shield."
+Client interested: "Looks good. Why so cheap?"
+Me: "Well... bad Feng Shui. Previous tenants, Dinosaurs, lived for millions of years. Then Boom. Meteor. Total wipeout. Current status: Haunted Property."
+Client: "Oh... and now?"
+Me: "Infested with small Carbon-based lifeforms called 'Humans'. Fast breeders. Noisy. Recently they installed 'Global Warming', which is basically free floor heating for you."
+Client: "Floor heating? Nice. Can I buy and evict them?"
+Me: "Contract says just wait. They are working hard on evicting themselves. Wait a few centuries. Turnkey ready."
+Client: "Dealed."
+
+We signed.
+Humans worry about house prices, unaware Earth just got sold.`,
+            ja: `私は銀河のトップ不動産屋。今日はケイ素生命体のお客様をご案内。
+
+「この火星は？」熱弁する。「赤の砂漠スタイル。乾燥していて日光浴に最適。難点は昼夜の気温差が数百道あることですね。」
+客は触手を振った。「殺風景だ。もっと賑やかなのは？」
+
+私はため息をつき、とっておきを出した。「こちら、地球。『サファイア』と呼んでいます。水70%、大気シールド付き。」
+客は興味津々。「良さそうだ。なぜこんなに安い？」
+私：「ええと...事故物件でして。前の住人、恐竜様は億単位で住んでましたが、隕石直撃で全滅。わくらしいです。」
+客：「ほう...で、今は？」
+私：「『人間』という小型炭素生物が巣食っています。繁殖が早く、騒がしい。最近『温暖化』という無料の床暖房システムを導入中です。」
+客：「床暖房？いいな。買って駆除しても？」
+私：「契約上、彼らが自滅するのを待つだけでOKです。あと数百年でしょう。即入居可になります。」
+客：「買った。」
+
+契約成立。
+地球人は地価を気にしているが、地球ごと売られたことには気づいていない。`,
+            ko: `난 은하계 1타 부동산 중개인. 오늘 규소 생명체 손님 안내 중.
+
+"이 화성 어떠세요?" 열정적으로 소개. "레드 데저트 스타일. 완전 건조. 일광욕 딱이죠. 단점은 일교차가 몇백 도 정도?"
+손님이 촉수를 흔듬: "너무 휑해. 좀 활기찬 거 없어?"
+
+한숨 쉬고 숨겨둔 매물 꺼냄. "이거요. 지구. 우린 '사파이어'라고 부르죠. 물 70%, 대기권 쉴드 옵션 포함."
+손님 흥미 보임: "좋네. 왜 이렇게 싸?"
+나: "음... 터가 좀 안 좋아요. 전 세입자 공룡이라고, 꽤 오래 살았는데 운석 맞고 전멸했거든요. 흉가죠."
+손님: "아... 지금은?"
+나: "'인간'이라는 소형 탄소 생명체가 바글거립니다. 번식 빠르고 시끄러워요. 최근에 '지구온난화'라고 무료 바닥 난방을 깔고 있죠."
+손님: "바닥 난방? 굿. 사서 쫓아내도 돼?"
+나: "계약상, 쟤네가 알아서 멸망할 때까지 기다리시면 됩니다. 몇백 년 안 걸려요. 입주 청소 필요 없음."
+손님: "계약해."
+
+계약 완료.
+인간들은 집값 걱정하지만, 정작 지구가 통째로 팔린 건 모른다.`
+        }
+    },
+    {
+        id: 'dust-war',
+        title: {
+            zh: '灰塵兔戰爭',
+            en: 'The Dust Bunny War',
+            ja: 'ホコリうさぎ戦争',
+            ko: '먼지 토끼 전쟁'
+        },
+        author: {
+            zh: '床底下的勇者',
+            en: 'Underbed Hero',
+            ja: 'ベッド下の勇者',
+            ko: '침대 밑 용사'
+        },
+        description: {
+            zh: '你床底下的灰塵不是靜止的。它們是一個文明，正在抵禦名為「戴森」的機械巨獸的吞噬。',
+            en: 'Dust under your bed isn\'t still. It\'s a civilization, fighting the mechanical beast named "Dyson".',
+            ja: 'ベッド下のホコリは静止していない。それは文明であり、「ダイソン」という機械獣の捕食と戦っている。',
+            ko: '네 침대 밑 먼지는 가만히 있는 게 아니다. 그건 문명이고, "다이슨"이라는 기계 괴수의 포식에 맞서 싸우고 있다.'
+        },
+        tags: ['Fantasy', 'Action'],
+        content: {
+            zh: `我是灰塵王國的騎士團長。
+我們的疆土是這張巨大的 King Size 床底。
+我們的子民是由毛髮、皮屑和棉絮組成的「灰塵兔」。
+
+今天，警報再次響起。
+轟隆隆隆——
+大地顫抖。那頭巨獸來了。它的名字叫「戴森 V12」。
+它擁有無盡的吸力，它的咆哮能震碎我們的靈魂。
+「守住陣線！」我揮舞著我的武器（一根貓鬍鬚）。
+「為了王國！」士兵們（比較大團的灰塵）結成方陣，試圖用重量抵抗吸力。
+
+巨獸的長鼻伸了進來，橫掃一切。
+我的戰友被吸上了天空，發出無聲的慘叫。
+「抓住地毯！」我大吼。我們死死抓住地毯的纖維。
+巨獸在我們頭頂盤旋，像飢餓的鯊魚。
+最終，它離開了。大概是因為電池沒電了。
+
+我們活下來了。
+我看著殘破的家園，只有以前的一半大小。
+但只要那個人類還懶得拖地，我們就能重建。
+灰塵生生不息。`,
+            en: `I am Knight Captain of the Dust Kingdom.
+Territory: Under the King Size Bed.
+Citizens: "Dust Bunnies" made of hair, skin cells, and lint.
+
+Today, sirens blared.
+Rumble——
+Ground shook. The Beast is here. Its name: "Dyson V12".
+Infinite suction. Roar that shatters souls.
+"Hold the Line!" I waved my weapon (a Cat Whisker).
+"For the Kingdom!" Soldiers (larger dust clumps) formed a phalanx, using weight to resist.
+
+The Beast's trunk swept in.
+Comrades sucked into the sky, screaming silently.
+"Grab the Carpet!" I yelled. We clung to fibers for dear life.
+The Beast circled like a hungry shark.
+Finally, it left. Probably out of battery.
+
+We survived.
+I looked at our ruined home, half its size.
+But as long as the Human is too lazy to mop, we rebuild.
+Dust is eternal.`,
+            ja: `私はホコリ王国の騎士団長。
+領土は、このキングサイズベッドの下。
+民は、髪の毛、皮膚片、糸くずで構成された「ホコリうさぎ」たちだ。
+
+今日、警報が鳴った。
+ゴゴゴゴ——
+大地が揺れる。あの獣が来た。名は「ダイソン V12」。
+無限の吸引力。魂を砕く咆哮。
+「ラインを死守せよ！」私は武器（猫のヒゲ）を振るった。
+「王国の為に！」兵士たち（デカいホコリ）は密集陣形を組み、重さで抵抗した。
+
+獣の長い鼻が入り込み、全てを薙ぎ払う。
+戦友が空へと吸い上げられ、声なき悲鳴を上げた。
+「カーペットを掴め！」叫ぶ。我々は繊維にしがみついた。
+獣は飢えたサメのように旋回した。
+ついに、去った。たぶん充電切れだ。
+
+生き残った。
+壊滅した故郷を見る。かつての半分のサイズだ。
+だが人間がモップがけをサボる限り、我々は再建する。
+ホコリは永遠なり。`,
+            ko: `나는 먼지 왕국의 기사단장.
+영토: 킹사이즈 침대 밑.
+국민: 머리카락, 각질, 보풀로 이루어진 "먼지 토끼"들.
+
+오늘, 경보가 울렸다.
+쿠쿠쿠쿵——
+땅이 흔들린다. 그 괴수가 왔다. 이름은 "다이슨 V12".
+무한한 흡입력. 영혼을 부수는 굉음.
+"전선을 사수하라!" 난 무기(고양이 수염)를 휘둘렀다.
+"왕국을 위하여!" 병사들(큰 먼지 덩어리)이 방진을 짜고 무게로 버텼다.
+
+괴수의 긴 코가 들어와 휩쓸었다.
+전우들이 하늘로 빨려 올라가며 소리 없는 비명을 질렀다.
+"카펫 잡아!" 난 소리쳤다. 우린 카펫 섬유를 죽기 살기로 붙잡았다.
+괴수는 굶주린 상어처럼 배회했다.
+마침내 떠났다. 아마 배터리 방전이다.
+
+살아남았다.
+반토막 난 고향을 본다.
+하지만 인간이 걸레질을 귀찮아하는 한, 우린 재건한다.
+먼지는 영원하리라.`
+        }
+    },
+    {
+        id: 'star-catcher',
+        title: {
+            zh: '捕星人',
+            en: 'The Star Catcher',
+            ja: '星捕り',
+            ko: '별을 잡는 사람'
+        },
+        author: {
+            zh: '夜班工作者',
+            en: 'Night Shift',
+            ja: '夜勤',
+            ko: '야간 근무'
+        },
+        description: {
+            zh: '流星如果在落地前接住，願望就會成真。如果落地了，就會變成普通的石頭。我的工作就是接住它們。',
+            en: 'If you catch a shooting star before it lands, the wish comes true. If it lands, it\'s just a rock. I catch them.',
+            ja: '流れ星は着地前に捕まえれば願いが叶う。落ちればただの石だ。私の仕事は、それを捕まえること。',
+            ko: '별똥별이 땅에 닿기 전에 잡으면 소원이 이뤄진다. 닿으면 그냥 돌멩이다. 내 직업은 그걸 잡는 거다.'
+        },
+        tags: ['Fantasy', 'Warm'],
+        content: {
+            zh: `我拿著一個巨大的捕蟲網，站在最高的山頂上。
+我是「捕星人」。
+這是一份公務員工作，雖然薪水不高，但福利是不會有光害。
+
+咻——
+一顆流星划過。我縱身一躍，網子一揮。
+咚。捕捉成功。
+那顆星在網裡發出暖暖的微光，還在輕輕顫動。
+我小心翼翼地把它裝進玻璃罐。
+這顆星裡承載著什麼願望呢？
+我看標籤：「希望明天數學考試及格」。
+「小意思。」我笑著把它放進「已批准」的箱子裡。
+
+又一顆。這顆很大，很沈重，光芒是暗紅色的。
+我差點沒接住。
+標籤上寫著：「希望媽媽的病能好起來」。
+我感覺到了它的重量。那是眼淚的重量。
+我把它擦亮，讓它最亮的光芒照射向大地。
+「去吧，」我輕聲說，「這個願望必须實現。」
+我把它用力拋回天空，它化作一道金光飛向遠方。
+
+有些星星我接不住。它們變成了隕石坑。
+但我會盡力多接一顆。
+因為我知道，每顆星星背後，都有一個仰望夜空的人。`,
+            en: `Holding a giant butterfly net, standing on the highest peak.
+I am a "Star Catcher".
+Civil servant job. Low pay, but benefit is zero light pollution.
+
+Whoosh——
+Shooting star. I leaped, swung the net.
+Thump. Caught.
+It glowed warmly in the net, vibrating gently.
+Carefully put it in a glass jar.
+What wish is inside?
+read tag: "Hope to pass Math test tomorrow."
+"Easy." I smiled, putting it in "Approved" box.
+
+Another one. Big, heavy, dark red glow.
+Almost missed it.
+Tag: "Hope Mom gets better."
+I felt its weight. Weight of tears.
+I polished it, making it shine brightest.
+"Go," I whispered. "This one MUST come true."
+Threw it hard back to sky. It turned into gold light and flew away.
+
+Some stars I miss. They become craters.
+But I try to catch one more.
+Because behind every star, there is someone looking up.`,
+            ja: `巨大な虫取り網を持ち、最高峰に立つ。
+私は「星捕り」。
+公務員だ。給料は安いが、福利厚生は「光害ゼロ」だ。
+
+ヒュン——
+流れ星。ジャンプし、網を振る。
+トン。捕獲成功。
+星は網の中で温かく光り、震えている。
+慎重にガラス瓶に入れる。
+どんな願いだ？
+タグを見る：「明日の数学テスト合格しますように」。
+「お安い御用だ」笑って「承認済み」箱へ。
+
+また一つ。デカい。重い。暗赤色の光。
+取り逃がすところだった。
+タグ：「ママの病気が治りますように」。
+重さを感じた。涙の重さだ。
+磨いて、一番明るく輝かせた。
+「行け」囁く。「これは絶対叶えなきゃ。」
+空へ投げ返す。黄金の光となって飛んでいった。
+
+捕れない星もある。それらはクレーターになる。
+だが、一つでも多く捕る。
+全ての星の裏で、誰かが夜空を見上げていると知っているから。`,
+            ko: `거대한 잠자리채 들고, 제일 높은 산꼭대기에 서 있다.
+난 "별 사냥꾼".
+공무원이다. 박봉이지만, 복지가 '광공해 없음'이다.
+
+슈웅——
+별똥별. 점프해서 채를 휘둘렀다.
+퉁. 포획 성공.
+별이 망 안에서 따뜻하게 빛나며 떨고 있다.
+조심조심 유리병에 담는다.
+무슨 소원일까?
+태그 읽음: "내일 수학 시험 합격하게 해주세요."
+"귀엽네." 웃으며 '승인' 박스에 넣었다.
+
+또 하나. 크다. 무겁다. 검붉은 빛.
+놓칠 뻔했다.
+태그: "엄마 병 낫게 해주세요."
+무게가 느껴졌다. 눈물의 무게다.
+닦아서 제일 밝게 빛나게 했다.
+"가라," 속삭였다. "이건 무조건 이뤄져야 해."
+하늘로 힘껏 던졌다. 금빛이 되어 날아갔다.
+
+못 잡는 별도 있다. 그건 운석 구덩이가 된다.
+하지만 하나라도 더 잡으려 한다.
+모든 별 뒤에, 밤하늘을 올려다보는 누군가가 있다는 걸 아니까.`
+        }
+    },
+    {
+        id: 'pocket-blackhole',
+        title: {
+            zh: '口袋裡的黑洞',
+            en: 'Pocket Black Hole',
+            ja: 'ポケットのブラックホール',
+            ko: '주머니 속 블랙홀'
+        },
+        author: {
+            zh: '物理學博士',
+            en: 'Physics PhD',
+            ja: '物理学博士',
+            ko: '물리학 박사'
+        },
+        description: {
+            zh: '我的牛仔褲口袋連接著一個微型黑洞。它吃掉了我的鑰匙、耳機，但有一天，它幫我吃掉了停車罰單。',
+            en: 'My jeans pocket connects to a mini black hole. Ate keys, earphones. But one day, it ate my parking ticket.',
+            ja: 'ジーンズのポケットはミニブラックホールに繋がっている。鍵もイヤホンも食われた。だがある日、駐車違反切符を食ってくれた。',
+            ko: '내 청바지 주머니는 미니 블랙홀이랑 연결돼 있다. 열쇠, 이어폰 다 먹혔다. 근데 어느 날, 주차 위반 딱지를 먹어줬다.'
+        },
+        tags: ['Sci-Fi', 'Comedy'],
+        content: {
+            zh: `這條牛仔褲打五折買的。標籤上寫著「瑕疵品：口袋空間不穩定」。
+我以為只是破洞，結果是個奇點。
+
+第一週，我丟了三把家裡鑰匙，兩個無線耳機（還是左耳）。
+我伸手進去摸，摸不到底，手指感到一陣冰冷的吸力。
+物理系的朋友說：「酷，史瓦西半徑在你的褲檔裡。」
+
+我很困擾，直到昨天。
+交警給我貼了一張違停罰單。200 美金。
+我氣得發抖，隨手把罰單塞進口袋。
+「咻。」
+沒了。
+我不信邪。我又塞了一張過期的健身房賬單。
+「咻。」
+沒了。
+
+我發現了新大陸。
+討厭的情書？咻。
+前任的照片？咻。
+寫壞的代碼？咻。
+老闆的「緊急任務清單」？如果不小心掉進去... 哎呀，太不小心了。咻。
+
+現在我是世界上最快樂的人。
+只要我不把手放進去太深（可能會被吸到平行宇宙），這條褲子就是神器。
+唯一的缺點是，我現在出門必須把手機掛脖子上。`,
+            en: `Bought jeans 50% off. Tag: "Defect: Unstable Pocket Space".
+Thought it was a hole. It was a Singularity.
+
+Week 1: Lost 3 house keys, 2 avg airpods (Left ones).
+Reached in. No bottom. Cold suction felt.
+Physics friend: "Cool. Schwarzschild radius in your crotch."
+
+Annoyed until yesterday.
+Cop gave parking ticket. $200.
+Furious, shoved ticket in pocket.
+"Whoosh."
+Gone.
+Tested with expired gym bill.
+"Whoosh."
+Gone.
+
+Epiphany.
+Cringy love letter? Whoosh.
+Photo of Ex? Whoosh.
+Bad code? Whoosh.
+Boss's "Urgent Task List"? Oops, dropped it. Whoosh.
+
+I am now the happiest man alive.
+As long as I don't reach too deep (might get sucked to parallel universe), these pants are God-tier.
+Only con: Must wear phone on neck lanyard now.`,
+            ja: `ジーンズを半額で買った。タグ：「訳あり：ポケット空間不安定」。
+穴あきかと思ったら、特異点だった。
+
+1週目。家の鍵3本、イヤホン2個（左耳）紛失。
+手を入れる。底がない。冷たい吸引力を感じる。
+物理学科の友：「すげえ。股間にシュワルツシルト半径がある。」
+
+困っていたが、昨日変わった。
+駐禁切符を切られた。2万画。
+キレて切符をポケットに突っ込んだ。
+「ヒュン。」
+消えた。
+期限切れのジム請求書で試した。
+「ヒュン。」
+消えた。
+
+新大陸発見。
+黒歴史の手紙？ヒュン。
+元カノの写真？ヒュン。
+クソコード？ヒュン。
+上司の「緊急タスクリスト」？あ、落ちちゃった。ヒュン。
+
+今、私は世界一幸せだ。
+手を深く入れすぎなければ（平行世界に吸われるかも）、このパンツは神器だ。
+欠点：スマホを首から下げなきゃいけないことだけ。`,
+            ko: `청바지 반값 구매. 태그: "하자: 주머니 공간 불안정".
+구멍 난 줄. 알고 보니 특이점이었음.
+
+1주 차. 집 열쇠 3개, 에어팟 2개(왼쪽만) 분실.
+손 넣음. 바닥 없음. 차가운 흡입력 느껴짐.
+물리학과 친구: "쩐다. 네 사타구니에 슈바르츠실트 반경 있음."
+
+짜증 났는데, 어제 바꿤.
+주차 딱지 떼임. 20만 원.
+열받아서 딱지 주머니에 쑤셔 넣음.
+"슈웅."
+사라짐.
+연체된 헬스장 고지서로 실험.
+"슈웅."
+사라짐.
+
+유레카.
+오글거리는 러브레터? 슈웅.
+전 여친 사진? 슈웅.
+망한 코드? 슈웅.
+상사의 "긴급 업무 리스트"? 어이쿠, 떨어뜨렸네. 슈웅.
+
+난 이제 세상에서 제일 행복함.
+손 너무 깊게 안 넣으면(평행우주로 빨려 갈 수도), 이 바지 신의 아이템임.
+단점: 이제 폰 목걸이 하고 다녀야 함.`
+        }
     }
 ];
