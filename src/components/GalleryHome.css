@@ -1,100 +1,200 @@
-.gallery-home {
-    max-width: 1200px;
+.gallery-container {
+    max-width: 900px;
     margin: 0 auto;
     padding: 2rem;
-    font-family: 'Inter', system-ui, sans-serif;
-    color: #333;
-}
-
-.gallery-header {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding-bottom: 2rem;
-    border-bottom: 2px solid #eee;
-}
-
-.gallery-header h1 {
-    font-size: 3rem;
-    color: #2c3e50;
-    margin-bottom: 0.5rem;
-}
-
-.gallery-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 2rem;
-    padding: 1rem 0;
-}
-
-.gallery-card-link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.gallery-card {
-    background: white;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s, box-shadow 0.2s;
-    height: 100%;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
 
-.gallery-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
-}
-
-.card-image {
-    width: 100%;
-    aspect-ratio: 1;
-    /* Square thumbnail */
-    overflow: hidden;
-    background: #f8f9fa;
+.gallery-header {
+    text-align: center;
+    margin-bottom: 2rem;
     position: relative;
+    padding-top: 1rem;
 }
 
-.card-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+.gallery-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: #2c3e50;
+    font-weight: 800;
 }
 
-.lang-badge {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background: rgba(0, 0, 0, 0.7);
-    color: white;
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 0.8rem;
-    font-weight: bold;
+.subtitle {
+    font-size: 1.1rem;
+    color: #666;
+    letter-spacing: 1px;
 }
 
-.card-content {
-    padding: 1.5rem;
-    flex-grow: 1;
+/* Tabs */
+.gallery-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
 }
 
-.card-content h3 {
-    margin: 0 0 0.5rem 0;
-    font-size: 1.4rem;
+.tab-button {
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid transparent;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    color: #888;
+    transition: all 0.3s;
+}
+
+.tab-button.active {
+    color: #2c3e50;
+    border-bottom-color: #2c3e50;
+}
+
+.tab-button:hover {
     color: #2c3e50;
 }
 
-.card-content .author {
-    color: #7f8c8d;
-    font-size: 0.9rem;
-    margin-bottom: 1rem;
-    font-style: italic;
+/* Grid */
+.comic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    flex: 1;
 }
 
-.card-content .description {
+/* Card Common */
+.comic-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f0f0f0;
+}
+
+.comic-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Image Card (Comic) */
+.card-image-wrapper {
+    position: relative;
+    padding-top: 75%;
+    /* 4:3 Aspect Ratio */
+    background: #f8f8f8;
+    overflow: hidden;
+}
+
+.card-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.comic-card:hover .card-image {
+    transform: scale(1.05);
+}
+
+.card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.card-overlay span {
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    padding: 5px 15px;
+    border-radius: 20px;
+}
+
+.comic-card:hover .card-overlay {
+    opacity: 1;
+}
+
+/* Info Section */
+.card-info {
+    padding: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.card-info h2 {
+    font-size: 1.25rem;
+    margin: 0 0 0.5rem 0;
+    color: #333;
+}
+
+.author {
+    font-size: 0.9rem;
+    color: #888;
+    margin: 0;
+}
+
+.tags {
+    margin-top: 0.8rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag-lang {
+    font-size: 0.75rem;
+    background: #eef2f5;
     color: #555;
-    font-size: 1rem;
+    padding: 2px 8px;
+    border-radius: 4px;
+}
+
+/* Novel Card Specific */
+.novel-card {
+    min-height: 200px;
+    border-left: 5px solid #2c3e50;
+}
+
+.novel-info-full {
+    justify-content: flex-start;
+}
+
+.novel-tags-list {
+    margin-bottom: 0.5rem;
+}
+
+.novel-tags-list .tag {
+    background: #f0f0f0;
+    color: #666;
+    font-size: 0.7rem;
+    margin-right: 5px;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.novel-desc {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 1rem;
     line-height: 1.5;
     display: -webkit-box;
     -webkit-line-clamp: 3;
@@ -102,10 +202,26 @@
     overflow: hidden;
 }
 
+/* Footer */
 .gallery-footer {
     text-align: center;
-    margin-top: 4rem;
-    color: #95a5a6;
-    border-top: 1px solid #eee;
+    margin-top: 3rem;
     padding-top: 2rem;
+    border-top: 1px solid #eee;
+    color: #aaa;
+    font-size: 0.9rem;
+}
+
+@media (max-width: 600px) {
+    .gallery-container {
+        padding: 1rem;
+    }
+
+    .comic-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .gallery-header h1 {
+        font-size: 1.8rem;
+    }
 }

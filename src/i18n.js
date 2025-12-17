@@ -16,7 +16,10 @@ const resources = {
             "ad_bottom_label": "[Bottom Ad Slot] Thanks for watching",
             "donate_button": "☕ Buy me a coffee",
             "donate_message": "Your support keeps the creativity flowing!",
-            "footer_text": "AI Generated • Multilingual Stories • React Powered"
+            "footer_text": "AI Generated • Multilingual Stories • React Powered",
+            "menu_comic": "Comics",
+            "menu_novel": "Novels",
+            "read_now": "Read Now"
         }
     },
     zh: {
@@ -33,7 +36,10 @@ const resources = {
             "ad_bottom_label": "[底部廣告位] 感謝您的觀看",
             "donate_button": "☕ 請作者喝杯咖啡",
             "donate_message": "您的支持是創作的最大動力！",
-            "footer_text": "AI 生成圖像 • 多語系故事 • React 驅動"
+            "footer_text": "AI 生成圖像 • 多語系故事 • React 驅動",
+            "menu_comic": "漫畫",
+            "menu_novel": "小說",
+            "read_now": "立即閱讀"
         }
     },
     ja: {
@@ -50,7 +56,10 @@ const resources = {
             "ad_bottom_label": "[広告] ご覧いただきありがとうございます",
             "donate_button": "☕ コーヒーを奢る",
             "donate_message": "創作の励みになります！",
-            "footer_text": "AI画像生成 • 多言語ストーリー • React製"
+            "footer_text": "AI画像生成 • 多言語ストーリー • React製",
+            "menu_comic": "漫画",
+            "menu_novel": "小説",
+            "read_now": "今すぐ読む"
         }
     },
     ko: {
@@ -67,7 +76,10 @@ const resources = {
             "ad_bottom_label": "[광고] 시청해 주셔서 감사합니다",
             "donate_button": "☕ 커피 한 잔 후원",
             "donate_message": "여러분의 후원이 창작의 원동력이 됩니다!",
-            "footer_text": "AI 이미지 생성 • 다국어 스토리 • React 기반"
+            "footer_text": "AI 이미지 생성 • 다국어 스토리 • React 기반",
+            "menu_comic": "만화",
+            "menu_novel": "소설",
+            "read_now": "지금 읽기"
         }
     }
 };

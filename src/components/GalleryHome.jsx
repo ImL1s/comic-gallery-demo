@@ -1,54 +1,111 @@
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import './GalleryHome.css';
 import { comics } from '../comics';
-import SEOHead from './SEOHead';
+import { novels } from '../novels';
+import { SEOHead } from './SEOHead';
 import { AdPlaceholder } from './Monetization';
 import { LanguageSelector } from './LanguageSelector';
+import './GalleryHome.css';
 
-export const GalleryHome = () => {
+const GalleryHome = () => {
     const { t, i18n } = useTranslation();
-    const lang = i18n.language; // 'zh' or 'en' of i18next
+    const [activeTab, setActiveTab] = useState('comic'); // 'comic' or 'novel'
+
+    const currentLang = i18n.language; // 'en', 'zh', 'ja', 'ko'
 
     return (
-        <div className="gallery-home">
+        <div className="gallery-container">
             <SEOHead
                 title={t('gallery_title')}
                 description={t('gallery_subtitle')}
+                image="/comics/cat_gift/cat_gift_panel_1_1765947174196.png"
             />
 
             <header className="gallery-header">
-                <LanguageSelector />
                 <h1>{t('gallery_title')}</h1>
-                <p>{t('gallery_subtitle')}</p>
+                <p className="subtitle">{t('gallery_subtitle')}</p>
+                <LanguageSelector />
             </header>
 
-            <AdPlaceholder label={t('ad_top_label')} />
+            <AdPlaceholder position="top" />
 
-            <div className="gallery-grid">
-                {comics.map(comic => (
-                    <Link to={`/comic/${comic.id}`} key={comic.id} className="gallery-card-link">
-                        <div className="gallery-card">
-                            <div className="card-image">
-                                {/* Use the first panel as the thumbnail */}
-                                <img src={comic.panels[0].image} alt={comic.title[lang]} />
-                                {comic.language && (
-                                    <span className="lang-badge">{comic.language}</span>
-                                )}
-                            </div>
-                            <div className="card-content">
-                                <h3>{comic.title[lang]}</h3>
-                                <p className="author">{t('by_author', { author: comic.author[lang] })}</p>
-                                <p className="description">{comic.description[lang]}</p>
-                            </div>
-                        </div>
-                    </Link>
-                ))}
+            {/* Tab Navigation */}
+            <div className="gallery-tabs">
+                <button
+                    className={`tab-button ${activeTab === 'comic' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('comic')}
+                >
+                    {t('menu_comic')}
+                </button>
+                <button
+                    className={`tab-button ${activeTab === 'novel' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('novel')}
+                >
+                    {t('menu_novel')}
+                </button>
             </div>
 
+            <main className="comic-grid">
+                {activeTab === 'comic' ? (
+                    // Comics List
+                    comics.map((comic) => {
+                        // Fallback to English if translation is missing (though we ensured all exist)
+                        const title = comic.title[currentLang] || comic.title['en'];
+
+                        return (
+                            <Link to={`/comic/${comic.id}`} key={comic.id} className="comic-card">
+                                <div className="card-image-wrapper">
+                                    <img
+                                        src={comic.panels[0].image}
+                                        alt={title}
+                                        className="card-image"
+                                        loading="lazy"
+                                    />
+                                    <div className="card-overlay">
+                                        <span>{t('read_now')}</span>
+                                    </div>
+                                </div>
+                                <div className="card-info">
+                                    <h2>{title}</h2>
+                                    <p className="author">{t('by_author', { author: comic.author[currentLang] || comic.author['en'] })}</p>
+                                    <div className="tags">
+                                        {comic.language && <span className="tag-lang">{comic.language}</span>}
+                                    </div>
+                                </div>
+                            </Link>
+                        );
+                    })
+                ) : (
+                    // Novels List
+                    novels.map((novel) => {
+                        const title = novel.title[currentLang] || novel.title['en'];
+                        const desc = novel.description[currentLang] || novel.description['en'];
+
+                        return (
+                            <Link to={`/novel/${novel.id}`} key={novel.id} className="comic-card novel-card">
+                                <div className="card-info novel-info-full">
+                                    <div className="novel-tags-list">
+                                        {novel.tags.map(tag => <span key={tag} className="tag">{tag}</span>)}
+                                    </div>
+                                    <h2>{title}</h2>
+                                    <p className="novel-desc">{desc}</p>
+                                    <p className="author">{t('by_author', { author: novel.author[currentLang] || novel.author['en'] })}</p>
+                                </div>
+                            </Link>
+                        );
+                    })
+                )}
+            </main>
+
+            <AdPlaceholder position="bottom" />
+
             <footer className="gallery-footer">
-                <p>© 2025 {t('footer_text')}</p>
+                <p>{t('footer_text')}</p>
+                <p>© 2024 Comic Gallery Default</p>
             </footer>
         </div>
     );
 };
+
+export default GalleryHome;

@@ -1,0 +1,95 @@
+.novel-reader-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fcfcfc;
+    min-height: 100vh;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    /* Serif font for better reading experience */
+}
+
+.novel-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 2rem;
+}
+
+.back-button {
+    display: inline-block;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.novel-header h1 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin: 0.5rem 0;
+}
+
+.novel-meta {
+    color: #888;
+    font-style: italic;
+}
+
+.novel-tags {
+    margin-top: 1rem;
+}
+
+.tag {
+    background: #eee;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    margin: 0 4px;
+    color: #555;
+}
+
+.novel-content {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: #333;
+    animation: fadeIn 0.8s ease-in;
+}
+
+.novel-content p {
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+.novel-footer {
+    margin-top: 4rem;
+    text-align: center;
+    color: #aaa;
+    font-size: 0.8rem;
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 600px) {
+    .novel-reader-container {
+        padding: 1.5rem;
+    }
+
+    .novel-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .novel-content {
+        font-size: 1rem;
+    }
+}
