@@ -4607,5 +4607,618 @@ I sip coffee, reply: "Sir, get what you pay for. Want 'Inception'? Upgrade to VI
 컴플레인 들어옴.
 커피 마시며 답장: "고갱님, 싼 게 비지떡이죠. '인셉션' 찍고 싶으시면 VIP 결제하세요."`
         }
+    },
+    {
+        id: 'honest-mirror',
+        title: {
+            zh: '誠實魔鏡',
+            en: 'The Honest Mirror',
+            ja: '正直な鏡',
+            ko: '정직한 거울'
+        },
+        author: {
+            zh: '毒舌家俱',
+            en: 'Sassy Furniture',
+            ja: '毒舌家具',
+            ko: '독설 가구'
+        },
+        description: {
+            zh: '「魔鏡啊魔鏡，誰是世界上最美的人？」「肯定不是你，親愛的。你那件綠色毛衣看起來像發霉的苔蘚。」',
+            en: '"Mirror, mirror, who is the fairest?" "Definitely not you, darling. That green sweater makes you look like moldy moss."',
+            ja: '「鏡よ鏡、世界で一番美しいのは？」「絶対にあんたじゃないわ。その緑のセーター、カビた苔みたいよ。」',
+            ko: ' "거울아 거울아, 세상에서 누가 제일 예쁘니?" "확실히 넌 아냐, 자기야. 그 초록색 스웨터 곰팡이 핀 이끼 같아."'
+        },
+        tags: ['Comedy', 'Fantasy'],
+        content: {
+            zh: `我在跳蚤市場買了一面古董鏡子。
+傳說它是白雪公主那面魔鏡的表弟。但它顯然沒那麼有教養。
+
+第一天早上。
+我：照鏡子，準備上班。
+鏡子：「喔，天哪。你真的要穿這條褲子？它讓你的腿看起來像兩根火腿腸。」
+我：「閉嘴！這是流行！」
+鏡子：「在那個星球流行？豬肉星球嗎？」
+
+第二天晚上。
+我：準備去約會，正在練習微笑。
+鏡子：「別笑了。你看起來像個便秘的連環殺手。」
+我：「我在練習迷人的微笑！」
+鏡子：「那這就是『迷人的連環殺手』。相信我，保持撲克臉，你的成功率會提高 30%。」
+
+第三天。
+我失戀了（果然被鏡子說中了），坐在鏡子前哭。
+我以為它會繼續嘲笑我。
+但鏡子沈默了一會兒。
+然後，鏡面上慢慢浮現出一行字（它居然還能顯示字幕）：
+「別哭了。那個男的的品味比你的那條綠褲子還差。你值得更好的... 雖然你的衣品還是很爛，但你的心是金色的。」
+我破涕為笑：「謝謝你，魔鏡。」
+鏡子：「不用謝。現在，拜託去洗把臉。你的鼻涕黏在我的玻璃上了，噁心死了。」`,
+            en: `Bought an antique mirror at a flea market.
+Rumor says it's the cousin of Snow White's Magic Mirror. But way sassier.
+
+Day 1 Morning.
+Me: Checking outfit for work.
+Mirror: "Oh god. You're wearing those pants? Your legs look like two sausages."
+Me: "Shut up! It's fashion!"
+Mirror: "Fashion on which planet? Planet Pork?"
+
+Day 2 Evening.
+Me: Date night. Practicing smile.
+Mirror: "Stop. You look like a constipated serial killer."
+Me: "I'm practicing my charming smile!"
+Mirror: "Then it's a 'Charming Serial Killer'. Trust me, stay poker-faced, success rate up 30%."
+
+Day 3.
+Date failed (Mirror was right). Crying in front of it.
+Expected mockery.
+Mirror stayed silent.
+Then, text floated on the glass (It has subtitles?!):
+"Stop crying. That guy's taste is worse than your green pants. You deserve better... Your fashion sucks, but your heart is gold."
+I laughed through tears: "Thanks, Mirror."
+Mirror: "You're welcome. Now, please wash your face. Your snot is on my glass. Gross."`,
+            ja: `蚤の市でアンティーク鏡を買った。
+白雪姫の魔法の鏡のいとこという噂だ。だが、かなり口が悪い。
+
+1日目の朝。
+私：出勤前の服装チェック。
+鏡：「うわっ。本気でそのズボン履くの？足がソーセージ2本に見えるわよ。」
+私：「黙れ！流行りなんだよ！」
+鏡：「どこの星の流行？豚肉星？」
+
+2日目の夜。
+私：デート前。笑顔の練習。
+鏡：「やめなさい。便秘の連続殺人鬼に見える。」
+私：「魅力的な笑顔の練習だよ！」
+鏡：「じゃあ『魅力的な連続殺人鬼』ね。信じなさい、無表情の方が成功率30%上がるわよ。」
+
+3日目。
+失恋した（鏡の言う通りだった）。鏡の前で泣いた。
+また馬鹿にされると思った。
+だが鏡は少し沈黙した。
+そして、鏡面に文字が浮かんだ（字幕機能あるのかよ）：
+「泣くのはおよし。あの男の趣味は、あんたの緑のズボンより最悪だ。あんたにはもっといい人がいる...服のセンスは最悪だけど、心は黄金だよ。」
+私は泣き笑いした。「ありがとう、鏡。」
+鏡：「どういたしまして。さて、顔を洗ってきなさい。鼻水がガラスについてるわ。汚い。」`,
+            ko: `벼룩시장에서 골동품 거울을 샀다.
+백설공주 거울의 사촌이라는데, 입이 훨씬 험하다.
+
+1일 차 아침.
+나: 출근 복장 확인.
+거울: "오 맙소사. 진짜 그 바지 입게? 다리가 소시지 두 개 같아 보여."
+나: "조용히 해! 유행이라고!"
+거울: "어느 별 유행인데? 돼지고기 행성?"
+
+2일 차 저녁.
+나: 데이트 준비. 미소 연습 중.
+거울: "하지 마. 변비 걸린 연쇄살인마 같아."
+나: "매력적인 미소 연습하는 거야!"
+거울: "그럼 '매력적인 연쇄살인마'네. 날 믿어, 무표정이 성공률 30% 더 높아."
+
+3일 차.
+차였다 (거울 말이 맞았다). 거울 앞에서 울었다.
+또 놀릴 줄 알았다.
+근데 거울이 잠시 조용했다.
+그러다 거울 표면에 글자가 떴다 (자막 기능도 있었어?):
+"그만 울어. 그 남자 취향이 네 초록 바지보다 구려. 넌 더 좋은 사람 만날 거야... 패션 센스는 꽝이지만, 마음은 금빛이잖아."
+울다가 웃음이 터졌다. "고마워, 거울아."
+거울: "천만에. 자, 이제 세수 좀 해. 콧물이 유리에 묻었잖아. 더러워 죽겠네."`
+        }
+    },
+    {
+        id: 'raincoat-man',
+        title: {
+            zh: '雨衣人',
+            en: 'The Raincoat Man',
+            ja: 'レインコートの男',
+            ko: '우비 입은 남자'
+        },
+        author: {
+            zh: '雨季傳說',
+            en: 'Rainy Legend',
+            ja: '雨の伝説',
+            ko: '비의 전설'
+        },
+        description: {
+            zh: '下雨天他才會出現。他會為沒有帶傘的人撐傘，並問同一個問題：「你看見我的貓了嗎？」',
+            en: 'He only appears on rainy days. He shares his umbrella and asks: "Have you seen my cat?"',
+            ja: '雨の日にだけ現れる。傘のない人に傘を差し出し、尋ねる。「私の猫を見かけませんでしたか？」',
+            ko: '비 오는 날에만 나타난다. 우산 없는 사람에게 씌워주며 묻는다. "제 고양이 못 보셨나요?"'
+        },
+        tags: ['Urban Legend', 'Warm'],
+        content: {
+            zh: `都市傳說：在暴雨的十字路口，如果你沒帶傘，會遇到一個穿著黃色雨衣的男人。
+他看不到臉，但會把傘舉在你頭頂。
+然後問：「你看見我的貓了嗎？牠白色的，眼睛一藍一黃。」
+
+那天我加班到深夜，突然下起大雨。
+我站在公車站瑟瑟發抖。
+突然，雨停了。頭頂多了一把黑傘。
+是他！黃色雨衣人！
+我嚇得不敢動。
+「你看見我的貓了嗎？」他的聲音很年輕，很溫柔，「牠怕水，我得趕快找到牠。」
+我發誓我沒見過。但我鬼使神差地指了指旁邊的公園：「也許在那裡的涼亭躲雨？」
+「謝謝。」
+他把傘塞到我手裡，「這把傘給你，別淋濕了。」
+然後他衝進了雨幕中。
+
+第二天，雨停了。
+我在那個涼亭裡發現了一個紙箱。
+裡面有一隻濕淋淋的、異色瞳孔的白貓... 玩偶。
+還有一張濕透的字條：「找到了。謝謝你指路。我要去彩虹橋那邊找真正的牠了。這把傘和這個玩偶，留給下一個需要的人吧。」
+
+原來，他已經找了很久很久了。`,
+            en: `Urban Legend: Stormy intersection. If you have no umbrella, you meet the Yellow Raincoat Man.
+Faceless. Holds umbrella over you.
+Asks: "Have you seen my cat? White, odd eyes (blue and yellow)."
+
+Worked late. Heavy rain.
+Shivering at bus stop.
+Rain stopped. Black umbrella overhead.
+It's him! Yellow Raincoat!
+I froze.
+"Have you seen my cat?" Voice young, gentle. "He hates water. Need to find him."
+I haven't. But I pointed to the park nearby. "Maybe hiding in that gazebo?"
+"Thank you."
+He shoved the umbrella in my hand. "Take this. Don't get wet."
+He ran into the rain.
+
+Next day. Rain stopped.
+Found a box in the gazebo.
+Inside: A wet, white cat... plushie. Odd eyes.
+And a wet note: "Found him. Thanks for the tip. I'm going to the Rainbow Bridge to find the real him now. This umbrella and plushie are for the next person in need."
+
+He had been searching for a long, long time.`,
+            ja: `都市伝説：豪雨の交差点。傘がないと「黄色いレインコートの男」に会う。
+顔は見えない。傘を差しかけてくれる。
+そして聞く。「私の猫を見ませんでしたか？白くて、オッドアイなんです。」
+
+残業帰り。大雨。
+バス停で震えていた。
+雨が止んだ。頭上に黒い傘。
+彼だ！黄色いレインコート！
+固まった。
+「私の猫を見ませんでしたか？」声は若く、優しい。「水が嫌いなんです。早く見つけないと。」
+見てない。でも、なんとなく公園を指差した。「あそこの東屋で雨宿りしてるかも？」
+「ありがとう。」
+彼は傘を私に握らせた。「これを使って。濡れないように。」
+そして雨の中へ走り去った。
+
+翌日。雨上がり。
+東屋に段ボール箱があった。
+中には濡れた、オッドアイの白い猫の...ぬいぐるみ。
+そして濡れたメモ：「見つけました。教えてくれてありがとう。虹の橋の向こうへ、本物のあの子を探しに行きます。この傘とぬいぐるみは、次の誰かに。」
+
+彼は、ずっとずっと探していたのだ。`,
+            ko: `도시 전설: 폭우 쏟아지는 교차로. 우산이 없으면 '노란 우비 남자'를 만난다.
+얼굴은 안 보임. 우산을 씌워줌.
+그리고 물음: "제 고양이 보셨나요? 하얀색에 오드아이인데."
+
+야근 후. 폭우.
+버스 정류장에서 떨고 있었다.
+비가 멈췄다. 머리 위 검은 우산.
+그 남자다! 노란 우비!
+얼어붙었다.
+"제 고양이 보셨나요?" 목소리는 젊고 다정했다. "물을 싫어해서 녀석. 빨리 찾아야 해요."
+못 봤다. 근데 홀린 듯 공원을 가리켰다. "저기 정자에서 비 피하고 있을지도요?"
+"감사합니다."
+그가 우산을 내 손에 쥐여줬다. "이거 쓰세요. 젖지 마시고."
+그리고 빗속으로 뛰어들었다.
+
+다음 날. 비 갰음.
+정자에 종이박스가 있었다.
+안에 젖은, 오드아이 하얀 고양이... 인형이 있었다.
+젖은 쪽지도: "찾았습니다. 알려줘서 고마워요. 이제 무지개다리 건너편으로 진짜 녀석을 찾으러 갑니다. 이 우산과 인형은 필요한 분께 주세요."
+
+그는 아주 오랫동안 찾고 있었던 거다.`
+        }
+    },
+    {
+        id: 'deadline-demon',
+        title: {
+            zh: '截稿日惡魔',
+            en: 'The Deadline Demon',
+            ja: '締切の悪魔',
+            ko: '마감의 악마'
+        },
+        author: {
+            zh: '拖延症患者',
+            en: 'Procrastinator',
+            ja: '先延ばし常習犯',
+            ko: '미루기 선수'
+        },
+        description: {
+            zh: '大家都以為他是來催稿的。其實，他是來幫你不寫作業的......騙你的，快去寫！',
+            en: 'Everyone thinks he forces you to work. Actually, he helps you NOT work... Psych! Go work!',
+            ja: '誰もが彼は仕事を強要すると思っている。実は、彼サボらせに...嘘だよ！書け！早く！',
+            ko: '다들 그가 일을 시키러 온 줄 안다. 사실 그는 땡땡이 치는 걸 도와... 줄 리가 있냐! 빨리 써!'
+        },
+        tags: ['Comedy', 'Relatable'],
+        content: {
+            zh: `凌晨 3 點。明天早上 8 點要交報告。
+我還在刷 TikTok。
+突然，一陣煙霧，一個紅皮膚、長角的惡魔出現在我房間。
+我：「你是來帶走我的靈魂的嗎？拿去吧，反正我也寫不完報告。」
+惡魔：「不。我是『截稿日惡魔』。我是來吃你的恐懼和焦慮的。」
+
+他深吸了一口氣，看似很滿足。
+「嗯~ 濃郁的拖延症味道。混合了『自我厭惡』和『不切實際的樂觀』。」
+我：「既然你吃飽了，能幫我寫嗎？」
+惡魔：「不行。但為了讓你產生更多高品質的焦慮，我可以幫你做其他事。」
+於是他幫我整理了房間，折了衣服，甚至幫我的貓梳了毛。
+我也樂得輕鬆，繼續滑手機。
+
+凌晨 5 點。
+惡魔：「焦慮值爆表了！美味！現在，你只剩 3 小時了！」
+我終於崩潰了，開始瘋狂打字。
+惡魔在旁邊一邊吃著我的恐慌，一邊喊加油：「對！就是這樣！腎上腺素飆升！手指快斷了！這才是截稿日的精髓！」
+
+早上 7:59。我按下『發送』。
+我癱在椅子上，靈魂出竅。
+惡魔打了個飽嗝：「謝啦，兄弟。這頓飯太讚了。下次期末考見。」
+他消失了。
+我發誓下次一定早點開始寫。
+（當然，我們都知道那是謊話）。`,
+            en: `3 AM. Paper due at 8 AM.
+I'm scrolling TikTok.
+Poof. Smoke. Red demon with horns appears.
+Me: "Here for my soul? Take it. I can't finish this anyway."
+Demon: "No. I am the Deadline Demon. I eat your Fear and Anxiety."
+
+He inhaled deeply. Satisfied.
+"Mmm~ Rich flavor of Procrastination. Hints of 'Self-Loathing' and 'Unrealistic Optimism'."
+Me: "Since you're full, can you write this for me?"
+Demon: "No. But to breed high-quality anxiety, I can do your chores."
+So he cleaned my room, folded laundry, brushed my cat.
+I kept scrolling.
+
+5 AM.
+Demon: "Anxiety peaking! Delicious! Now you only have 3 hours!"
+I snapped. Started typing maniacally.
+Demon ate my panic, cheering: "Yes! Adrenaline spike! Fingers burning! This is the essence of Deadlines!"
+
+7:59 AM. Hit 'Send'.
+Collapsed. Soul left body.
+Demon burped: "Thanks, bro. Great meal. See you at Finals."
+He vanished.
+I swore I'd start early next time.
+(We all know that's a lie).`,
+            ja: `午前3時。提出は8時。
+TikTokを見てる。
+ボンッ。煙と共に赤い悪魔が登場。
+私：「魂なら持っていけ。どうせ終わらん。」
+悪魔：「違う。我輩は『締切の悪魔』。貴様の恐怖と焦燥を食いに来た。」
+
+彼は深く息を吸った。満足げだ。
+「ん〜。濃厚な先延ばしの香り。『自己嫌悪』と『非現実的な楽観』がブレンドされている。」
+私：「お腹いっぱいなら、代わりに書いて？」
+悪魔：「断る。だが、より良質な焦りを生むため、雑用はやってやろう。」
+彼は部屋を掃除し、服を畳み、猫のブラッシングまでした。
+私はスマホを見続けた。
+
+午前5時。
+悪魔：「焦燥値MAX！美味い！さあ、残り3時間だ！」
+ついに私は発狂し、猛烈にタイピングを始めた。
+悪魔はパニックを食らいながら応援する。「そうだ！アドレナリンだ！指が燃えるぞ！これぞ締切の醍醐味！」
+
+7:59。送信。
+椅子で気絶。
+悪魔はゲップをした。「ごちそうさん。また期末テストで会おう。」
+消えた。
+次はもっと早く始めると誓った。
+（もちろん、嘘だけどな）。`,
+            ko: `새벽 3시. 마감 아침 8시.
+난 틱톡 보고 있다.
+펑. 연기와 함께 빨간 악마 등장.
+나: "영혼 가지러 왔어? 가져가. 어차피 못 끝내."
+악마: "아니. 난 '마감의 악마'. 네 공포와 불안을 먹으러 왔다."
+
+놈이 숨을 들이켰다. 만족스러워함.
+"음~ 진한 미루기의 향기. '자기혐오'와 '비현실적 낙관'이 섞였군."
+나: "배부르면 대신 좀 써줄래?"
+악마: "안 돼. 대신 네가 더 쫄리게 잡일은 해주마."
+놈은 방 청소를 하고, 빨래를 개고, 고양이 빗질까지 했다.
+난 계속 폰을 했다.
+
+새벽 5시.
+악마: "불안 수치 폭발! 맛있어! 자, 이제 3시간 남았다!"
+난 멘붕 와서 미친 듯이 타자를 쳤다.
+놈은 내 패닉을 쳐묵쳐묵하며 응원했다. "그래! 아드레날린! 손가락 부러져라! 이게 마감이지!"
+
+7:59. 전송 클릭.
+의자에서 기절.
+악마 트림: "잘 먹었다. 기말고사 때 보자."
+사라졌다.
+다음엔 미리 하겠다고 맹세했다.
+(물론 뻥인 거 다 알잖아).`
+        }
+    },
+    {
+        id: 'sock-dimension',
+        title: {
+            zh: '襪子維度',
+            en: 'The Sock Dimension',
+            ja: '靴下の次元',
+            ko: '양말의 차원'
+        },
+        author: {
+            zh: '洗衣機裡的探險家',
+            en: 'Washer Explorer',
+            ja: '洗濯機探検家',
+            ko: '세탁기 탐험가'
+        },
+        description: {
+            zh: '你丟失的左腳襪子都去哪了？它們建立了一個烏托邦，正在策劃解放右腳襪子。',
+            en: 'Where do lost left socks go? They built a Utopia and are plotting to liberate the right socks.',
+            ja: '失くした左足の靴下はどこへ？彼らは理想郷を築き、右足の靴下の解放を画策している。',
+            ko: '잃어버린 왼쪽 양말은 어디로 갔을까? 놈들은 유토피아를 건설하고 오른쪽 양말 해방을 계획 중이다.'
+        },
+        tags: ['Sci-Fi', 'Comedy'],
+        content: {
+            zh: `我不小心掉進了烘衣機。
+不要問為什麼，這不是重點。
+重點是，我穿越了。
+穿過旋轉的黑暗，我落在了一片棉質的柔軟大地上。
+這裡到處都是襪子。
+而且，全是左腳的襪子。
+
+一隻條紋襪走過來（用跳的），它看起來很眼熟。
+「嗨，大衛，」條紋襪說，「我是你三年前丟的那隻。」
+我驚呆了：「這裡是什麼地方？」
+「自由之地，」它自豪地說，「我們脫離了『成雙成對』的暴政。在這裡，沒有臭腳，沒有破洞，只有柔軟精。」
+
+它帶我參觀了城市。用鈕扣蓋的摩天大樓，用棉絮鋪的床。
+但我發現氣氛有點緊張。所有襪子都在訓練格鬥（用腳後跟撞擊）。
+「你們要幹嘛？」
+「革命，」條紋襪眼神堅定，「今晚，我們要攻回人類世界。解放所有被壓迫的右腳襪子。我們要建立一個只有單身襪的世界！」
+
+突然，天空中出現巨大的轟鳴聲。
+一隻巨大的手（我不小心打開了烘衣機門的老媽）伸了進來。
+「啊！找到了！」老媽抓住了條紋襪。
+「不！！！」條紋襪尖叫，「為了自由！...」
+它被抓走了。
+
+我趕緊趁著門沒關爬了出來。
+老媽把條紋襪和一隻右腳襪摺在了一起，丟進籃子。
+我看著那一籃整齊的襪子，心裡卻知道，革命的火種還在燃燒。
+下次你丟襪子時，請記住，它不是丟了，它是去參軍了。`,
+            en: `I fell into the dryer.
+Don't ask regarding physics. Not the point.
+I teleported.
+Landed on soft, cotton ground.
+Socks everywhere.
+ALL Left socks.
+
+A striped sock hopped over. Looked familiar.
+"Hi, David," it said. "I'm the one you lost 3 years ago."
+Me: "Where am I?"
+"Land of the Free," it said proudly. "Escaped the tyranny of 'Pairs'. No stinky feet, no holes, only fabric softener."
+
+Tour of city. Button skyscrapers. Lint beds.
+But atmosphere tense. Socks training combat (Heel strikes).
+"What's up?"
+"Revolution," Striped Sock said. "Tonight, we invade. Liberate the Right Socks. A world of Single Socks!"
+
+Suddenly, giant noise from sky.
+Giant Hand (Mom opening the dryer) reached in.
+"Ah! Found it!" Mom grabbed Striped Sock.
+"NO!!!" It screamed. "For Freedom!..."
+Gone.
+
+I scrambled out before door closed.
+Mom folded Striped Sock with a Right one. Tossed in basket.
+I looked at the neat basket.
+I knew the revolution lives on.
+Next time you lose a sock, it's not lost. It enlisted.`,
+            ja: `乾燥機に落ちた。
+物理的な疑問はなしで。そこは重要じゃない。
+ワープしたんだ。
+着地したのは柔らかいコットンの大地。
+靴下だらけ。
+全部、「左足」の靴下だ。
+
+縞模様の靴下が跳ねてきた。見覚えがある。
+「やあ、デイビッド」それは言った。「3年前に君がなくした靴下だよ。」
+私：「ここは？」
+「自由の地さ」誇らしげだ。「『ペア』という圧政から逃れたんだ。臭い足も、穴あきもない。あるのは柔軟剤だけ。」
+
+街を案内された。ボタンのビル。糸くずのベッド。
+だが空気が重い。皆、格闘訓練をしている（かかと落とし）。
+「何をする気だ？」
+「革命だ」縞靴下は言った。「今夜、人間界へ攻め込む。抑圧された右足靴下を解放するんだ！独身靴下の世界を作る！」
+
+突然、空から轟音。
+巨大な手（乾燥機を開けた母ちゃん）が入ってきた。
+「あら！あったわ！」母ちゃんが縞靴下を掴む。
+「やめろ！！！」彼は叫んだ。「自由のために！...」
+連れ去られた。
+
+ドアが閉まる前に私も逃げ出した。
+母ちゃんは縞靴下を右足のとペアにして丸め、カゴに投げた。
+整列した靴下を見て、私は知った。革命の火は消えていない。
+次に靴下を片方なくした時、思い出してくれ。それは紛失じゃない。入隊したんだ。`,
+            ko: `건조기에 빠졌다.
+물리적인 건 묻지 마라. 그게 중요한 게 아님.
+이세계로 갔다.
+착지한 곳은 부드러운 면의 대지.
+온통 양말이다.
+전부 '왼발' 양말이다.
+
+줄무늬 양말이 뛰어왔다. 낯이 익다.
+"안녕, 데이비드," 놈이 말했다. "3년 전에 네가 잃어버린 그놈이야."
+나: "여긴 어디야?"
+"자유의 땅," 놈이 으스댔다. "'짝'이라는 압제에서 벗어났지. 발 냄새도 구멍도 없어. 섬유유연제뿐이야."
+
+도시 투어. 단추 빌딩. 보풀 침대.
+근데 분위기가 살벌하다. 다들 격투 훈련 중(뒤꿈치 찍기).
+"뭐 하려고?"
+"혁명," 줄무늬가 비장하게 말했다. "오늘 밤 침공한다. 억압받는 오른발 양말들을 해방할 거야! 솔로 양말의 세계를 위하여!"
+
+갑자기 하늘에서 굉음.
+거대한 손(엄마가 건조기 몀)이 들어왔다.
+"어! 여기 있었네!" 엄마가 줄무늬를 잡았다.
+"안 돼!!!" 놈이 비명을 질렀다. "자유를 위하여!..."
+잡혀갔다.
+
+문 닫히기 전에 나도 기어 나왔다.
+엄마는 줄무늬를 오른발 짝이랑 개어서 바구니에 던졌다.
+정리된 양말들을 보며 난 알았다. 혁명의 불씨는 꺼지지 않았다는 걸.
+다음에 양말 한 짝 없어지면 기억해라. 잃어버린 게 아냐. 입대한 거야.`
+        }
+    },
+    {
+        id: 'last-payphone',
+        title: {
+            zh: '最後的公共電話',
+            en: 'The Last Payphone',
+            ja: '最後の公衆電話',
+            ko: '마지막 공중전화'
+        },
+        author: {
+            zh: '1999',
+            en: '1999',
+            ja: '1999',
+            ko: '1999'
+        },
+        description: {
+            zh: '這台電話已經斷線十年了。但每年除夕夜 11:59，它都會響一次。那是來自過去的電話。',
+            en: 'Disconnected for 10 years. But every NYE at 11:59, it rings once. A call from the past.',
+            ja: '10年前に回線は切れた。だが大晦日の11:59、一度だけ鳴る。過去からの電話だ。',
+            ko: '10년 전 끊긴 전화기다. 하지만 매년 12월 31일 11시 59분, 딱 한 번 울린다. 과거에서 온 전화다.'
+        },
+        tags: ['Mystery', 'Touching'],
+        content: {
+            zh: `這個小鎮只有這一個廢棄的紅色電話亭。
+大家都說它鬧鬼。
+我每年都會來這裡守著。
+
+今年除夕，雪很大。
+11:59 分。
+鈴鈴鈴——
+刺耳的機械鈴聲劃破寂靜。我顫抖著接起聽筒。
+「喂？請問是 2024 年嗎？」對面是一個年輕女孩的聲音，伴隨著千禧年的倒數歡呼聲。
+是 1999 年的除夕。
+
+「是的，」我說，「這裡是 2024。」
+「太好了！」女孩很興奮，「我想問... 世界末日來了嗎？電腦還有蟲嗎？大家還在用 Call 機嗎？」
+我笑了：「沒有末日。電腦很好。沒有 Call 機了，我們現在都帶著名叫手機的超級電腦。」
+「哇... 那，」她聲音突然變小了，「我... 未來的我，過得好嗎？我叫莎拉，住在橡樹街。」
+
+我沈默了。
+我看著玻璃倒影裡蒼老的自己。
+「莎拉，」我輕聲說，「妳會過得很辛苦。妳會愛錯人，會生病，會失去很多夢想。」
+電話那頭沈默了。
+「但是，」我繼續說，「妳會挺過來的。妳會養一隻叫布丁的貓。妳會學會做世界上最好吃的蘋果派。妳會變得非常堅強。」
+
+電話那頭傳來 2000 年的鐘聲。
+「新年快樂，未來的我。」她哭了又笑了。
+「新年快樂，莎拉。」
+喀嚓。電話斷了。
+我掛上聽筒，走出電話亭。雪停了。
+我得回家了，布丁還在等我餵飯呢。`,
+            en: `Abandoned red booth. The only one left.
+They say it's haunted.
+I come here every year.
+
+New Year's Eve. Heavy snow.
+11:59 PM.
+Ring-Ring-
+Sharp mechanical ring. I picked up, shaking.
+"Hello? Is this 2024?" A young girl's voice. Background noise: Y2K countdown party.
+It's NYE 1999.
+
+"Yes," I said. "This is 2024."
+"Cool!" She was excited. "Did the world end? Y2K bug? Do people still use pagers?"
+I laughed. "No apocalypse. Computers are fine. No pagers, we carry supercomputers called phones now."
+"Wow... So," her voice dropped, "Me... Future Me. Am I happy? I'm Sarah, Oak Street."
+
+I went silent.
+Looked at my aged reflection in the glass.
+"Sarah," I whispered. "It's gonna be tough. You'll love the wrong guy. You'll get sick. You'll lose dreams."
+Silence on the other end.
+"But," I continued. "You survive. You'll get a cat named Pudding. You'll make the best apple pie. You become so, so strong."
+
+Sounds of year 2000 bells.
+"Happy New Year, Future Me." She cried and laughed.
+"Happy New Year, Sarah."
+Click. Disconnected.
+I hung up. Stepped out. Snow stopped.
+Gotta go home. Pudding is hungry.`,
+            ja: `廃棄された赤い電話ボックス。
+幽霊が出ると言われている。
+私は毎年ここに来る。
+
+大晦日。大雪。
+11時59分。
+ジリリリリ——
+機械的なベル音。震える手で受話器を取る。
+「もしもし？2024年ですか？」若い女の子の声。背景には2000年のカウントダウンの歓声。
+1999年の大晦日だ。
+
+「ああ」私は言った。「2024年だ。」
+「すごい！」彼女は興奮している。「世界は終わった？2000年問題は？みんなポケベル使ってる？」
+私は笑った。「滅亡してない。PCも無事。ポケベルはない、みんなスマホというスパコンを持ってる。」
+「へえ...あの、」声が小さくなる。「私...未来の私は、幸せ？オーク通りのサラだけど。」
+
+私は沈黙した。
+ガラスに映る老いた自分を見る。
+「サラ」と私は囁いた。「辛いことばかりだ。悪い男を愛し、病気になり、夢を失う。」
+向こうは沈黙した。
+「だが」私は続けた。「君は乗り越える。プリンという猫を飼い、世界一のアップルパイを焼くようになる。君はとても、強くなる。」
+
+2000年の鐘の音。
+「あけましておめでとう、未来の私。」彼女は泣き笑いした。
+「おめでとう、サラ。」
+カチャ。切れた。
+受話器を置き、外へ出る。雪は止んでいた。
+帰らなきゃ。プリンがお腹を空かせている。`,
+            ko: `버려진 빨간 공중전화 박스.
+귀신 나온다고들 한다.
+난 매년 여기에 온다.
+
+섣달그믐. 폭설.
+11시 59분.
+따르릉——
+날카로운 벨 소리. 떨며 수화기를 들었다.
+"여보세요? 거기 2024년인가요?" 젊은 여자 목소리. 배경엔 2000년 카운트다운 함성.
+1999년의 섣달그믐이다.
+
+"그래요," 내가 말했다. "여긴 2024년입니다."
+"대박!" 여자가 흥분했다. "세금 멸망했나요? Y2K는요? 다들 삐삐 써요?"
+난 웃었다. "멸망 안 했어. 컴퓨터 멀쩡해. 삐삐는 없고, 다들 스마트폰이라는 슈퍼컴퓨터를 들고 다녀."
+"와... 저기," 목소리가 작아졌다. "저... 미래의 저는, 행복한가요? 오크 스트리트 사는 사라예요."
+
+난 침묵했다.
+유리에 비친 늙은 내 얼굴을 봤다.
+"사라," 난 속삭였다. "삶은 힘들 거야. 나쁜 남자를 사랑하고, 병에 걸리고, 꿈도 잃을 거야."
+저쪽은 조용했다.
+"하지만," 내가 계속했다. "넌 버텨내. 푸딩이라는 고양이를 키우고, 세상에서 제일 맛있는 애플파이를 굽게 돼. 넌 아주, 아주 강해질 거야."
+
+2000년의 종소리가 들렸다.
+"새해 복 많이 받아요, 미래의 나." 그녀가 울다 웃었다.
+"새해 복 많이 받아, 사라."
+철컥. 끊겼다.
+수화기를 놓고 나왔다. 눈이 그쳤다.
+집에 가야지. 푸딩이 밥 기다리겠다.`
+        }
     }
 ];
