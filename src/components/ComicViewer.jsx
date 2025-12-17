@@ -1,67 +1,76 @@
 import { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import './ComicViewer.css';
 import SEOHead from './SEOHead';
 import { AdPlaceholder, DonationButton } from './Monetization';
+import { LanguageSelector } from './LanguageSelector';
 
-const ComicPanel = ({ panel, index }) => {
+const ComicPanel = ({ panel, index, t, lang }) => {
+    // Determine panel label (Starting, Development, Twist, Conclusion)
+    const labelKey = `panel_${index + 1}`;
+
     return (
         <div className="comic-panel">
             <div className="panel-number">{index + 1}</div>
             <div className="image-container">
                 <img src={panel.image} alt={`Panel ${index + 1}`} />
-                {/* Optional: Add speech bubbles overlay if needed */}
             </div>
             <div className="panel-caption">
-                <p>{panel.text}</p>
+                <p>{panel.text[lang]}</p>
             </div>
+            <div className="flow-arrow-label">{t(labelKey)}</div>
         </div>
     );
 };
 
 export const ComicViewer = ({ comic }) => {
+    const { t, i18n } = useTranslation();
+    const lang = i18n.language;
     const currentUrl = typeof window !== 'undefined' ? window.location.href : '';
 
     return (
         <div className="comic-viewer">
             <SEOHead
-                title={comic.title}
-                description={comic.description}
-                image={comic.panels[0].image} /* Use first panel as preview image */
+                title={comic.title[lang]}
+                description={comic.description[lang]}
+                image={comic.panels[0].image}
                 url={currentUrl}
             />
 
             <header className="comic-header">
-                <h1>{comic.title}</h1>
-                <p className="author">By {comic.author}</p>
-                <p className="description">{comic.description}</p>
+                <LanguageSelector />
+                <h1>{comic.title[lang]}</h1>
+                <p className="author">{t('by_author', { author: comic.author[lang] })}</p>
+                <p className="description">{comic.description[lang]}</p>
             </header>
 
-            {/* Top Ad Slot */}
-            <AdPlaceholder label="[頂部廣告位] 支持我們，請解除 AdBlock" />
+            <AdPlaceholder label={t('ad_top_label')} />
 
             <div className="comic-grid">
                 <div className="comic-row">
                     <div className="comic-column">
-                        <ComicPanel panel={comic.panels[0]} index={0} />
-                        <div className="flow-arrow">⬇ 起 (起)</div>
-                        <ComicPanel panel={comic.panels[1]} index={1} />
-                        <div className="flow-arrow">⬇ 承 (承)</div>
+                        <ComicPanel panel={comic.panels[0]} index={0} t={t} lang={lang} />
+                        <div className="flow-arrow">⬇</div>
+                        <ComicPanel panel={comic.panels[1]} index={1} t={t} lang={lang} />
+                        <div className="flow-arrow">⬇</div>
                     </div>
                     <div className="comic-column">
-                        <ComicPanel panel={comic.panels[2]} index={2} />
-                        <div className="flow-arrow">⬇ 轉 (轉)</div>
-                        <ComicPanel panel={comic.panels[3]} index={3} />
-                        <div className="flow-arrow">⬇ 合 (合)</div>
+                        <ComicPanel panel={comic.panels[2]} index={2} t={t} lang={lang} />
+                        <div className="flow-arrow">⬇</div>
+                        <ComicPanel panel={comic.panels[3]} index={3} t={t} lang={lang} />
+                        <div className="flow-arrow">⬇ {t('panel_4')} (End)</div>
                     </div>
                 </div>
             </div>
 
-            {/* Bottom Ad Slot & Donation */}
-            <AdPlaceholder label="[底部廣告位] 感謝您的觀看" />
-            <DonationButton />
+            <AdPlaceholder label={t('ad_bottom_label')} />
+            <div style={{ textAlign: 'center', marginTop: '2rem' }}>
+                <p style={{ fontSize: '0.9rem', color: '#666', marginBottom: '0.5rem' }}>{t('donate_message')}</p>
+                <DonationButton label={t('donate_button')} />
+            </div>
 
             <footer className="comic-footer">
-                <p>AI 生成圖像 • 繁體中文故事 • React 驅動</p>
+                <p>{t('footer_text')}</p>
             </footer>
         </div>
     );

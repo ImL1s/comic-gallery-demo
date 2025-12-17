@@ -1,23 +1,29 @@
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 import './GalleryHome.css';
 import { comics } from '../comics';
 import SEOHead from './SEOHead';
 import { AdPlaceholder } from './Monetization';
+import { LanguageSelector } from './LanguageSelector';
 
 export const GalleryHome = () => {
+    const { t, i18n } = useTranslation();
+    const lang = i18n.language; // 'zh' or 'en' of i18next
+
     return (
         <div className="gallery-home">
             <SEOHead
-                title="首頁"
-                description="四格漫畫藝廊 - 您的每日幽默來源"
+                title={t('gallery_title')}
+                description={t('gallery_subtitle')}
             />
 
             <header className="gallery-header">
-                <h1>四格漫畫藝廊</h1>
-                <p>AI 協作 • 輕鬆閱讀 • 每日更新</p>
+                <LanguageSelector />
+                <h1>{t('gallery_title')}</h1>
+                <p>{t('gallery_subtitle')}</p>
             </header>
 
-            <AdPlaceholder label="[首頁廣告位] 贊助我們" />
+            <AdPlaceholder label={t('ad_top_label')} />
 
             <div className="gallery-grid">
                 {comics.map(comic => (
@@ -25,15 +31,15 @@ export const GalleryHome = () => {
                         <div className="gallery-card">
                             <div className="card-image">
                                 {/* Use the first panel as the thumbnail */}
-                                <img src={comic.panels[0].image} alt={comic.title} />
+                                <img src={comic.panels[0].image} alt={comic.title[lang]} />
                                 {comic.language && (
                                     <span className="lang-badge">{comic.language}</span>
                                 )}
                             </div>
                             <div className="card-content">
-                                <h3>{comic.title}</h3>
-                                <p className="author">By {comic.author}</p>
-                                <p className="description">{comic.description}</p>
+                                <h3>{comic.title[lang]}</h3>
+                                <p className="author">{t('by_author', { author: comic.author[lang] })}</p>
+                                <p className="description">{comic.description[lang]}</p>
                             </div>
                         </div>
                     </Link>
@@ -41,7 +47,7 @@ export const GalleryHome = () => {
             </div>
 
             <footer className="gallery-footer">
-                <p>© 2025 Comic Gallery Demo</p>
+                <p>© 2025 {t('footer_text')}</p>
             </footer>
         </div>
     );

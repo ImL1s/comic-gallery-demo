@@ -1,0 +1,37 @@
+.language-selector {
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
+    display: flex;
+    gap: 0.5rem;
+    z-index: 100;
+}
+
+.language-selector button {
+    background: white;
+    border: 1px solid #ccc;
+    padding: 5px 12px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+    color: #666;
+}
+
+.language-selector button:hover {
+    background: #f0f0f0;
+}
+
+.language-selector button.active {
+    background: #2c3e50;
+    color: white;
+    border-color: #2c3e50;
+}
+
+@media (max-width: 600px) {
+    .language-selector {
+        position: static;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+}
