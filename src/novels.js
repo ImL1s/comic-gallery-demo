@@ -1866,5 +1866,525 @@ He dissolved into fireflies and floated away.
 그는 반딧불이처럼 변해 날아갔다.
 “다음 분.” 들어오는 노인을 보며 내가 말했다.`
         }
+        ,
+    {
+        id: 'emotion-jar',
+        title: {
+            zh: '情緒專賣店',
+            en: 'The Emotion Shop',
+            ja: '感情専門店',
+            ko: '감정 상점'
+        },
+        author: {
+            zh: '煉金術士',
+            en: 'The Alchemist',
+            ja: '錬金術師',
+            ko: '연금술사'
+        },
+        description: {
+            zh: '本店販售「勇氣」、「初戀」與「遺忘」。今日特價：「無憂無慮的童年」。',
+            en: 'We sell "Courage", "First Love", and "Oblivion". Today\'s Special: "Carefree Childhood".',
+            ja: '当店では「勇気」「初恋」「忘却」を販売しております。本日の特売：「悩み多き子供時代」。',
+            ko: '저희 가게는 "용기", "첫사랑", "망각"을 팝니다. 오늘의 특가: "걱정 없는 어린 시절".'
+        },
+        tags: ['Fantasy', 'Warm'],
+        content: {
+            zh: `「歡迎光臨，在這個灰色的城市裡，您缺點什麼顏色？」
+店主是一個穿著彩虹色長袍的老人。架子上擺滿了發光的玻璃瓶。
+紅色的瓶子在跳動（憤怒），藍色的瓶子像深海（憂鬱），粉紅色的瓶子冒著甜甜的氣泡（戀愛）。
+
+一個怯生生的女孩走了進來。「我有個演講比賽... 我很怕。」
+「啊，你需要這個。」店主拿下一個金色的瓶子，裡面像是有獅子在咆哮，「液體勇氣。只要一滴，你敢對著國王吼叫。」
+女孩付了錢，喝了一滴。她的腰桿瞬間挺直了，眼神變得銳利。
+
+接著進來一個神情落寞的中年人。「能讓我忘記她嗎？」
+店主嘆了口氣，拿出一個裝著灰白色煙霧的瓶子。「『徹底遺忘』。副作用是你可能會忘記怎麼愛別人。確定嗎？」
+男人猶豫了。他看著手上的戒指，最後還是搖了搖頭。「算了，給我一瓶『安睡』就好。」
+
+店主微笑著看著男人離開。「痛苦也是愛的一部分啊。」
+他轉身擦拭一個空瓶子，那是他最珍貴的非賣品。
+標籤上寫著：『未被說出口的告白』。`,
+            en: ` "Welcome. What color are you missing in this grey city?"
+The owner was an old man in rainbow robes. Shelves lined with glowing jars.
+Red pulsing (Anger), deep sea blue (Melancholy), fizzy pink (Romance).
+
+A shy girl walked in. "I have a speech... I'm scared."
+"Ah, you need this." He took a golden jar, roaring like a lion inside. "Liquid Courage. One drop, and you'd roar at a king."
+She paid, took a drop. Instantly stood taller, eyes sharp.
+
+Then a lonely middle-aged man. "Can you make me forget her?"
+The owner sighed, producing a jar of grey mist. " 'Total Oblivion'. Side effect: You might forget how to love. Sure?"
+The man hesitated. Looked at his ring. Shook his head. "Never mind. Just give me 'Deep Sleep'."
+
+The owner smiled as the man left. "Pain is part of love."
+He polished an empty jar, his most precious display-only item.
+Label: 'Unspoken Confession'.`,
+            ja: `「いらっしゃいませ。この灰色の街で、今日は何色が足りませんか？」
+店主は虹色のローブを着た老人だ。棚には光る瓶が並んでいる。
+赤く脈打つ瓶（怒り）、深海のような青（憂鬱）、甘い泡が立つピンク（恋）。
+
+おどおどした少女が入ってきた。「スピーチコンテストがあるんです...怖くて。」
+「ああ、これだね。」店主は金色の瓶を取った。中ではライオンが咆哮しているようだ。「液体の勇気。一滴で、王様にだって怒鳴れるよ。」
+彼女は金を払い、一滴飲んだ。背筋が伸び、目が鋭くなった。
+
+次に寂しげな中年男性。「彼女を忘れさせてくれるか？」
+店主はため息をつき、灰色の霧が入った瓶を出した。「『完全なる忘却』。副作用として、人を愛する方法も忘れるかもしれませんが。いいですか？」
+男は迷った。指輪を見て、首を振った。「やめておく。『安眠』をくれ。」
+
+店主は微笑んで見送った。「痛みも愛の一部ですからね。」
+彼は空の瓶を磨いた。非売品の宝物だ。
+ラベルにはこうある：『言えなかった告白』。`,
+            ko: ` "어서 오세요. 이 회색빛 도시에서 오늘은 어떤 색이 부족하신가요?"
+주인은 무지개색 로브를 입은 노인이었다. 선반에는 빛나는 유리병들이 줄지어 있었다.
+붉게 고동치는 병(분노), 심해 같은 파란 병(우울), 달콤한 거품이 이는 분홍 병(연애).
+
+수줍은 소녀가 들어왔다. "스피치 대회가 있는데... 너무 무서워요."
+"아, 이게 필요하겠군." 주인이 사자가 포효하는 듯한 금색 병을 꺼냈다. "액체 용기. 한 방울이면 왕에게도 고함을 칠 수 있지."
+소녀는 돈을 내고 한 방울 마셨다. 즉시 허리가 펴지고 눈빛이 날카로워졌다.
+
+이어서 쓸쓸해 보이는 중년 남자가 들어왔다. "그녀를 잊게 해줄 수 있나요?"
+주인은 한숨을 쉬며 회색 안개가 든 병을 꺼냈다. "'완전한 망각'. 부작용은 사랑하는 법까지 잊을 수 있다는 겁니다. 확실한가요?"
+남자는 망설였다. 반지를 바라보더니 고개를 저었다. "됐습니다. 그냥 '숙면'이나 주세요."
+
+주인은 미소 지으며 그를 배웅했다. "고통도 사랑의 일부니까요."
+그는 빈 병 하나를 닦았다. 가장 소중한 비매품이었다.
+라벨에는 이렇게 적혀 있었다: '전하지 못한 고백'.`
+        }
+    },
+    {
+        id: 'gnome-war',
+        title: {
+            zh: '庭院守護者',
+            en: 'The Garden Guardians',
+            ja: '庭の守護者',
+            ko: '정원의 수호자'
+        },
+        author: {
+            zh: '退役地精',
+            en: 'Retired Gnome',
+            ja: '退役ノーム',
+            ko: '퇴역 노움'
+        },
+        description: {
+            zh: '你以為花園地精只是裝飾品？大錯特錯。他們是对抗松鼠帝國的第一道防線。',
+            en: 'Think garden gnomes are just decorations? Wrong. They are the first line of defense against the Squirrel Empire.',
+            ja: '庭のノームはただの飾りだと思ってる？大間違い。彼らはリス帝国に対する防衛最前線だ。',
+            ko: '정원 노움이 그저 장식품이라고 생각하나? 큰 착각이다. 그들은 다람쥐 제국에 맞서는 최전선이다.'
+        },
+        tags: ['Comedy', 'Fantasy'],
+        content: {
+            zh: `人類總是笑話我們。戴著紅尖帽，傻笑著拿著釣魚竿。
+但當夜幕降臨，人類進屋睡覺後，戰爭就開始了。
+
+「東南角防線被突破！松鼠騎兵隊進來了！」通訊兵地精大喊。
+我扔掉釣魚竿（那是我的偽裝，其實它是一把狙擊槍），跳進鬱金香叢的戰壕。
+「為了這片草坪！為了那個只會澆水不會除蟲的笨蛋人類主人！」
+我們衝了鋒。
+
+敵人的核桃炸彈在我們身邊爆炸。
+我的戰友，老比利（那個推獨輪車的陶瓷地精）被一隻肥碩的松鼠踢碎了。
+我憤怒地發射了一發高壓水槍彈。松鼠尖叫著逃回了樹上。
+
+天亮了。
+人類主人走了出來，伸了個懶腰。
+他看著地上的陶瓷碎片，皺了皺眉。
+「哎呀，風把比利吹倒了嗎？又要買新的了。」
+他隨手把比利的碎片掃進垃圾桶，完全不知道比利昨晚是多麼英勇。
+
+沒關係。我們是沉默的守護者。
+只要這片花園還在，我們就會戰鬥至最後一塊陶土。`,
+            en: `Humans mock us. Red hats, stupid grins, holding fishing rods.
+But when night falls and humans sleep, the war begins.
+
+"Southeast perimeter breached! Squirrel Cavalry incoming!" shouted the comms gnome.
+I dropped my rod (my disguise; it's a sniper rifle) and dove into the tulip trenches.
+"For the lawn! For the idiot human master who waters but never weeds!"
+We charged.
+
+Enemy walnut-bombs exploded around us.
+My comrade, Old Billy (the wheelbarrow ceramic gnome), was shattered by a fat squirrel kick.
+Enraged, I fired a high-pressure water round. The squirrel screeched and fled up the tree.
+
+Dawn broke.
+The human master came out, stretching.
+He saw the ceramic shards. Frowned.
+"Oh, wind blew Billy over? Time to buy a new one."
+He swept Billy's remains into the trash, unaware of his heroism.
+
+It's okay. We are silent guardians.
+As long as this garden stands, we fight to the last clay shard.`,
+            ja: `人間は僕らを笑う。赤い帽子、間抜けな笑顔、釣り竿。
+だが夜が来て人間が寝ると、戦争が始まる。
+
+「南東防衛線突破！リス騎兵隊だ！」通信兵が叫ぶ。
+僕は釣り竿（偽装だ。実はスナイパーライフル）を捨て、チューリップの塹壕へ飛び込んだ。
+「芝生のために！水やりしかしないバカな主人のために！」
+突撃だ。
+
+敵のクルミ爆弾が炸裂する。
+戦友のオールド・ビリー（手押し車の陶器ノーム）が、太ったリスに蹴砕かれた。
+怒りの高圧水流弾を発射。リスは悲鳴を上げて木へ逃げた。
+
+夜が明けた。
+主人が出てきて伸びをした。
+陶器の破片を見て眉をひそめる。
+「おや、風でビリーが倒れたか？買い換えないとな」
+彼はビリーの破片をゴミ箱に掃いた。昨晩の彼の英雄的行動も知らずに。
+
+いいんだ。僕らは沈黙の守護者。
+この庭がある限り、最後の陶土の一片になるまで戦う。`,
+            ko: `인간들은 우릴 비웃는다. 빨간 모자, 바보 같은 웃음, 낚싯대.
+하지만 밤이 되고 인간이 자러 가면, 전쟁이 시작된다.
+
+"남동쪽 방어선 뚫렸다! 다람쥐 기병대다!" 통신병 노움이 소리쳤다.
+나는 낚싯대(위장이다. 사실 저격소총이다)를 버리고 튤립 참호로 뛰어들었다.
+"잔디밭을 위하여! 물만 주고 잡초는 안 뽑는 멍청한 주인을 위하여!"
+우리는 돌격했다.
+
+적의 호두 폭탄이 터졌다.
+전우인 올드 빌리(수레 미는 도자기 노움)가 뚱뚱한 다람쥐의 발차기에 박살 났다.
+분노하여 고압 물탄을 발사했다. 다람쥐는 비명을 지르며 나무 위로 도망쳤다.
+
+날이 밝았다.
+주인이 나와 기지개를 켰다.
+도자기 파편을 보고 찡그렸다.
+"이런, 바람에 빌리가 넘어졌네? 새로 사야겠군."
+그는 빌리의 파편을 쓰레기통에 쓸어 담았다. 어젯밤 그가 얼마나 용감했는지도 모르고.
+
+괜찮다. 우리는 침묵의 수호자.
+이 정원이 있는 한, 우리는 마지막 진흙 조각이 될 때까지 싸운다.`
+        }
+    },
+    {
+        id: 'math-slayer',
+        title: {
+            zh: '數學課本裡的勇者',
+            en: 'The Math Textbook Hero',
+            ja: '数学教科書の勇者',
+            ko: '수학 교과서 속의 용사'
+        },
+        author: {
+            zh: '被困的 X',
+            en: 'Trapped X',
+            ja: '囚われのX',
+            ko: '갇힌 X'
+        },
+        description: {
+            zh: '這不是傳說中的地下城。這是一道代數題。',
+            en: 'This is not a legendary dungeon. This is an algebra problem.',
+            ja: 'これは伝説のダンジョンではない。これは代数の問題だ。',
+            ko: '이건 전설의 던전이 아니다. 이건 대수학 문제다.'
+        },
+        tags: ['Comedy', 'Meta'],
+        content: {
+            zh: `我的名字是 X。是這個世界的勇者。
+但我被困住了。
+四周是巨大的、白色的牆壁，上面浮懸著黑色的符號：{ 2x + 5y = 20 }。
+
+我的面前是一隻名為「未知數 Y」的怪獸。它變幻莫測，有時候是 2，有時候是 3.5。
+「勇者 X！」智慧長老（括號）喊道，「要想前進，你必須求出自己的值！」
+我不懂啊！我只會揮劍！
+我砍向 Y。
+Y 分裂成了兩半，變成了 y/2。
+牆上的算式變了：{ 4x + 10(y/2) = 40 }。
+「你讓它變複雜了！」長老尖叫，「快把你的係數除掉！」
+
+這時，天空裂開了，一隻巨大的手拿著一根橡皮擦伸了進來。
+「這題算錯了，重來。」神的聲音（好像是一個叫小明的學生）說道。
+世界開始崩塌。
+「不！」我大喊，「我不想被擦掉！」
+但我還是消失了。
+下一秒，我重生了。
+這次的牆上寫著：{ 3x - 9 = 0 }。
+太好了，這次我是 3。我終於自由... 
+「小明，下一題。」
+該死。`,
+            en: `My name is X. Hero of this world.
+But I am trapped.
+Surrounded by white walls with floating black symbols: { 2x + 5y = 20 }.
+
+Before me is the monster "Variable Y". It shifts constantly. Sometimes 2, sometimes 3.5.
+"Hero X!" shouts Elder Bracket. "To proceed, you must find your Value!"
+I don't know! I only know sword fighting!
+I slash at Y.
+Y splits in half, becoming y/2.
+Equation shifts: { 4x + 10(y/2) = 40 }.
+"You complicated it!" Elder screams. "Divide your coefficient!"
+
+Suddenly, the sky cracks. A giant hand with an Eraser descends.
+"Wrong calculation. Restart." Voice of God (a student named Ming).
+World crumbles.
+"No!" I scream. "Don't erase me!"
+Gone.
+Next second, reborn.
+New wall: { 3x - 9 = 0 }.
+Yes! This time I am 3. Finally free...
+"Ming, next problem."
+Damn it.`,
+            ja: `私の名はX。この世界の勇者だ。
+だが閉じ込められた。
+白い壁に黒い記号が浮いている：{ 2x + 5y = 20 }。
+
+目の前には魔物「未知数Y」。変幻自在だ。2の時もあれば、3.5の時もある。
+「勇者Xよ！」長老カッコが叫ぶ。「進むには、己の値を求めよ！」
+知るか！私は剣しか振れん！
+Yを斬る。
+Yは真っ二つになり、y/2になった。
+式が変わる：{ 4x + 10(y/2) = 40 }。
+「ややこしくしたぞ！」長老が悲鳴を上げる。「係数で割るんじゃ！」
+
+その時、空が割れ、巨大な消しゴムを持った手が現れた。
+「計算ミスった。やり直し」神（ミンという学生）の声だ。
+世界が崩壊する。
+「やめろ！消されたくない！」
+私は消えた。
+次の瞬間、リスポーン。
+今度の壁：{ 3x - 9 = 0 }。
+よし！今回は3だ。ついに自由に...
+「ミン君、次の問題」
+クソッ。`,
+            ko: `내 이름은 X. 이 세계의 용사다.
+하지만 갇혔다.
+흰 벽에 검은 기호들이 떠다닌다: { 2x + 5y = 20 }.
+
+내 앞엔 괴물 '미지수 Y'가 있다. 변덕스럽다. 2였다가 3.5였다가 한다.
+"용사 X여!" 괄호 장로가 외친다. "나아가려면 네 값을 구하라!"
+내가 아냐! 난 칼질밖에 몰라!
+Y를 베었다.
+Y가 반으로 갈라져 y/2가 되었다.
+식이 변했다: { 4x + 10(y/2) = 40 }.
+"더 복잡하게 만들었잖아!" 장로가 비명을 지른다. "계수로 나누라고!"
+
+그때 하늘이 갈라지고 지우개를 든 거대한 손이 내려왔다.
+"계산 틀렸네. 다시." 신(민이라는 학생)의 목소리다.
+세계가 무너진다.
+"안 돼! 지워지기 싫어!"
+나는 사라졌다.
+다음 순간, 부활.
+이번 벽: { 3x - 9 = 0 }.
+좋아! 이번엔 3이다. 드디어 자유...
+"민이, 다음 문제."
+젠장.`
+        }
+    },
+    {
+        id: 'truth-camera',
+        title: {
+            zh: '真相相機',
+            en: 'The Truth Camera',
+            ja: '真実のカメラ',
+            ko: '진실의 카메라'
+        },
+        author: {
+            zh: '狗仔隊',
+            en: 'Paparazzi',
+            ja: 'パパラッチ',
+            ko: '파파라치'
+        },
+        description: {
+            zh: '這台相機拍不到外表，只能拍到靈魂。那個慈善家，在照片裡是一條毒蛇。',
+            en: 'This camera captures not the looks, but the soul. That philanthropist looks like a viper in the photo.',
+            ja: 'このカメラは外見ではなく、魂を写す。あの慈善家は、写真の中では毒蛇に見える。',
+            ko: '이 카메라는 외모가 아니라 영혼을 찍는다. 저 자선가는 사진 속에서 독사로 보인다.'
+        },
+        tags: ['Sci-Fi', 'Thriller'],
+        content: {
+            zh: `我在跳蚤市場淘到了這台老式相機。
+賣家警告我：「按下快門前，先確認你能承受真相。」
+
+我第一次試拍，是對著我的狗。
+照片洗出來，是一團溫暖的、金色的光芒，形狀像個天使。
+我笑了。果然是人類最好的朋友。
+
+第二次，我對著電視上的市長候選人拍了一張。他正在演講，承諾打造廉潔城市。
+照片裡，講台上站著一隻肥碩的、流著綠色口水的蟾蜍，舌頭正捲著一疊鈔票。
+我感到一陣噁心。
+
+第三次，我對著我的女朋友拍了一張。她正在廚房切水果。
+這是我最害怕的一張。萬一... 她也是怪物怎麼辦？
+照片顯影了。
+照片裡，是一個傷痕累累的小女孩，正抱著膝蓋哭泣，背上插著幾把刀。
+那是她過去受過的傷，她從未告訴我。
+而她的雙手，正變成翅膀，試圖為我遮風擋雨。
+
+我放下相機，走進廚房，從背後緊緊抱住了她。
+「怎麼了？」她驚訝地問。
+「沒事，」我說，「只是想抱抱妳的天使翅膀。」`,
+            en: `Found this vintage camera at a flea market.
+Seller warned: "Before you click, be sure you can handle the truth."
+
+First shot: My dog.
+Result: A warm, golden light shaped like an angel.
+I smiled. Truly man's best friend.
+
+Second shot: The Mayor candidate on TV. Giving a speech about clean goverment.
+Result: A fat, green-drooling toad on the podium, tongue wrapping around stacks of cash.
+I felt sick.
+
+Third shot: My girlfriend. Cutting fruit in the kitchen.
+I was scared. What if she is a monster too?
+Result developed.
+A scarred little girl, crying, hugging her knees. Several knives in her back.
+Her past traumas she never told me.
+But her hands were turning into wings, trying to shield me.
+
+I put down the camera. Hugged her from behind.
+"What's wrong?" she asked.
+"Nothing," I said. "Just hugging your angel wings."`,
+            ja: `蚤の市でこの古いカメラを見つけた。
+売り手は警告した。「シャッターを切る前に、真実に耐えられるか確認しろ」
+
+一枚目：愛犬。
+写真には、天使の形をした温かい金色の光が写っていた。
+笑った。やはり人類最良の友だ。
+
+二枚目：テレビの市長候補。クリーンな政治を約束していた。
+写真には、演台に立つ太った、緑の涎を垂らすヒキガエル。舌が札束を巻き取っていた。
+吐き気がした。
+
+三枚目：彼女。キッチンで果物を切っている。
+怖かった。もし彼女も怪物だったら？
+現像された。
+傷だらけの少女が、膝を抱えて泣いている。背中には数本のナイフ。
+彼女が言わなかった過去の傷だ。
+だが彼女の手は翼に変わり、私を守ろうとしていた。
+
+カメラを置き、彼女を後ろから抱きしめた。
+「どうしたの？」
+「何でもない」私は言った。「君の天使の翼を抱きしめたいだけさ」`,
+            ko: `벼룩시장에서 이 낡은 카메라를 샀다.
+판매자가 경고했다. "찍기 전에, 진실을 감당할 수 있는지 확인하시오."
+
+첫 번째: 내 개.
+사진엔 천사 모양의 따스한 금빛이 찍혔다.
+웃음이 나왔다. 과연 인간 최고의 친구다.
+
+두 번째: TV 속 시장 후보. 청렴한 도시를 약속하며 연설 중이었다.
+사진 속엔 연단 위에 녹색 침을 흘리는 뚱뚱한 두꺼비가 돈다발을 혀로 감고 있었다.
+역겨웠다.
+
+세 번째: 내 여자친구. 부엌에서 과일을 깎고 있었다.
+가장 무서웠다. 그녀도 괴물이면 어쩌지?
+사진이 현상되었다.
+상처투성이 어린 소녀가 무릎을 안고 울고 있다. 등에는 칼이 몇 개 꽂혀 있고.
+내게 말하지 않은 과거의 상처들.
+하지만 그녀의 손은 날개로 변해 나를 보호하려 하고 있었다.
+
+카메라를 내려놓고 그녀를 뒤에서 안았다.
+"왜 그래?" 그녀가 물었다.
+"아니," 내가 말했다. "그냥 네 천사 날개를 안아주고 싶어서."`
+        }
+    },
+    {
+        id: 'dream-streamer',
+        title: {
+            zh: '夢境直播主',
+            en: 'The Dream Streamer',
+            ja: '夢配信者',
+            ko: '꿈 스트리머'
+        },
+        author: {
+            zh: '睡神',
+            en: 'Hypnos',
+            ja: 'ヒュプノス',
+            ko: '히프노스'
+        },
+        description: {
+            zh: '失眠嗎？訂閱我的頻道，連接我的腦波，今晚帶你去飛翔。',
+            en: 'Insomnia? Subscribe to my channel, link to my brainwaves. Tonight, we fly.',
+            ja: '不眠症ですか？チャンネル登録して脳波をリンクして。今夜は空を飛びましょう。',
+            ko: '불면증이세요? 제 채널을 구독하고 뇌파를 연결하세요. 오늘 밤은 비행입니다.'
+        },
+        tags: ['Sci-Fi', 'Cyberpunk'],
+        content: {
+            zh: `我是 Luna，全網排名第一的「夢境直播主」。
+只要戴上神經連結裝置，觀眾就能共享我的夢。
+我的夢境色彩斑斕，邏輯清晰，而且——我可以控制夢。
+
+今晚的主題是「水晶海豚騎行」。
+我在夢中的紫色海洋裡暢遊，成千上萬的付費訂閱者在我的意識裡發出驚嘆。
+斗內提示音不斷響起（在夢裡聽起來像星星碎裂的聲音）。
+
+突然，海面上出現了一個黑洞。
+這不在劇本裡。我試圖用意志力消除它，但它反而變大了。
+黑洞裡爬出了無數隻焦黑的手，抓住了我的海豚。
+觀眾們興奮了：「這是隱藏劇情嗎？太逼真了！」
+「Luna 好厲害！這是惡夢模式嗎？」
+
+只有我知道，這不是特效。
+有人——或者有東西，駭進了我的大腦。
+「找到了...」一個冰冷的聲音在所有聯網觀眾的腦海中響起，「這就是人類的集體潛意識入口。」
+
+我尖叫著醒來，拔掉了插頭。
+但我看著窗外，天空變成了紫色。
+街上游著水晶海豚。
+我醒了... 對吧？`,
+            en: `I am Luna, #1 "Dream Streamer".
+Wear the NeuroLink, and viewers share my dreams.
+My dreams are vivid, lucid, and controllable.
+
+Tonight's theme: "Crystal Dolphin Ride".
+I swam in a purple dream ocean. Thousands of paid subs gasped in my mind.
+Donation alerts chimed (sounding like breaking stars).
+
+Suddenly, a black hole opened in the sea.
+Not in the script. I tried to delete it with willpower, but it grew.
+Charred hands crawled out, grabbing my dolphin.
+Viewers went wild: "Hidden event? So realistic!"
+"Luna is pro! Nightmare mode?"
+
+Only I knew. This wasn't FX.
+Someone—or something—hacked my brain.
+"Found it..." A cold voice echoed in every connected viewer's mind. "The entrance to Human Collective Unconsciousness."
+
+I screamed, woke up, yanked the plug.
+Looked out the window. Sky was purple.
+Crystal dolphins swam in the street.
+I am awake... right?`,
+            ja: `私はルナ、ランク1位の「夢配信者」。
+ニューロリンクをつければ、視聴者は私の夢を共有できる。
+私の夢は鮮明で、明晰で、制御可能だ。
+
+今夜のテーマ：「クリスタル・ドルフィンに乗って」。
+夢の紫の海を泳ぐ。数千の有料会員が私の意識の中で感嘆する。
+投げ銭の音が響く（星が砕けるような音だ）。
+
+突然、海にブラックホールが開いた。
+台本にない。消そうとしたが、逆に大きくなった。
+黒焦げの手が無数に這い出し、イルカを掴んだ。
+視聴者は興奮した。「隠しイベント？リアルすぎ！」
+「ルナすげえ！悪夢モードか？」
+
+私だけが知っている。これはエフェクトじゃない。
+誰かが――何かが、私の脳をハッキングした。
+「見つけた...」冷たい声が全視聴者の脳に響く。「これが人類の集合的無意識への入り口か」
+
+叫んで目覚め、プラグを抜いた。
+窓の外を見た。空が、紫色だ。
+通りをクリスタル・ドルフィンが泳いでいる。
+私、起きたんだよね...？`,
+            ko: `나는 루나, 랭킹 1위 '꿈 스트리머'.
+뉴로링크를 쓰면 시청자는 내 꿈을 공유할 수 있다.
+내 꿈은 선명하고, 논리적이며, 내가 조조종할 수 있다.
+
+오늘 밤 주제: "크리스털 돌고래 타기".
+보랏빛 꿈의 바다를 헤엄쳤다. 수천 명의 유료 구독자가 내 의식 속에서 탄성을 질렀다.
+후원 알림음이 계속 울렸다(별이 부서지는 소리 같다).
+
+갑자기 바다에 블랙홀이 열렸다.
+대본에 없다. 의지로 지우려 했지만 오히려 커졌다.
+검게 탄 손들이 기어 나와 내 돌고래를 붙잡았다.
+시청자들이 열광했다. "히든 이벤트? 완전 리얼해!"
+"루나 쩐다! 악몽 모드임?"
+
+나만 안다. 이건 특수효과가 아니다.
+누군가—혹은 무언가가 내 뇌를 해킹했다.
+"찾았다..." 차가운 목소리가 연결된 모든 시청자의 머릿속에 울렸다. "이곳이 인류 집단 무의식의 입구군."
+
+비명을 지르며 깨어나 플러그를 뽑았다.
+창밖을 봤다. 하늘이 보라색이다.
+거리에 크리스털 돌고래가 헤엄치고 있다.
+나 깬 거... 맞지?`
+        }
     }
 ];
