@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { comics } from '../comics';
 import { novels } from '../novels';
-import { SEOHead } from './SEOHead';
+import SEOHead from './SEOHead';
 import { AdPlaceholder } from './Monetization';
 import { LanguageSelector } from './LanguageSelector';
 import './GalleryHome.css';
