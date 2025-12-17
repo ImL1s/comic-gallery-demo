@@ -1866,7 +1866,7 @@ He dissolved into fireflies and floated away.
 그는 반딧불이처럼 변해 날아갔다.
 “다음 분.” 들어오는 노인을 보며 내가 말했다.`
         }
-        ,
+    },
     {
         id: 'emotion-jar',
         title: {
